@@ -1,0 +1,2957 @@
+Rank,Domain,Type,EU,DNS_Issue,Label_final_EUIP,Label_final_NYIP
+1,google.com,Top1k,FALSE,FALSE,full,no
+2,microsoft.com,Top1k,FALSE,FALSE,full,no
+3,mail.ru,Top1k,FALSE,FALSE,manage,manage
+4,dzen.ru,Top1k,FALSE,FALSE,notice,notice
+5,facebook.com,Top1k,FALSE,FALSE,full-m,no
+6,apple.com,Top1k,FALSE,FALSE,no,no
+7,root-servers.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+8,amazonaws.com,Top1k,FALSE,FALSE,no,no
+9,youtube.com,Top1k,FALSE,FALSE,full,no
+10,googleapis.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+11,twitter.com,Top1k,FALSE,FALSE,full,no
+12,a-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+13,akamai.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+14,cloudflare.com,Top1k,FALSE,FALSE,full xa,no
+15,instagram.com,Top1k,FALSE,FALSE,full-m,no
+16,azure.com,Top1k,FALSE,FALSE,full,no
+17,gstatic.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+18,office.com,Top1k,FALSE,FALSE,full,no
+19,akamaiedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+20,linkedin.com,Top1k,FALSE,FALSE,full,no
+21,live.com,Top1k,FALSE,FALSE,full,no
+22,tiktokcdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+23,googletagmanager.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+24,googlevideo.com,Top1k,FALSE,FALSE,no,no
+25,amazon.com,Top1k,FALSE,FALSE,no,no
+26,akadns.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+27,windowsupdate.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+28,fbcdn.net,Top1k,FALSE,FALSE,full-m,no
+29,doubleclick.net,Top1k,FALSE,FALSE,full,no
+30,wikipedia.org,Top1k,FALSE,FALSE,no,no
+31,googleusercontent.com,Top1k,FALSE,FALSE,full,Not Reachable - Manual
+32,microsoftonline.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+33,bing.com,Top1k,FALSE,FALSE,full,no
+34,apple-dns.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+35,trafficmanager.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+36,googlesyndication.com,Top1k,FALSE,FALSE,full,no
+37,wordpress.org,Top1k,FALSE,FALSE,no,no
+38,office.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+39,workers.dev,Top1k,FALSE,FALSE,no,no
+40,l-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+41,fastly.net,Top1k,FALSE,FALSE,full,manage xa
+42,github.com,Top1k,FALSE,FALSE,no,no
+43,youtu.be,TopEU,TRUE,FALSE,full,no
+44,icloud.com,Top1k,FALSE,FALSE,no,no
+45,gtld-servers.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+46,t-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+47,aaplimg.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+48,sharepoint.com,Top1k,FALSE,FALSE,full,no
+49,netflix.com,Top1k,FALSE,FALSE,full xa,no
+50,whatsapp.net,Top1k,FALSE,FALSE,manage,no
+51,pinterest.com,Top1k,FALSE,FALSE,no,no
+52,digicert.com,Top1k,FALSE,FALSE,manage,manage
+53,yahoo.com,Top1k,FALSE,FALSE,full,no
+54,s-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+55,appsflyersdk.com,Top1k,FALSE,FALSE,no,no
+56,cloudfront.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+57,adobe.com,Top1k,FALSE,FALSE,no,no
+58,domaincontrol.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+59,goo.gl,Top1k,FALSE,FALSE,Not Reachable - Manual,no
+60,vimeo.com,Top1k,FALSE,FALSE,full,no
+61,windows.net,Top1k,FALSE,FALSE,full,no
+62,spotify.com,Top1k,FALSE,FALSE,full,no
+63,cdn77.org,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+64,skype.com,Top1k,FALSE,FALSE,full,no
+65,tiktokv.com,Top1k,FALSE,FALSE,full,no
+66,whatsapp.com,Top1k,FALSE,FALSE,manage,no
+67,gvt2.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+68,bit.ly,Top1k,FALSE,FALSE,manage xa,manage xa
+69,msn.com,Top1k,FALSE,FALSE,full,no
+70,google-analytics.com,Top1k,FALSE,FALSE,full,no
+71,gvt1.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+72,wordpress.com,Top1k,FALSE,FALSE,manage,no
+73,wac-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+74,cloudflare.net,Top1k,FALSE,FALSE,full xa,no
+75,zoom.us,Top1k,FALSE,FALSE,full xa,SETTINGS ONLY xa
+76,ntp.org,Top1k,FALSE,FALSE,no,no
+77,e2ro.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+78,bytefcdn-oversea.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+79,nic.ru,Top1k,FALSE,FALSE,notice,notice
+80,tiktok.com,Top1k,FALSE,FALSE,no,no
+81,office365.com,Top1k,FALSE,FALSE,full,no
+82,gandi.net,Top1k,FALSE,FALSE,no,no
+83,qq.com,Top1k,FALSE,FALSE,no,no
+84,yandex.net,Top1k,FALSE,FALSE,full,full
+85,roblox.com,Top1k,FALSE,FALSE,full,no
+86,ytimg.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+87,blogspot.com,Top1k,FALSE,FALSE,no,no
+88,edgekey.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+89,mozilla.org,Top1k,FALSE,FALSE,no,no
+90,cloudflare-dns.com,Top1k,FALSE,FALSE,no,no
+91,x.com,Top1k,FALSE,FALSE,full,no
+92,reddit.com,Top1k,FALSE,FALSE,Not Reachable - Manual,no
+93,opera.com,Top1k,FALSE,FALSE,choices,no
+94,tiktokcdn-eu.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+95,googleadservices.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+96,unity3d.com,Top1k,FALSE,FALSE,full xa,full xa
+97,cdninstagram.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+98,samsung.com,Top1k,FALSE,FALSE,x,notice
+99,baidu.com,Top1k,FALSE,FALSE,no,no
+100,europa.eu,TopEU,TRUE,FALSE,full-m,full-m
+101,ax-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+102,intuit.com,Top1k,FALSE,FALSE,no,no
+103,snapchat.com,Top1k,FALSE,FALSE,no,no
+104,a2z.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+105,mts.ru,Top1k,FALSE,FALSE,manage,manage
+106,amazon-adsystem.com,Top1k,FALSE,FALSE,no,no
+107,googledomains.com,Top1k,FALSE,FALSE,no,no
+108,bytefcdn-ttpeu.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+109,wa.me,Top1k,FALSE,FALSE,no,no
+110,t.me,Top1k,FALSE,FALSE,no,no
+111,aiv-cdn.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+112,msedge.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+113,outlook.com,Top1k,FALSE,FALSE,full,no
+114,adnxs.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+115,nih.gov,Top1k,FALSE,FALSE,no,no
+116,vk.com,Top1k,FALSE,FALSE,no,no
+117,tumblr.com,Top1k,FALSE,FALSE,manage,no
+118,gravatar.com,Top1k,FALSE,FALSE,manage,no
+119,upcbroadband.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+120,macromedia.com,Top1k,FALSE,FALSE,no,no
+121,dropbox.com,Top1k,FALSE,FALSE,no,no
+122,rocket-cdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+123,ui.com,Top1k,FALSE,FALSE,manage xa,no
+124,github.io,Top1k,FALSE,FALSE,no,no
+125,criteo.com,Top1k,FALSE,FALSE,full,notice
+126,windows.com,Top1k,FALSE,FALSE,full,no
+127,spo-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+128,app-measurement.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+129,sentry.io,Top1k,FALSE,FALSE,no,no
+130,app-analytics-services.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+131,telecid.ru,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+132,dns.google,Top1k,FALSE,FALSE,no,no
+133,nytimes.com,Top1k,FALSE,FALSE,full,no
+134,lencr.org,Top1k,FALSE,FALSE,no,no
+135,userapi.com,Top1k,FALSE,FALSE,no,no
+136,pki.goog,Top1k,FALSE,FALSE,notice,no
+137,telekom.de,TopEU,TRUE,FALSE,no,full
+138,nist.gov,Top1k,FALSE,FALSE,no,no
+139,apache.org,Top1k,FALSE,FALSE,no,no
+140,forms.gle,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+141,epicgames.com,Top1k,FALSE,FALSE,full xa,no
+142,paypal.com,Top1k,FALSE,FALSE,full,full
+143,dual-s-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+144,rbxcdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+145,msftncsi.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+146,edgesuite.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+147,flickr.com,Top1k,FALSE,FALSE,full choices,notice
+148,ttlivecdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+149,ggpht.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+150,xiaomi.com,Top1k,FALSE,FALSE,full,no
+151,b-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+152,vtwenty.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+153,medium.com,Top1k,FALSE,FALSE,notice,no
+154,applovin.com,Top1k,FALSE,FALSE,full xa,full xa
+155,one.one,Top1k,FALSE,FALSE,full,full
+156,adriver.ru,Top1k,FALSE,FALSE,no,no
+157,meraki.com,Top1k,FALSE,FALSE,no,SETTINGS ONLY xa
+158,miit.gov.cn,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+159,health.mil,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+160,casalemedia.com,Top1k,FALSE,FALSE,full xa,manage xa
+161,cnn.com,Top1k,FALSE,FALSE,full,no
+162,forbes.com,Top1k,FALSE,FALSE,no,no
+163,archive.org,Top1k,FALSE,FALSE,no,no
+164,rubiconproject.com,Top1k,FALSE,FALSE,no,no
+165,steamserver.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+166,dnsowl.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+167,myfritz.net,Top1k,FALSE,FALSE,no,no
+168,nginx.org,Top1k,FALSE,FALSE,no,no
+169,t.co,Top1k,FALSE,FALSE,no,no
+170,soundcloud.com,Top1k,FALSE,FALSE,full,no
+171,aliyuncs.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+172,okcdn.ru,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+173,mangosip.ru,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+174,tiktokcdn-us.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+175,nflxso.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+176,omtrdc.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+177,webex.com,Top1k,FALSE,FALSE,full,SETTINGS ONLY xa
+178,theguardian.com,Top1k,FALSE,FALSE,full,ambiguous
+179,t-online.de,TopEU,TRUE,FALSE,paywall,paywall
+180,doubleverify.com,Top1k,FALSE,FALSE,full,no
+181,akamaized.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+182,cdn-apple.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+183,shifen.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+184,adobe.io,Top1k,FALSE,FALSE,full,no
+185,wildberries.ru,Top1k,FALSE,FALSE,no,no
+186,amazon.dev,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+187,nginx.com,Top1k,FALSE,FALSE,full,no
+188,w3.org,Top1k,FALSE,FALSE,no,no
+189,azurewebsites.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+190,demdex.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+191,android.com,Top1k,FALSE,FALSE,full,no
+192,sciencedirect.com,Top1k,FALSE,FALSE,no,no
+193,yandex.ru,Top1k,FALSE,FALSE,notice,notice
+194,taboola.com,Top1k,FALSE,FALSE,full choices,no
+195,miui.com,Top1k,FALSE,FALSE,no,no
+196,gmail.com,Top1k,FALSE,FALSE,no,no
+197,qlivecdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+198,f5.com,Top1k,FALSE,FALSE,full,no
+199,akamaihd.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+200,registrar-servers.com,Top1k,FALSE,FALSE,no,no
+201,telekom.net,Top1k,FALSE,FALSE,full,full
+202,amazonvideo.com,Top1k,FALSE,FALSE,full,no
+203,kaspersky.com,Top1k,FALSE,FALSE,full choices,notice
+204,bbc.co.uk,TopEU,TRUE,FALSE,no,no
+205,bbc.com,Top1k,FALSE,FALSE,no,no
+206,creativecommons.org,Top1k,FALSE,FALSE,no,no
+207,ebay.com,Top1k,FALSE,FALSE,full,no
+208,jomodns.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+209,twitch.tv,Top1k,FALSE,FALSE,full,no
+210,cisco.com,Top1k,FALSE,FALSE,full,SETTINGS ONLY xa
+211,trbcdn.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+212,roku.com,Top1k,FALSE,FALSE,full,no
+213,ozon.ru,Top1k,FALSE,FALSE,no,no
+214,imdb.com,Top1k,FALSE,FALSE,full,no
+215,mit.edu,Top1k,FALSE,FALSE,no,no
+216,pubmatic.com,Top1k,FALSE,FALSE,full,notice
+217,msftconnecttest.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+218,sourceforge.net,Top1k,FALSE,FALSE,full,no
+219,b-cdn.net,Top1k,FALSE,FALSE,no,no
+220,3gppnetwork.org,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+221,edgecdn.ru,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+222,shopify.com,Top1k,FALSE,FALSE,full-m,no
+223,2mdn.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+224,scorecardresearch.com,Top1k,FALSE,FALSE,no,no
+225,researchgate.net,Top1k,FALSE,FALSE,full,notice
+226,salesforce.com,Top1k,FALSE,FALSE,full,no
+227,ivi.ru,Top1k,FALSE,FALSE,notice,notice
+228,online.net,Top1k,FALSE,FALSE,full,full
+229,ubuntu.com,Top1k,FALSE,FALSE,manage,manage
+230,my.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+231,cedexis.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+232,who.int,Top1k,FALSE,FALSE,no,no
+233,comcast.net,Top1k,FALSE,FALSE,no,no
+234,youtube-nocookie.com,Top1k,FALSE,FALSE,no,no
+235,azureedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+236,dns.jp,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+237,doi.org,Top1k,FALSE,FALSE,no,no
+238,byteoversea.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+239,hubspot.com,Top1k,FALSE,FALSE,full xa,full xa
+240,facebook.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+241,wsdvs.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+242,linktr.ee,TopEU,TRUE,FALSE,full,SETTINGS ONLY xa
+243,nr-data.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+244,wixsite.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+245,canva.com,Top1k,FALSE,FALSE,full,no
+246,pv-cdn.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+247,googleblog.com,Top1k,FALSE,FALSE,no,no
+248,nasa.gov,Top1k,FALSE,FALSE,no,no
+249,slack.com,Top1k,FALSE,FALSE,full,no
+250,launchdarkly.com,Top1k,FALSE,FALSE,full,notice
+251,tinyurl.com,Top1k,FALSE,FALSE,manage,notice
+252,wikimedia.org,Top1k,FALSE,FALSE,no,no
+253,hp.com,Top1k,FALSE,FALSE,full,manage xa
+254,example.com,Top1k,FALSE,FALSE,no,no
+255,ksyuncdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+256,issuu.com,Top1k,FALSE,FALSE,full choices,no
+257,godaddy.com,Top1k,FALSE,FALSE,full xa,no
+258,openx.net,Top1k,FALSE,FALSE,no,no
+259,cdngslb.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+260,dzeninfra.ru,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+261,businessinsider.com,Top1k,FALSE,FALSE,full,no
+262,oracle.com,Top1k,FALSE,FALSE,full,no
+263,discord.com,Top1k,FALSE,FALSE,no,no
+264,cdc.gov,Top1k,FALSE,FALSE,no,no
+265,ampproject.org,Top1k,FALSE,FALSE,notice,no
+266,weebly.com,Top1k,FALSE,FALSE,full,no
+267,taobao.com,Top1k,FALSE,FALSE,no,no
+268,go.com,Top1k,FALSE,FALSE,no,no
+269,avast.com,Top1k,FALSE,FALSE,full,manage
+270,harvard.edu,Top1k,FALSE,FALSE,no,no
+271,pangle.io,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+272,xserver.jp,Top1k,FALSE,FALSE,no,no
+273,discord.gg,Top1k,FALSE,FALSE,no,no
+274,opendns.com,Top1k,FALSE,FALSE,full,SETTINGS ONLY xa
+275,crashlytics.com,Top1k,FALSE,FALSE,full,no
+276,espn.com,Top1k,FALSE,FALSE,x,no
+277,3lift.com,Top1k,FALSE,FALSE,no,no
+278,media-amazon.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+279,reuters.com,Top1k,FALSE,FALSE,full,no
+280,adsrvr.org,Top1k,FALSE,FALSE,no,no
+281,ttdns2.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+282,appsflyer.com,Top1k,FALSE,FALSE,full,notice
+283,tiktokv.us,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+284,mzstatic.com,Top1k,FALSE,FALSE,no,no
+285,mtgglobals.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+286,stripe.com,Top1k,FALSE,FALSE,full,no
+287,gov.uk,TopEU,TRUE,FALSE,full,full
+288,wiley.com,Top1k,FALSE,FALSE,full,notice
+289,washingtonpost.com,Top1k,FALSE,FALSE,full,no
+290,google.com.br,Top1k,FALSE,FALSE,full,no
+291,amazon.co.uk,TopEU,TRUE,FALSE,full,full
+292,dailymail.co.uk,TopEU,TRUE,FALSE,paywall,no
+293,samsungcloud.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+294,sharethrough.com,Top1k,FALSE,FALSE,manage,manage
+295,forter.com,Top1k,FALSE,FALSE,full xa,full xa
+296,media.net,Top1k,FALSE,FALSE,full,no
+297,slideshare.net,Top1k,FALSE,FALSE,full,notice
+298,drom.ru,Top1k,FALSE,FALSE,no,no
+299,alibabadns.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+300,bidswitch.net,Top1k,FALSE,FALSE,no,no
+301,steampowered.com,Top1k,FALSE,FALSE,no,no
+302,salesforceliveagent.com,Top1k,FALSE,FALSE,full,no
+303,openai.com,Top1k,FALSE,FALSE,full-m,no
+304,booking.com,Top1k,FALSE,FALSE,full,no
+305,samsungqbe.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+306,appcenter.ms,Top1k,FALSE,FALSE,no,no
+307,ring.com,Top1k,FALSE,FALSE,manage,manage
+308,alicdn.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+309,tradingview.com,Top1k,FALSE,FALSE,no,no
+310,bloomberg.com,Top1k,FALSE,FALSE,full,notice
+311,nature.com,Top1k,FALSE,FALSE,full,notice
+312,arubanetworks.com,Top1k,FALSE,FALSE,no,no
+313,ibm.com,Top1k,FALSE,FALSE,full,manage xa
+314,usatoday.com,Top1k,FALSE,FALSE,full,no
+315,weibo.com,Top1k,FALSE,FALSE,no,no
+316,netangels.ru,Top1k,FALSE,FALSE,no,no
+317,azurefd.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+318,wsj.com,Top1k,FALSE,FALSE,manage,no
+319,jsdelivr.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+320,googletagservices.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+321,ripn.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+322,atomile.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+323,playstation.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+324,un.org,Top1k,FALSE,FALSE,no,no
+325,dailymotion.com,Top1k,FALSE,FALSE,x,notice
+326,adsafeprotected.com,Top1k,FALSE,FALSE,no,no
+327,branch.io,Top1k,FALSE,FALSE,full xa,full xa
+328,worldfcdn2.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+329,vedcdnlb.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+330,smartadserver.com,Top1k,FALSE,FALSE,full,full
+331,nease.net,Top1k,FALSE,FALSE,Not Reachable - Manual,no
+332,inmobi.com,Top1k,FALSE,FALSE,full,full
+333,springer.com,Top1k,FALSE,FALSE,full,notice
+334,etsy.com,Top1k,FALSE,FALSE,manage,no
+335,reg.ru,Top1k,FALSE,FALSE,notice,notice
+336,weather.com,Top1k,FALSE,FALSE,no,SETTINGS ONLY xa
+337,php.net,Top1k,FALSE,FALSE,no,no
+338,twimg.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+339,shalltry.com,Top1k,FALSE,FALSE,no,no
+340,dotomi.com,Top1k,FALSE,FALSE,full,manage xa
+341,wbx2.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+342,vungle.com,Top1k,FALSE,FALSE,full-m xa,full-m xa
+343,fastly-edge.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+344,wp.com,Top1k,FALSE,FALSE,manage,no
+345,chatgpt.com,Top1k,FALSE,FALSE,no,no
+346,samsungcloudsolution.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+347,allawnos.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+348,mcafee.com,Top1k,FALSE,FALSE,no,no
+349,google.de,TopEU,TRUE,FALSE,full,no
+350,douyincdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+351,force.com,Top1k,FALSE,FALSE,full,no
+352,mi.com,Top1k,FALSE,FALSE,full,no
+353,ea.com,Top1k,FALSE,FALSE,full,no
+354,1c.ru,Top1k,FALSE,FALSE,no,no
+355,list-manage.com,Top1k,FALSE,FALSE,no,no
+356,liadm.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+357,adtrafficquality.google,Top1k,FALSE,FALSE,full-m,no
+358,creativecdn.com,Top1k,FALSE,FALSE,no,no
+359,clarity.ms,Top1k,FALSE,FALSE,full,no
+360,zendesk.com,Top1k,FALSE,FALSE,full,no
+361,spov-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+362,autodesk.com,Top1k,FALSE,FALSE,full,no
+363,gnu.org,Top1k,FALSE,FALSE,no,no
+364,grammarly.com,Top1k,FALSE,FALSE,full xa,no
+365,dell.com,Top1k,FALSE,FALSE,full,no
+366,stanford.edu,Top1k,FALSE,FALSE,no,no
+367,sc-cdn.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+368,outbrain.com,Top1k,FALSE,FALSE,full,no
+369,unsplash.com,Top1k,FALSE,FALSE,full xa,no
+370,id5-sync.com,Top1k,FALSE,FALSE,no,no
+371,mozilla.com,Top1k,FALSE,FALSE,no,no
+372,cpanel.net,Top1k,FALSE,FALSE,preselected,preselected
+373,stackoverflow.com,Top1k,FALSE,FALSE,full,full
+374,pages.dev,Top1k,FALSE,FALSE,full xa,no
+375,elasticbeanstalk.com,Top1k,FALSE,FALSE,no,no
+376,yximgs.com,Top1k,FALSE,FALSE,full,Not Reachable - Manual
+377,independent.co.uk,TopEU,TRUE,FALSE,manage,no
+378,notamedia.ru,Top1k,FALSE,FALSE,notice,notice
+379,pixabay.com,Top1k,FALSE,FALSE,full xa,no
+380,cnbc.com,Top1k,FALSE,FALSE,full,no
+381,gosuslugi.ru,Top1k,FALSE,FALSE,no,no
+382,dnsmadeeasy.com,Top1k,FALSE,FALSE,manage,manage
+383,checkpoint.com,Top1k,FALSE,FALSE,full xa,manage xa
+384,ibyteimg.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+385,duckdns.org,Top1k,FALSE,FALSE,no,no
+386,moe.video,Top1k,FALSE,FALSE,no,no
+387,xcal.tv,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+388,eventbrite.com,Top1k,FALSE,FALSE,full,no
+389,heytapdl.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+390,consultant.ru,Top1k,FALSE,FALSE,no,no
+391,static.microsoft,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+392,tds.net,Top1k,FALSE,FALSE,manage,manage
+393,aliexpress.com,Top1k,FALSE,FALSE,full,no
+394,google.co.uk,TopEU,TRUE,FALSE,full,no
+395,ttvnw.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+396,npr.org,Top1k,FALSE,FALSE,full,no
+397,statista.com,Top1k,FALSE,FALSE,full,full
+398,criteo.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+399,tp-link.com,Top1k,FALSE,FALSE,choices xa,choices xa
+400,quora.com,Top1k,FALSE,FALSE,full xa,no
+401,mynetname.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+402,indeed.com,Top1k,FALSE,FALSE,full,no
+403,eset.com,Top1k,FALSE,FALSE,manage,no
+404,kaspersky-labs.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+405,entrust.net,Top1k,FALSE,FALSE,full,notice
+406,online-metrix.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+407,foxnews.com,Top1k,FALSE,FALSE,no,no
+408,myshopify.com,Top1k,FALSE,FALSE,no,no
+409,sohu.com,Top1k,FALSE,FALSE,no,no
+410,xboxlive.com,Top1k,FALSE,FALSE,full,no
+411,indexww.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+412,ok.ru,Top1k,FALSE,FALSE,manage,manage
+413,huawei.com,Top1k,FALSE,FALSE,notice,notice
+414,noaa.gov,Top1k,FALSE,FALSE,no,no
+415,sfx.ms,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+416,amazonalexa.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+417,goodreads.com,Top1k,FALSE,FALSE,no,no
+418,rambler.ru,Top1k,FALSE,FALSE,no,no
+419,t-mobile.com,Top1k,FALSE,FALSE,no,no
+420,globo.com,Top1k,FALSE,FALSE,manage,no
+421,isnssdk.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+422,gcdn.co,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+423,nstld.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+424,cloud.microsoft,Top1k,FALSE,FALSE,full,no
+425,capcutapi.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+426,amazon.de,TopEU,TRUE,FALSE,no,full
+427,nvidia.com,Top1k,FALSE,FALSE,full,manage
+428,ctdns.cn,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+429,deepintent.com,Top1k,FALSE,FALSE,full-m xa,full-m xa
+430,g.page,Top1k,FALSE,FALSE,full,no
+431,intel.com,Top1k,FALSE,FALSE,full xa,no
+432,walmart.com,Top1k,FALSE,FALSE,no,no
+433,giphy.com,Top1k,FALSE,FALSE,full,manage
+434,avcdn.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+435,byteoversea.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+436,yahoo.co.jp,Top1k,FALSE,FALSE,no,no
+437,telegram.org,Top1k,FALSE,FALSE,no,no
+438,inner-active.mobi,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+439,aliyun.com,Top1k,FALSE,FALSE,full,full
+440,bilibili.com,Top1k,FALSE,FALSE,no,no
+441,alibaba.com,Top1k,FALSE,FALSE,no,no
+442,debian.org,Top1k,FALSE,FALSE,no,no
+443,teamviewer.com,Top1k,FALSE,FALSE,full,manage
+444,goskope.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+445,telegraph.co.uk,TopEU,TRUE,FALSE,full,no
+446,time.com,Top1k,FALSE,FALSE,full-m,no
+447,cdn20.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+448,sc-gw.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+449,addtoany.com,Top1k,FALSE,FALSE,no,no
+450,amzn.to,Top1k,FALSE,FALSE,no,no
+451,temu.com,Top1k,FALSE,FALSE,full,no
+452,launchpad.net,Top1k,FALSE,FALSE,no,no
+453,rlcdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+454,imgsmail.ru,Top1k,FALSE,FALSE,manage,manage
+455,cqloud.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+456,duckduckgo.com,Top1k,FALSE,FALSE,no,no
+457,firetvcaptiveportal.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+458,gamepass.com,Top1k,FALSE,FALSE,full,no
+459,sophos.com,Top1k,FALSE,FALSE,full xa,no
+460,naver.com,Top1k,FALSE,FALSE,no,no
+461,ngenix.net,Top1k,FALSE,FALSE,notice,no
+462,telegram.me,Top1k,FALSE,FALSE,no,no
+463,braze.com,Top1k,FALSE,FALSE,full,SETTINGS ONLY xa
+464,wix.com,Top1k,FALSE,FALSE,full xa,no
+465,wired.com,Top1k,FALSE,FALSE,manage,no
+466,verisign.com,Top1k,FALSE,FALSE,full,manage xa
+467,blogger.com,Top1k,FALSE,FALSE,no,no
+468,beian.gov.cn,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+469,mikrotik.com,Top1k,FALSE,FALSE,no,no
+470,comfortel.pro,Top1k,FALSE,FALSE,no,no
+471,hicloud.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+472,speedtest.net,Top1k,FALSE,FALSE,full,no
+473,scribd.com,Top1k,FALSE,FALSE,full,notice
+474,surveymonkey.com,Top1k,FALSE,FALSE,full,manage
+475,behance.net,Top1k,FALSE,FALSE,full,no
+476,kwai.net,Top1k,FALSE,FALSE,full xa,no
+477,adobe.net,Top1k,FALSE,FALSE,no,no
+478,mayoclinic.org,Top1k,FALSE,FALSE,no,no
+479,cdnbuild.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+480,cnet.com,Top1k,FALSE,FALSE,full,no
+481,duolingo.com,Top1k,FALSE,FALSE,full,no
+482,ys7.com,Top1k,FALSE,FALSE,Not Reachable - Manual,no
+483,calendly.com,Top1k,FALSE,FALSE,full,full xa
+484,safebrowsing.apple,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+485,360yield.com,Top1k,FALSE,FALSE,no,no
+486,imcmdb.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+487,hichina.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+488,indiatimes.com,Top1k,FALSE,FALSE,full,no
+489,xhamster.com,Top1k,FALSE,FALSE,full,no
+490,mediatek.com,Top1k,FALSE,FALSE,no,no
+491,adform.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+492,squarespace.com,Top1k,FALSE,FALSE,full,no
+493,netease.com,Top1k,FALSE,FALSE,no,no
+494,vkuser.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+495,onlinepbx.ru,Top1k,FALSE,FALSE,notice,notice
+496,mega.co.nz,Top1k,FALSE,FALSE,full,manage
+497,aol.com,Top1k,FALSE,FALSE,full,no
+498,trendmicro.com,Top1k,FALSE,FALSE,manage xa,manage xa
+499,ft.com,Top1k,FALSE,FALSE,manage,manage
+500,google.com.hk,Top1k,FALSE,FALSE,full,no
+501,dnspod.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+502,ovscdns.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+503,yahoodns.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+504,chinamobile.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+505,ted.com,Top1k,FALSE,FALSE,full,no
+506,nflximg.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+507,disqus.com,Top1k,FALSE,FALSE,no,no
+508,hotjar.com,Top1k,FALSE,FALSE,full,no
+509,lenta.com,Top1k,FALSE,FALSE,no,notice
+510,sentinelone.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+511,uol.com.br,Top1k,FALSE,FALSE,manage xa,notice
+512,nypost.com,Top1k,FALSE,FALSE,manage,notice
+513,trustpilot.com,Top1k,FALSE,FALSE,full,manage xa
+514,att.net,Top1k,FALSE,FALSE,full,no
+515,tencent-cloud.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+516,msidentity.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+517,google.ca,Top1k,FALSE,FALSE,full,no
+518,amazontrust.com,Top1k,FALSE,FALSE,no,no
+519,icloud-content.com,Top1k,FALSE,FALSE,no,no
+520,deviantart.com,Top1k,FALSE,FALSE,no,no
+521,ups.com,Top1k,FALSE,FALSE,SETTINGS ONLY xa,no
+522,imgur.com,Top1k,FALSE,FALSE,manage,no
+523,aboutads.info,Top1k,FALSE,FALSE,no,no
+524,kaspi.kz,Top1k,FALSE,FALSE,no,no
+525,quantserve.com,Top1k,FALSE,FALSE,no,no
+526,mysql.com,Top1k,FALSE,FALSE,full,no
+527,google.fr,TopEU,TRUE,FALSE,full,no
+528,vkontakte.ru,Top1k,FALSE,FALSE,no,no
+529,onetrust.com,Top1k,FALSE,FALSE,full xa,no
+530,shein.com,Top1k,FALSE,FALSE,full,no
+531,oup.com,Top1k,FALSE,FALSE,manage,manage
+532,virtualearth.net,Top1k,FALSE,FALSE,full,no
+533,mailchimp.com,Top1k,FALSE,FALSE,full,manage
+534,netflix.net,Top1k,FALSE,FALSE,full xa,no
+535,conviva.com,Top1k,FALSE,FALSE,full,no
+536,smaato.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+537,buzzfeed.com,Top1k,FALSE,FALSE,full,no
+538,freepik.com,Top1k,FALSE,FALSE,full,full
+539,steamcommunity.com,Top1k,FALSE,FALSE,no,no
+540,paloaltonetworks.com,Top1k,FALSE,FALSE,full xa,SETTINGS ONLY xa
+541,coinmarketcap.com,Top1k,FALSE,FALSE,no,no
+542,tandfonline.com,Top1k,FALSE,FALSE,full,notice
+543,attn.tv,Top1k,FALSE,FALSE,full xa,no
+544,usgovcloudapi.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+545,google.co.jp,Top1k,FALSE,FALSE,full,no
+546,visualstudio.com,Top1k,FALSE,FALSE,full,no
+547,patreon.com,Top1k,FALSE,FALSE,full,no
+548,ca.gov,Top1k,FALSE,FALSE,no,no
+549,atlassian.com,Top1k,FALSE,FALSE,full xa,no
+550,line.me,Top1k,FALSE,FALSE,no,no
+551,pendingrenewaldeletion.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+552,nel.goog,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+553,yandex.com,Top1k,FALSE,FALSE,full,full
+554,cmediahub.ru,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+555,cbsnews.com,Top1k,FALSE,FALSE,full,no
+556,name-services.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+557,loc.gov,Top1k,FALSE,FALSE,no,no
+558,ietf.org,Top1k,FALSE,FALSE,no,no
+559,playstation.com,Top1k,FALSE,FALSE,full xa,no
+560,phicdn.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+561,jquery.com,Top1k,FALSE,FALSE,no,no
+562,googlezip.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+563,berkeley.edu,Top1k,FALSE,FALSE,no,no
+564,britannica.com,Top1k,FALSE,FALSE,full,no
+565,sapo.pt,TopEU,TRUE,FALSE,full,no
+566,sina.com.cn,Top1k,FALSE,FALSE,no,no
+567,rakuten.co.jp,Top1k,FALSE,FALSE,no,no
+568,cornell.edu,Top1k,FALSE,FALSE,no,no
+569,tripadvisor.com,Top1k,FALSE,FALSE,full,no
+570,mozgcp.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+571,newsweek.com,Top1k,FALSE,FALSE,full,no
+572,amazon.co.jp,Top1k,FALSE,FALSE,no,no
+573,yieldmo.com,Top1k,FALSE,FALSE,full,no
+574,oraclecloud.com,Top1k,FALSE,FALSE,full,no
+575,merriam-webster.com,Top1k,FALSE,FALSE,full,no
+576,lenta.tech,Top1k,FALSE,FALSE,no,no
+577,ipv4only.arpa,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+578,akam.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+579,spaceweb.pro,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+580,timeweb.ru,Top1k,FALSE,FALSE,notice,notice
+581,cookiedatabase.org,Top1k,FALSE,FALSE,no,manage xa
+582,marriott.com,Top1k,FALSE,FALSE,full,no
+583,amplitude.com,Top1k,FALSE,FALSE,manage,manage
+584,rt.ru,Top1k,FALSE,FALSE,no,no
+585,grammarly.io,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+586,nflxvideo.net,Top1k,FALSE,FALSE,full xa,Not Reachable - Manual
+587,dns-parking.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+588,yelp.com,Top1k,FALSE,FALSE,full,no
+589,bdydns.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+590,techcrunch.com,Top1k,FALSE,FALSE,full,no
+591,qualtrics.com,Top1k,FALSE,FALSE,manage xa,no
+592,shutterstock.com,Top1k,FALSE,FALSE,full,no
+593,cookielaw.org,Top1k,FALSE,FALSE,no,no
+594,nike.com,Top1k,FALSE,FALSE,full-m,no
+595,163.com,Top1k,FALSE,FALSE,no,no
+596,theverge.com,Top1k,FALSE,FALSE,manage,no
+597,okta.com,Top1k,FALSE,FALSE,no,no
+598,accuweather.com,Top1k,FALSE,FALSE,2 banners,notice
+599,agkn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+600,licdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+601,stackadapt.com,Top1k,FALSE,FALSE,full-m,notice
+602,ezvizlife.com,Top1k,FALSE,FALSE,notice,notice
+603,lijit.com,Top1k,FALSE,FALSE,no,no
+604,livejournal.com,Top1k,FALSE,FALSE,no,no
+605,rackspace.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+606,ovscdns.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+607,myqcloud.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+608,ikea.com,Top1k,FALSE,FALSE,full,full
+609,fb.com,Top1k,FALSE,FALSE,full-m,no
+610,docker.com,Top1k,FALSE,FALSE,full xa,full xa
+611,tapad.com,Top1k,FALSE,FALSE,no,no
+612,wattpad.com,Top1k,FALSE,FALSE,no,no
+613,cloudapp.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+614,360.cn,Top1k,FALSE,FALSE,no,no
+615,nbcnews.com,Top1k,FALSE,FALSE,notice,no
+616,google.es,TopEU,TRUE,FALSE,full,no
+617,dns.cn,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+618,free.fr,TopEU,TRUE,FALSE,full,full
+619,webmd.com,Top1k,FALSE,FALSE,full,no
+620,myspace.com,Top1k,FALSE,FALSE,full-m,full-m
+621,crwdcntrl.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+622,optimizely.com,Top1k,FALSE,FALSE,no,no
+623,google.co.in,Top1k,FALSE,FALSE,full,no
+624,target.com,Top1k,FALSE,FALSE,no,no
+625,hilton.com,Top1k,FALSE,FALSE,full,no
+626,newrelic.com,Top1k,FALSE,FALSE,full choices xa,notice
+627,fontawesome.com,Top1k,FALSE,FALSE,full,no
+628,ieee.org,Top1k,FALSE,FALSE,full,SETTINGS ONLY xa
+629,contentsquare.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+630,fandom.com,Top1k,FALSE,FALSE,full,no
+631,latimes.com,Top1k,FALSE,FALSE,no,no
+632,prmsrvs.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+633,typekit.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+634,delfi.lt,TopEU,TRUE,FALSE,manage,manage
+635,rzone.de,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+636,byteglb.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+637,awswaf.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+638,deepl.com,Top1k,FALSE,FALSE,full,notice
+639,google.it,TopEU,TRUE,FALSE,full,no
+640,fast.com,Top1k,FALSE,FALSE,no,no
+641,klaviyo.com,Top1k,FALSE,FALSE,full xa,manage xa
+642,live.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+643,svc.ms,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+644,binance.com,Top1k,FALSE,FALSE,full,no
+645,impervadns.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+646,crpt.ru,Top1k,FALSE,FALSE,no,no
+647,jotform.com,Top1k,FALSE,FALSE,manage,no
+648,cdnhwc1.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+649,elpais.com,Top1k,FALSE,FALSE,manage,manage
+650,adobedtm.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+651,pinimg.com,Top1k,FALSE,FALSE,no,no
+652,w3schools.com,Top1k,FALSE,FALSE,no,no
+653,aws.dev,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+654,wb.ru,Top1k,FALSE,FALSE,no,no
+655,amazon.ca,Top1k,FALSE,FALSE,no,no
+656,prnewswire.com,Top1k,FALSE,FALSE,no,manage
+657,xiaomi.net,Top1k,FALSE,FALSE,Not Reachable - Manual,no
+658,360safe.com,Top1k,FALSE,FALSE,Not Reachable - Manual,no
+659,datadoghq.com,Top1k,FALSE,FALSE,full,no
+660,bidr.io,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+661,amazon.fr,TopEU,TRUE,FALSE,full,full
+662,samsungapps.com,Top1k,FALSE,FALSE,x,no
+663,warnerbros.com,Top1k,FALSE,FALSE,full,notice
+664,sagepub.com,Top1k,FALSE,FALSE,full xa,full xa
+665,cambridge.org,Top1k,FALSE,FALSE,full xa,full xa
+666,azure-dns.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+667,uber.com,Top1k,FALSE,FALSE,full,full-m
+668,investopedia.com,Top1k,FALSE,FALSE,full xa,no
+669,imrworldwide.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+670,dbankcloud.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+671,dynatrace.com,Top1k,FALSE,FALSE,full,full
+672,erome.com,Top1k,FALSE,FALSE,no,no
+673,rutube.ru,Top1k,FALSE,FALSE,choices,choices
+674,firebaseio.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+675,allaboutcookies.org,Top1k,FALSE,FALSE,manage,no
+676,browser-intake-datadoghq.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+677,gumgum.com,Top1k,FALSE,FALSE,manage,manage
+678,service.gov.uk,TopEU,TRUE,FALSE,full,full
+679,bamgrid.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+680,hbr.org,Top1k,FALSE,FALSE,full,no
+681,33across.com,Top1k,FALSE,FALSE,ambiguous,ambiguous
+682,stbid.ru,Top1k,FALSE,FALSE,no,no
+683,herokuapp.com,Top1k,FALSE,FALSE,no,Not Reachable - Manual
+684,cdnhwc2.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+685,intercom.io,Top1k,FALSE,FALSE,full xa,notice
+686,herokudns.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+687,samsungacr.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+688,appspot.com,Top1k,FALSE,FALSE,no,no
+689,awsglobalaccelerator.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+690,easebar.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+691,fda.gov,Top1k,FALSE,FALSE,no,no
+692,supercell.com,Top1k,FALSE,FALSE,full,manage
+693,rncdn7.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+694,1rx.io,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+695,networkadvertising.org,Top1k,FALSE,FALSE,no,no
+696,mediafire.com,Top1k,FALSE,FALSE,notice,notice
+697,zemanta.com,Top1k,FALSE,FALSE,full xa,full xa
+698,unesco.org,Top1k,FALSE,FALSE,notice,notice
+699,brave.com,Top1k,FALSE,FALSE,no,no
+700,avito.ru,Top1k,FALSE,FALSE,notice,notice
+701,e-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+702,omnitagjs.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+703,xvideos.com,Top1k,FALSE,FALSE,no,no
+704,bestbuy.com,Top1k,FALSE,FALSE,no,no
+705,sberdevices.ru,Top1k,FALSE,FALSE,notice,notice
+706,worldnic.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+707,everesttech.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+708,pccc.com,Top1k,FALSE,FALSE,no,no
+709,ks-cdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+710,healthline.com,Top1k,FALSE,FALSE,manage,no
+711,contextweb.com,Top1k,FALSE,FALSE,no,no
+712,pvp.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+713,usda.gov,Top1k,FALSE,FALSE,no,no
+714,washington.edu,Top1k,FALSE,FALSE,full-m,no
+715,amazon.in,Top1k,FALSE,FALSE,no,no
+716,plesk.com,Top1k,FALSE,FALSE,no,full-m
+717,anydesk.com,Top1k,FALSE,FALSE,full xa,no
+718,lemonde.fr,TopEU,TRUE,FALSE,paywall,paywall
+719,homedepot.com,Top1k,FALSE,FALSE,Not Reachable - Manual,no
+720,gitlab.com,Top1k,FALSE,FALSE,full,no
+721,box.com,Top1k,FALSE,FALSE,full,no
+722,scdn.co,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+723,nationalgeographic.com,Top1k,FALSE,FALSE,x,no
+724,maricopa.gov,Top1k,FALSE,FALSE,no,no
+725,theatlantic.com,Top1k,FALSE,FALSE,full,no
+726,life360.com,Top1k,FALSE,FALSE,full-m xa,no
+727,heytapmobile.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+728,rbc.ru,Top1k,FALSE,FALSE,no,no
+729,yellowblue.io,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+730,cdnvideo.ru,Top1k,FALSE,FALSE,notice,notice
+731,incapdns.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+732,ioam.de,TopEU,TRUE,FALSE,no,no
+733,footprintdns.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+734,spotifycdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+735,turn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+736,huffingtonpost.com,Top1k,FALSE,FALSE,full,no
+737,rackspace.com,Top1k,FALSE,FALSE,full,full xa
+738,people.com,Top1k,FALSE,FALSE,full xa,no
+739,bandcamp.com,Top1k,FALSE,FALSE,no,no
+740,shopee.co.id,Top1k,FALSE,FALSE,no,no
+741,a-mo.net,Top1k,FALSE,FALSE,no,no
+742,hostgator.com,Top1k,FALSE,FALSE,full,manage xa
+743,sberbank.ru,Top1k,FALSE,FALSE,no,no
+744,ya.ru,Top1k,FALSE,FALSE,full,full
+745,pandora.com,Top1k,FALSE,FALSE,no,full xa
+746,mixpanel.com,Top1k,FALSE,FALSE,full-m xa,no
+747,miwifi.com,Top1k,FALSE,FALSE,no,no
+748,shopee.com.br,Top1k,FALSE,FALSE,manage,manage
+749,mailchi.mp,Top1k,FALSE,FALSE,full,manage
+750,tremorhub.com,Top1k,FALSE,FALSE,no,no
+751,bugsnag.com,Top1k,FALSE,FALSE,manage,manage
+752,viber.com,Top1k,FALSE,FALSE,full xa,ambiguous
+753,zillow.com,Top1k,FALSE,FALSE,no,no
+754,clever.com,Top1k,FALSE,FALSE,no,no
+755,tbcache.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+756,comcast.com,Top1k,FALSE,FALSE,no,no
+757,withgoogle.com,Top1k,FALSE,FALSE,full,no
+758,pendo.io,Top1k,FALSE,FALSE,manage xa,ambiguous
+759,bitrix24.ru,Top1k,FALSE,FALSE,notice,notice
+760,protek.ru,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+761,usps.com,Top1k,FALSE,FALSE,no,no
+762,kargo.com,Top1k,FALSE,FALSE,full-m,full
+763,fiverr.com,Top1k,FALSE,FALSE,full,no
+764,hugedomains.com,Top1k,FALSE,FALSE,full,full
+765,vivo.com.cn,Top1k,FALSE,FALSE,no,no
+766,riotgames.com,Top1k,FALSE,FALSE,full,SETTINGS ONLY xa
+767,w55c.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+768,exp-tas.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+769,themeforest.net,Top1k,FALSE,FALSE,full,manage
+770,cloudflareinsights.com,Top1k,FALSE,FALSE,Not Reachable - Manual,no
+771,ssl-images-amazon.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+772,kwai-pro.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+773,google.cn,Top1k,FALSE,FALSE,no,no
+774,heylink.me,Top1k,FALSE,FALSE,full xa,no
+775,discordapp.com,Top1k,FALSE,FALSE,no,no
+776,change.org,Top1k,FALSE,FALSE,full,no
+777,lenovo.com,Top1k,FALSE,FALSE,no,no
+778,me.com,Top1k,FALSE,FALSE,no,no
+779,onlyfans.com,Top1k,FALSE,FALSE,no,no
+780,wyzecam.com,Top1k,FALSE,FALSE,notice,notice
+781,xbox.com,Top1k,FALSE,FALSE,full,no
+782,steamstatic.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+783,nikkei.com,Top1k,FALSE,FALSE,no,manage
+784,news.com.au,Top1k,FALSE,FALSE,no,no
+785,ipredictive.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+786,apigee.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+787,amazon.es,TopEU,TRUE,FALSE,full,full
+788,dbankcloud.cn,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+789,teads.tv,Top1k,FALSE,FALSE,no,no
+790,redhat.com,Top1k,FALSE,FALSE,full,notice
+791,mlb.com,Top1k,FALSE,FALSE,manage xa,manage xa
+792,canonical.com,Top1k,FALSE,FALSE,manage,manage
+793,stickyadstv.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+794,githubusercontent.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+795,onetag-sys.com,Top1k,FALSE,FALSE,no,no
+796,spamhaus.org,Top1k,FALSE,FALSE,no,no
+797,bytefcdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+798,mobile.de,TopEU,TRUE,FALSE,full,full
+799,digitalocean.com,Top1k,FALSE,FALSE,full choices,manage
+800,liftoff.io,Top1k,FALSE,FALSE,full-m xa,full-m xa
+801,go-mpulse.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+802,upwork.com,Top1k,FALSE,FALSE,no,no
+803,mgid.com,Top1k,FALSE,FALSE,no,no
+804,mgts.ru,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+805,epa.gov,Top1k,FALSE,FALSE,no,no
+806,bitdefender.com,Top1k,FALSE,FALSE,manage,no
+807,princeton.edu,Top1k,FALSE,FALSE,no,no
+808,pbs.org,Top1k,FALSE,FALSE,no,no
+809,recaptcha.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+810,unrulymedia.com,Top1k,FALSE,FALSE,no,no
+811,google.pl,TopEU,TRUE,FALSE,full,no
+812,worldbank.org,Top1k,FALSE,FALSE,no,notice
+813,apnews.com,Top1k,FALSE,FALSE,full,no
+814,flashtalking.com,Top1k,FALSE,FALSE,full,full
+815,nintendo.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+816,adrta.com,Top1k,FALSE,FALSE,no,no
+817,typeform.com,Top1k,FALSE,FALSE,manage,manage
+818,1drv.com,Top1k,FALSE,FALSE,Not Reachable - Manual,no
+819,iso.org,Top1k,FALSE,FALSE,manage,manage
+820,globalsign.com,Top1k,FALSE,FALSE,full choices,full choices
+821,istockphoto.com,Top1k,FALSE,FALSE,manage xa,no
+822,azure-devices.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+823,youku.com,Top1k,FALSE,FALSE,no,no
+824,immedia-semi.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+825,hihonorcloud.com,Top1k,FALSE,FALSE,no,no
+826,va.gov,Top1k,FALSE,FALSE,no,no
+827,myhuaweicloud.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+828,lefigaro.fr,TopEU,TRUE,FALSE,full-m,full-m
+829,bigo.sg,Top1k,FALSE,FALSE,no,no
+830,zoho.com,Top1k,FALSE,FALSE,manage,no
+831,adobedc.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+832,kickstarter.com,Top1k,FALSE,FALSE,choices xa,choices xa
+833,huffpost.com,Top1k,FALSE,FALSE,full,no
+834,unpkg.com,Top1k,FALSE,FALSE,no,no
+835,otto.de,TopEU,TRUE,FALSE,full,full
+836,quickconnect.to,Top1k,FALSE,FALSE,notice,notice
+837,spbycdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+838,whitehouse.gov,Top1k,FALSE,FALSE,no,no
+839,bootstrapcdn.com,Top1k,FALSE,FALSE,no,no
+840,arxiv.org,Top1k,FALSE,FALSE,notice,notice
+841,amazon.it,TopEU,TRUE,FALSE,full,full
+842,academia.edu,Top1k,FALSE,FALSE,notice,no
+843,bild.de,TopEU,TRUE,FALSE,paywall,paywall
+844,abovedomains.com,Top1k,FALSE,FALSE,no,no
+845,airbnb.com,Top1k,FALSE,FALSE,no,no
+846,hm.com,Top1k,FALSE,FALSE,full,manage
+847,nest.com,Top1k,FALSE,FALSE,full,no
+848,dnsv1.com,Top1k,FALSE,FALSE,no,no
+849,ameblo.jp,Top1k,FALSE,FALSE,no,no
+850,mckinsey.com,Top1k,FALSE,FALSE,full,manage
+851,infonline.de,TopEU,TRUE,FALSE,no,no
+852,primevideo.com,Top1k,FALSE,FALSE,full,no
+853,service-now.com,Top1k,FALSE,FALSE,full,notice
+854,tinkoff.ru,Top1k,FALSE,FALSE,no,no
+855,aniview.com,Top1k,FALSE,FALSE,full-m,full-m
+856,ebay.co.uk,TopEU,TRUE,FALSE,full,full
+857,google.com.mx,Top1k,FALSE,FALSE,full,no
+858,pornhub.com,Top1k,FALSE,FALSE,no,no
+859,mdpi.com,Top1k,FALSE,FALSE,full xa,full xa
+860,bytetcdn.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+861,perfectdomain.com,Top1k,FALSE,FALSE,no,no
+862,substack.com,Top1k,FALSE,FALSE,full,no
+863,rapid7.com,Top1k,FALSE,FALSE,full xa,SETTINGS ONLY xa
+864,arcgis.com,Top1k,FALSE,FALSE,no,no
+865,netgear.com,Top1k,FALSE,FALSE,full-m,no
+866,xnxx.com,Top1k,FALSE,FALSE,no,no
+867,utkonos.dev,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+868,hindustantimes.com,Top1k,FALSE,FALSE,manage xa,no
+869,fbsbx.com,Top1k,FALSE,FALSE,no,no
+870,google.com.tr,Top1k,FALSE,FALSE,full,no
+871,allegro.pl,TopEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+872,disneyplus.com,Top1k,FALSE,FALSE,no,no
+873,adjust.com,Top1k,FALSE,FALSE,full,no
+874,markmonitor.com,Top1k,FALSE,FALSE,full,manage xa
+875,name.com,Top1k,FALSE,FALSE,manage xa,no
+876,state.gov,Top1k,FALSE,FALSE,full-m,no
+877,sonobi.com,Top1k,FALSE,FALSE,full,no
+878,mongodb.com,Top1k,FALSE,FALSE,no,no
+879,bankofamerica.com,Top1k,FALSE,FALSE,no,no
+880,ad.gt,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+881,classlink.com,Top1k,FALSE,FALSE,no,no
+882,aiv-delivery.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+883,smartthings.com,Top1k,FALSE,FALSE,notice,notice
+884,genius.com,Top1k,FALSE,FALSE,manage,no
+885,mozilla.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+886,biblegateway.com,Top1k,FALSE,FALSE,full,no
+887,statcounter.com,Top1k,FALSE,FALSE,no,no
+888,vivoglobal.com,Top1k,FALSE,FALSE,no,no
+889,wp.pl,TopEU,TRUE,FALSE,manage,manage
+890,webrootcloudav.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+891,gandi-ns.fr,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+892,cloudns.net,Top1k,FALSE,FALSE,notice,notice
+893,amazon.com.br,Top1k,FALSE,FALSE,no,no
+894,realtor.com,Top1k,FALSE,FALSE,no,no
+895,instructure.com,Top1k,FALSE,FALSE,manage xa,manage xa
+896,adroll.com,Top1k,FALSE,FALSE,full,no
+897,onet.pl,TopEU,TRUE,FALSE,manage,manage
+898,firefox.com,Top1k,FALSE,FALSE,no,no
+899,discogs.com,Top1k,FALSE,FALSE,full,full xa
+900,2gis.com,Top1k,FALSE,FALSE,no,no
+901,chartbeat.net,Top1k,FALSE,FALSE,full,notice
+902,rspamd.com,Top1k,FALSE,FALSE,no,no
+903,daum.net,Top1k,FALSE,FALSE,no,no
+904,tokopedia.com,Top1k,FALSE,FALSE,no,no
+905,utorrent.com,Top1k,FALSE,FALSE,manage xa,no
+906,dbankcloud.ru,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+907,microsoftapp.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+908,algolia.net,Top1k,FALSE,FALSE,no,no
+909,fedex.com,Top1k,FALSE,FALSE,no,no
+910,msecnd.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+911,chaturbate.com,Top1k,FALSE,FALSE,no,no
+912,alidns.com,Top1k,FALSE,FALSE,no,no
+913,synology.com,Top1k,FALSE,FALSE,manage,manage
+914,wbbasket.ru,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+915,discord.media,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+916,columbia.edu,Top1k,FALSE,FALSE,notice,notice
+917,cloudinary.com,Top1k,FALSE,FALSE,full xa,no
+918,repubblica.it,TopEU,TRUE,FALSE,paywall,paywall
+919,asu.edu,Top1k,FALSE,FALSE,notice,notice
+920,adgrx.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+921,innovid.com,Top1k,FALSE,FALSE,ambiguous,full-m
+922,ubnt.com,Top1k,FALSE,FALSE,manage xa,no
+923,deloitte.com,Top1k,FALSE,FALSE,full,manage
+924,mirtesen.ru,Top1k,FALSE,FALSE,no,no
+925,llnwi.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+926,lowes.com,Top1k,FALSE,FALSE,no,no
+927,richaudience.com,Top1k,FALSE,FALSE,notice,notice
+928,weforum.org,Top1k,FALSE,FALSE,full,full
+929,samsungosp.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+930,atlassian.net,Top1k,FALSE,FALSE,no,no
+931,amazon.com.au,Top1k,FALSE,FALSE,no,no
+932,gihc.net,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+933,alphonso.tv,Top1k,FALSE,FALSE,no,no
+934,redd.it,TopEU,TRUE,FALSE,full,no
+935,economist.com,Top1k,FALSE,FALSE,full,no
+936,samsungcloudsolution.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+937,att.com,Top1k,FALSE,FALSE,full xa,full xa
+938,instabug.com,Top1k,FALSE,FALSE,no,no
+939,youronlinechoices.com,Top1k,FALSE,FALSE,no,no
+940,pikabu.ru,Top1k,FALSE,FALSE,no,no
+941,exelator.com,Top1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+942,umich.edu,Top1k,FALSE,FALSE,full,no
+943,dribbble.com,Top1k,FALSE,FALSE,no,no
+944,isappcloud.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+945,fb-t-msedge.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+946,elmundo.es,TopEU,TRUE,FALSE,paywall,paywall
+947,character.ai,Top1k,FALSE,FALSE,no,no
+948,umeng.com,Top1k,FALSE,FALSE,no,no
+949,usnews.com,Top1k,FALSE,FALSE,manage,no
+950,shopeemobile.com,Top1k,FALSE,FALSE,no,no
+951,pexels.com,Top1k,FALSE,FALSE,full,no
+952,ip-api.com,Top1k,FALSE,FALSE,no,no
+953,dyndns.org,Top1k,FALSE,FALSE,no,no
+954,intentiq.com,Top1k,FALSE,FALSE,manage,manage
+955,corriere.it,TopEU,TRUE,FALSE,paywall,paywall
+956,chartboost.com,Top1k,FALSE,FALSE,full xa,full xa
+957,vmware.com,Top1k,FALSE,FALSE,manage xa,notice
+958,heytapmobi.com,Top1k,FALSE,FALSE,no,no
+959,volcfcdndvs.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+960,sharethis.com,Top1k,FALSE,FALSE,full choices,no
+961,openstreetmap.org,Top1k,FALSE,FALSE,no,no
+962,vkuseraudio.net,Top1k,FALSE,FALSE,no,no
+963,supersonicads.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+964,kohls.com,Top1k,FALSE,FALSE,no,no
+965,fb.me,Top1k,FALSE,FALSE,full-m,no
+966,cloudsink.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+967,mercadolivre.com.br,Top1k,FALSE,FALSE,manage,manage
+968,chess.com,Top1k,FALSE,FALSE,full,no
+969,theconversation.com,Top1k,FALSE,FALSE,x,no
+970,apple.news,Top1k,FALSE,FALSE,no,no
+971,seznam.cz,TopEU,TRUE,FALSE,paywall,paywall
+972,nhk.or.jp,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+973,ancestry.com,Top1k,FALSE,FALSE,no,no
+974,pusher.com,Top1k,FALSE,FALSE,manage xa,manage xa
+975,cbc.ca,Top1k,FALSE,FALSE,no,no
+976,hotmail.com,Top1k,FALSE,FALSE,full,no
+977,ebay.de,TopEU,TRUE,FALSE,full,full
+978,eporner.com,Top1k,FALSE,FALSE,no,no
+979,quizlet.com,Top1k,FALSE,FALSE,manage,no
+980,onesignal.com,Top1k,FALSE,FALSE,notice,no
+981,macys.com,Top1k,FALSE,FALSE,full xa,no
+982,symcb.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+983,postrelease.com,Top1k,FALSE,FALSE,no,no
+984,mercadolibre.com.ar,Top1k,FALSE,FALSE,manage,manage
+985,si.com,Top1k,FALSE,FALSE,full,no
+986,churnzero.net,Top1k,FALSE,FALSE,full choices xa,notice
+987,xfinity.com,Top1k,FALSE,FALSE,no,no
+988,betweendigital.com,Top1k,FALSE,FALSE,no,no
+989,gov.br,Top1k,FALSE,FALSE,no,full
+990,ryanair.com,Top1k,FALSE,FALSE,full,full
+991,tplinkcloud.com,Top1k,FALSE,FALSE,no,no
+992,nelreports.net,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+993,mob.com,Top1k,FALSE,FALSE,no,no
+994,lgtvcommon.com,Top1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+995,wikihow.com,Top1k,FALSE,FALSE,no,no
+996,caixa.gov.br,Top1k,FALSE,FALSE,full,ambiguous
+997,geeksforgeeks.org,Top1k,FALSE,FALSE,no,no
+998,skyhigh.cloud,Top1k,FALSE,FALSE,full xa,full xa
+999,166.com,Top1k,FALSE,FALSE,Not Reachable - Manual,no
+1000,kontur.ru,Top1k,FALSE,FALSE,no,no
+1006,francetvinfo.fr,TopEU,TRUE,FALSE,x,x
+1012,interia.pl,TopEU,TRUE,FALSE,manage,manage
+1028,skroutz.gr,TopEU,TRUE,FALSE,no,full
+1031,leparisien.fr,TopEU,TRUE,FALSE,paywall,paywall
+1033,idnes.cz,TopEU,TRUE,FALSE,paywall,paywall
+1059,leboncoin.fr,TopEU,TRUE,FALSE,x,x
+1090,ouest-france.fr,TopEU,TRUE,FALSE,x,x
+1092,ox.ac.uk,TopEU,TRUE,FALSE,full xa,full xa
+1129,n-tv.de,TopEU,TRUE,FALSE,manage,manage
+1139,chip.de,TopEU,TRUE,FALSE,paywall,paywall
+1152,20minutos.es,TopEU,TRUE,FALSE,paywall,paywall
+1157,aftonbladet.se,TopEU,TRUE,FALSE,manage,manage
+1162,kleinanzeigen.de,TopEU,TRUE,FALSE,manage,manage
+1171,olx.pl,TopEU,TRUE,FALSE,manage,manage
+1175,hln.be,TopEU,TRUE,FALSE,manage,manage
+1192,telenor.se,TopEU,TRUE,FALSE,full xa,full xa
+1193,nu.nl,TopEU,TRUE,FALSE,manage,manage
+1197,telegraaf.nl,TopEU,TRUE,FALSE,manage,manage
+1205,ad.nl,TopEU,TRUE,FALSE,manage,manage
+1208,rightmove.co.uk,TopEU,TRUE,FALSE,full,full
+1218,remove.bg,TopEU,TRUE,FALSE,full,notice
+1252,gazzetta.it,TopEU,TRUE,FALSE,paywall,paywall
+1273,merkur.de,TopEU,TRUE,FALSE,paywall,no
+1281,marktplaats.nl,TopEU,TRUE,FALSE,manage,no
+1289,argos.co.uk,TopEU,TRUE,FALSE,full,full
+1296,ebay.it,TopEU,TRUE,FALSE,full,full
+1306,ladepeche.fr,TopEU,TRUE,FALSE,x,x
+1317,tvn24.pl,TopEU,TRUE,FALSE,manage,manage
+1322,actu.fr,TopEU,TRUE,FALSE,paywall,paywall
+1332,credit-agricole.fr,TopEU,TRUE,FALSE,full,full
+1341,zalando.de,TopEU,TRUE,FALSE,no,no
+1346,ilmessaggero.it,TopEU,TRUE,FALSE,paywall,paywall
+1357,novinky.cz,TopEU,TRUE,FALSE,paywall,paywall
+1361,vinted.fr,TopEU,TRUE,FALSE,full,no
+1409,xnxx.es,TopEU,TRUE,FALSE,no,no
+1410,iltalehti.fi,TopEU,TRUE,FALSE,no,no
+1411,emag.ro,TopEU,TRUE,FALSE,full,full
+1415,subito.it,TopEU,TRUE,FALSE,full,full
+1416,index.hr,TopEU,TRUE,FALSE,manage,manage
+1422,fanpage.it,TopEU,TRUE,FALSE,x,no
+1434,ddnss.de,TopEU,TRUE,FALSE,full-m,full-m
+1456,protothema.gr,TopEU,TRUE,FALSE,no,no
+1460,leroymerlin.fr,TopEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1462,jutarnji.hr,TopEU,TRUE,FALSE,manage,manage
+1463,ilmeteo.it,TopEU,TRUE,FALSE,full,no
+1464,idealista.it,TopEU,TRUE,FALSE,full,manage
+1467,otomoto.pl,TopEU,TRUE,FALSE,manage,manage
+1469,ekstrabladet.dk,TopEU,TRUE,FALSE,full choices,full choices
+1491,mediaexpert.pl,TopEU,TRUE,FALSE,manage,manage
+1492,eltiempo.es,TopEU,TRUE,FALSE,paywall,paywall
+1514,filmweb.pl,TopEU,TRUE,FALSE,manage,manage
+1518,bt.dk,TopEU,TRUE,FALSE,full choices,full choices
+1529,librus.pl,TopEU,TRUE,FALSE,notice,notice
+1537,tori.fi,TopEU,TRUE,FALSE,manage,manage
+1540,listcrawler.eu,TopEU,TRUE,FALSE,notice,notice
+1552,xvideos.es,TopEU,TRUE,FALSE,no,no
+1557,lindependant.fr,TopEU,TRUE,FALSE,x,x
+1570,toyhou.se,TopEU,TRUE,FALSE,no,no
+1579,azet.sk,TopEU,TRUE,FALSE,x,no
+1591,cam.ac.uk,TopEU,TRUE,FALSE,choices,choices
+1612,joyclub.de,TopEU,TRUE,FALSE,no,no
+1616,fr.de,TopEU,TRUE,FALSE,paywall,no
+1648,ladies.de,TopEU,TRUE,FALSE,choices,choices
+1664,njuskalo.hr,TopEU,TRUE,FALSE,manage,manage
+1667,spaggiari.eu,TopEU,TRUE,FALSE,manage,manage
+1672,skelbiu.lt,TopEU,TRUE,FALSE,full,full
+1705,publi24.ro,TopEU,TRUE,FALSE,manage,no
+1731,diretta.it,TopEU,TRUE,FALSE,full,full
+1733,autoplius.lt,TopEU,TRUE,FALSE,full,full
+1742,flashscore.pl,TopEU,TRUE,FALSE,full,full
+1751,spiegel.de,TopEU,TRUE,FALSE,paywall,paywall
+1762,flashscore.fr,TopEU,TRUE,FALSE,full,full
+1780,annunci69.it,TopEU,TRUE,FALSE,no,no
+1814,com.se,TopEU,TRUE,FALSE,no,no
+1822,mirror.co.uk,TopEU,TRUE,FALSE,paywall,no
+1835,simpli.fi,TopEU,TRUE,FALSE,full xa,full xa
+1837,sport.es,TopEU,TRUE,FALSE,paywall,no
+1852,tiktokv.eu,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1863,aemet.es,TopEU,TRUE,FALSE,notice,notice
+1867,midilibre.fr,TopEU,TRUE,FALSE,x,x
+1872,thesun.co.uk,TopEU,TRUE,FALSE,paywall,no
+1881,nhs.uk,TopEU,TRUE,FALSE,full-m,full-m
+2031,google.nl,TopEU,TRUE,FALSE,full,no
+2047,superhosting.bg,TopEU,TRUE,FALSE,full,full
+2066,guardian.co.uk,TopEU,TRUE,FALSE,full,ambiguous
+2069,weborama.fr,TopEU,TRUE,FALSE,no,no
+2070,bund.de,TopEU,TRUE,FALSE,full-m xa,full-m xa
+2092,ico.org.uk,TopEU,TRUE,FALSE,full choices,full choices
+2152,gda.pl,TopEU,TRUE,FALSE,no,no
+2205,express.co.uk,TopEU,TRUE,FALSE,paywall,paywall
+2207,geoedge.be,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2214,nic.uk,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2309,caelumbee.co.uk,TopEU,TRUE,FALSE,no,no
+2333,metro.co.uk,TopEU,TRUE,FALSE,manage,no
+2359,thetimes.co.uk,TopEU,TRUE,FALSE,full,no
+2368,welt.de,TopEU,TRUE,FALSE,paywall,paywall
+2416,braze.eu,TopEU,TRUE,FALSE,full,SETTINGS ONLY xa
+2472,google.be,TopEU,TRUE,FALSE,full,no
+2485,google.at,TopEU,TRUE,FALSE,full,no
+2488,aol.co.uk,TopEU,TRUE,FALSE,full,full
+2544,adscale.de,TopEU,TRUE,FALSE,full,full
+2590,ucl.ac.uk,TopEU,TRUE,FALSE,manage,no
+2603,google.se,TopEU,TRUE,FALSE,full,no
+2631,web.de,TopEU,TRUE,FALSE,paywall,paywall
+2661,usercentrics.eu,TopEU,TRUE,FALSE,full-m,ambiguous
+2666,vrt.be,TopEU,TRUE,FALSE,full,no
+2667,standard.co.uk,TopEU,TRUE,FALSE,manage,no
+2699,google.cz,TopEU,TRUE,FALSE,full,no
+2707,your-server.de,TopEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2708,zeit.de,TopEU,TRUE,FALSE,paywall,paywall
+2739,google.gr,TopEU,TRUE,FALSE,full,no
+2743,webempresa.eu,TopEU,TRUE,FALSE,full,full
+2745,google.pt,TopEU,TRUE,FALSE,full,no
+2755,shorturl.at,TopEU,TRUE,FALSE,full,no
+2767,kahoot.it,TopEU,TRUE,FALSE,no,no
+2805,google.hu,TopEU,TRUE,FALSE,full,no
+2810,google.ro,TopEU,TRUE,FALSE,full,no
+2824,blogspot.co.uk,TopEU,TRUE,FALSE,no,no
+2901,mpg.de,TopEU,TRUE,FALSE,no,no
+2928,tagesschau.de,TopEU,TRUE,FALSE,no,no
+2977,bbci.co.uk,TopEU,TRUE,FALSE,no,no
+2988,orange.fr,TopEU,TRUE,FALSE,no,no
+3013,ed.ac.uk,TopEU,TRUE,FALSE,choices,choices
+3023,sl.pt,TopEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3066,dns.pt,TopEU,TRUE,FALSE,choices,choices
+3080,heise.de,TopEU,TRUE,FALSE,paywall,paywall
+3105,eventbrite.co.uk,TopEU,TRUE,FALSE,full,no
+3106,ccc.de,TopEU,TRUE,FALSE,no,no
+3119,haxx.se,TopEU,TRUE,FALSE,no,no
+3129,zdf.de,TopEU,TRUE,FALSE,full,full
+3137,youronlinechoices.eu,TopEU,TRUE,FALSE,no,no
+3143,focus.de,TopEU,TRUE,FALSE,paywall,paywall
+3168,curl.se,TopEU,TRUE,FALSE,no,no
+3173,gemius.pl,TopEU,TRUE,FALSE,no,no
+3178,lin.ee,TopEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3214,google.dk,TopEU,TRUE,FALSE,full,no
+3245,sueddeutsche.de,TopEU,TRUE,FALSE,paywall,paywall
+3261,telefonica.de,TopEU,TRUE,FALSE,no,no
+3264,google.fi,TopEU,TRUE,FALSE,full,no
+3270,rtve.es,TopEU,TRUE,FALSE,full,full
+3294,univie.ac.at,TopEU,TRUE,FALSE,full-m,full-m
+3300,google.ie,TopEU,TRUE,FALSE,full,no
+3305,rqtrk.eu,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3328,abc.es,TopEU,TRUE,FALSE,paywall,paywall
+3337,tripadvisor.co.uk,TopEU,TRUE,FALSE,full,no
+3411,google.bg,TopEU,TRUE,FALSE,full,no
+3468,google.sk,TopEU,TRUE,FALSE,full,no
+3487,huffingtonpost.co.uk,TopEU,TRUE,FALSE,full,no
+3492,google.hr,TopEU,TRUE,FALSE,full,no
+3500,yle.fi,TopEU,TRUE,FALSE,full,full
+3525,lse.ac.uk,TopEU,TRUE,FALSE,full,manage xa
+3528,iiko.it,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3539,home.pl,TopEU,TRUE,FALSE,full choices,full choices
+3568,tagesspiegel.de,TopEU,TRUE,FALSE,paywall,paywall
+3590,bahn.de,TopEU,TRUE,FALSE,full,full
+3601,nazwa.pl,TopEU,TRUE,FALSE,manage,manage
+3631,independent.ie,TopEU,TRUE,FALSE,manage,manage
+3654,politico.eu,TopEU,TRUE,FALSE,manage,manage
+3701,liberation.fr,TopEU,TRUE,FALSE,paywall,paywall
+3702,service-public.fr,TopEU,TRUE,FALSE,full,full
+3715,ansa.it,TopEU,TRUE,FALSE,paywall,paywall
+3716,rte.ie,TopEU,TRUE,FALSE,full,full
+3719,certum.pl,TopEU,TRUE,FALSE,full xa,full xa
+3729,libero.it,TopEU,TRUE,FALSE,full,full
+3773,orf.at,TopEU,TRUE,FALSE,full,full
+3802,ndr.de,TopEU,TRUE,FALSE,no,no
+3850,nos.nl,TopEU,TRUE,FALSE,no,no
+3853,radiofrance.fr,TopEU,TRUE,FALSE,full,full
+3861,tfl.gov.uk,TopEU,TRUE,FALSE,full,full
+3924,theregister.co.uk,TopEU,TRUE,FALSE,full,no
+3929,elcorteingles.es,TopEU,TRUE,FALSE,full,full
+3949,google.lv,TopEU,TRUE,FALSE,full,no
+3989,ardmediathek.de,TopEU,TRUE,FALSE,no,no
+3990,google.si,TopEU,TRUE,FALSE,full,no
+3997,google.lt,TopEU,TRUE,FALSE,full,no
+4016,stern.de,TopEU,TRUE,FALSE,paywall,paywall
+4018,fraunhofer.de,TopEU,TRUE,FALSE,no,no
+4050,google.ee,TopEU,TRUE,FALSE,full,no
+4073,rfi.fr,TopEU,TRUE,FALSE,full,full
+4077,metoffice.gov.uk,TopEU,TRUE,FALSE,full,full
+4082,amazon.nl,TopEU,TRUE,FALSE,no,no
+4089,legislation.gov.uk,TopEU,TRUE,FALSE,full,full
+4112,aruba.it,TopEU,TRUE,FALSE,full,full
+4120,index.hu,TopEU,TRUE,FALSE,manage,ambiguous
+4124,pinterest.co.uk,TopEU,TRUE,FALSE,no,no
+4140,blogspot.de,TopEU,TRUE,FALSE,no,no
+4163,e-recht24.de,TopEU,TRUE,FALSE,no,no
+4166,thomsonreuters.co.uk,TopEU,TRUE,FALSE,full,manage xa
+4174,manchester.ac.uk,TopEU,TRUE,FALSE,manage,no
+4175,manchestereveningnews.co.uk,TopEU,TRUE,FALSE,manage xa,no
+4210,derstandard.at,TopEU,TRUE,FALSE,paywall,paywall
+4231,nationalarchives.gov.uk,TopEU,TRUE,FALSE,full,full
+4255,elster.de,TopEU,TRUE,FALSE,no,no
+4278,rtl.de,TopEU,TRUE,FALSE,manage,manage
+4280,lastampa.it,TopEU,TRUE,FALSE,paywall,paywall
+4284,goethe.de,TopEU,TRUE,FALSE,full,full
+4285,cnil.fr,TopEU,TRUE,FALSE,no,no
+4316,google.lu,TopEU,TRUE,FALSE,full,no
+4323,com.be,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4328,telecomitalia.it,TopEU,TRUE,FALSE,x,x
+4368,serveriai.lt,TopEU,TRUE,FALSE,preselected,preselected
+4372,cwi.nl,TopEU,TRUE,FALSE,full-m,full-m
+4389,cnrs.fr,TopEU,TRUE,FALSE,no,no
+4392,sky.it,TopEU,TRUE,FALSE,x,x
+4439,20minutes.fr,TopEU,TRUE,FALSE,full,full
+4495,europapress.es,TopEU,TRUE,FALSE,paywall,no
+4509,tf1.fr,TopEU,TRUE,FALSE,full,full
+4534,wired.co.uk,TopEU,TRUE,FALSE,manage,no
+4547,eldiario.es,TopEU,TRUE,FALSE,paywall,paywall
+4553,next.co.uk,TopEU,TRUE,FALSE,full,full
+4576,svt.se,TopEU,TRUE,FALSE,full,full
+4577,siemens.de,TopEU,TRUE,FALSE,full,full
+4585,google.com.cy,TopEU,TRUE,FALSE,full,no
+4591,gazeta.pl,TopEU,TRUE,FALSE,manage,manage
+4606,gov.pl,TopEU,TRUE,FALSE,notice,notice
+4642,ec-lyon.fr,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4663,ceneo.pl,TopEU,TRUE,FALSE,full,full
+4670,amazon.se,TopEU,TRUE,FALSE,no,full
+4705,lequipe.fr,TopEU,TRUE,FALSE,paywall,paywall
+4722,mediaset.it,TopEU,TRUE,FALSE,x,x
+4734,imperial.ac.uk,TopEU,TRUE,FALSE,full,full
+4746,gva.es,TopEU,TRUE,FALSE,notice,notice
+4774,immobilienscout24.de,TopEU,TRUE,FALSE,no,manage
+4795,br.de,TopEU,TRUE,FALSE,no,no
+4797,sfr.fr,TopEU,TRUE,FALSE,full,full
+4799,cert.ee,TopEU,TRUE,FALSE,full,full
+4800,amazon.pl,TopEU,TRUE,FALSE,full,no
+4827,gesetze-im-internet.de,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4829,scoop.it,TopEU,TRUE,FALSE,full,full
+4853,ons.gov.uk,TopEU,TRUE,FALSE,manage,manage
+4856,rae.es,TopEU,TRUE,FALSE,no,no
+4867,loopia.se,TopEU,TRUE,FALSE,full choices,full choices
+4880,pin.it,TopEU,TRUE,FALSE,no,no
+4905,dr.dk,TopEU,TRUE,FALSE,choices,choices
+4921,second-ns.de,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4937,e5.sk,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4978,zoho.eu,TopEU,TRUE,FALSE,manage,no
+4987,boe.es,TopEU,TRUE,FALSE,no,no
+4993,wetteronline.de,TopEU,TRUE,FALSE,paywall,paywall
+5019,uu.nl,TopEU,TRUE,FALSE,no,no
+5026,cnr.it,TopEU,TRUE,FALSE,no,no
+5031,juntadeandalucia.es,TopEU,TRUE,FALSE,no,no
+5037,expressen.se,TopEU,TRUE,FALSE,manage,manage
+5071,francebleu.fr,TopEU,TRUE,FALSE,full,full
+5081,lesechos.fr,TopEU,TRUE,FALSE,x,x
+5117,blogspot.com.es,TopEU,TRUE,FALSE,no,no
+5129,hosteurope.de,TopEU,TRUE,FALSE,full,full
+5131,eleconomista.es,TopEU,TRUE,FALSE,paywall,paywall
+5141,liverpoolecho.co.uk,TopEU,TRUE,FALSE,manage xa,no
+5166,redcdn.pl,TopEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+5232,tripadvisor.fr,TopEU,TRUE,FALSE,full,no
+5236,dhl.de,TopEU,TRUE,FALSE,full,full
+5247,warwick.ac.uk,TopEU,TRUE,FALSE,choices,choices
+5250,pagesjaunes.fr,TopEU,TRUE,FALSE,x,x
+5262,zalando.fr,TopEU,TRUE,FALSE,no,full
+5285,personio-internal.de,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+5295,zalando.it,TopEU,TRUE,FALSE,no,full
+5296,ebay.fr,TopEU,TRUE,FALSE,full,full
+5312,ionos.de,TopEU,TRUE,FALSE,full,full
+5326,birminghammail.co.uk,TopEU,TRUE,FALSE,manage,no
+5328,krone.at,TopEU,TRUE,FALSE,paywall,paywall
+5329,o2.pl,TopEU,TRUE,FALSE,manage,manage
+5349,blogspot.fr,TopEU,TRUE,FALSE,no,no
+5364,larazon.es,TopEU,TRUE,FALSE,full,full
+5367,idealo.de,TopEU,TRUE,FALSE,full-m,full-m
+5378,allocine.fr,TopEU,TRUE,FALSE,paywall,paywall
+5383,poste.it,TopEU,TRUE,FALSE,full xa,full xa
+5419,gla.ac.uk,TopEU,TRUE,FALSE,choices,choices
+5429,wanadoo.fr,TopEU,TRUE,FALSE,full,no
+5439,elisa.fi,TopEU,TRUE,FALSE,manage,manage
+5447,tum.de,TopEU,TRUE,FALSE,no,no
+5463,meganameservers.eu,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+5468,ameli.fr,TopEU,TRUE,FALSE,full,full
+5469,laposte.fr,TopEU,TRUE,FALSE,x,full
+5509,morgenpost.de,TopEU,TRUE,FALSE,paywall,paywall
+5526,skynet.be,TopEU,TRUE,FALSE,full,Not Reachable - Manual
+5533,doctolib.fr,TopEU,TRUE,FALSE,full,full
+5551,google.com.mt,TopEU,TRUE,FALSE,full,no
+5558,sudouest.fr,TopEU,TRUE,FALSE,paywall,paywall
+5562,websupport.sk,TopEU,TRUE,FALSE,full,full
+5580,e-mark.nl,TopEU,TRUE,FALSE,full,full
+5598,tripadvisor.es,TopEU,TRUE,FALSE,full,no
+5599,helsinki.fi,TopEU,TRUE,FALSE,full choices,full choices
+5630,dn.se,TopEU,TRUE,FALSE,manage,manage
+5660,kicker.de,TopEU,TRUE,FALSE,paywall,paywall
+5668,eventim.de,TopEU,TRUE,FALSE,full,full
+5675,tudelft.nl,TopEU,TRUE,FALSE,full,full
+5695,netnod.se,TopEU,TRUE,FALSE,no,no
+5697,stealth.si,TopEU,TRUE,FALSE,no,no
+5714,autoscout24.de,TopEU,TRUE,FALSE,manage,manage
+5725,rainews.it,TopEU,TRUE,FALSE,x,x
+5731,transip.nl,TopEU,TRUE,FALSE,full,full
+5744,tripadvisor.it,TopEU,TRUE,FALSE,full,no
+5752,thomann.de,TopEU,TRUE,FALSE,full,full
+5778,rtl.fr,TopEU,TRUE,FALSE,full,full
+5781,autotrader.co.uk,TopEU,TRUE,FALSE,full,no
+5790,lu.se,TopEU,TRUE,FALSE,full-m,full-m
+5795,bayern.de,TopEU,TRUE,FALSE,full-m,full-m
+5819,hs.fi,TopEU,TRUE,FALSE,manage,manage
+5820,sonnen.de,TopEU,TRUE,FALSE,manage,manage
+5833,zoopla.co.uk,TopEU,TRUE,FALSE,full,full
+5835,ilfattoquotidiano.it,TopEU,TRUE,FALSE,x,x
+5858,demon.co.uk,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+5872,xs4all.nl,TopEU,TRUE,FALSE,no,no
+5898,buienradar.nl,TopEU,TRUE,FALSE,paywall,paywall
+5899,tf1info.fr,TopEU,TRUE,FALSE,x,x
+5907,leeds.ac.uk,TopEU,TRUE,FALSE,manage,manage
+5915,tv2.dk,TopEU,TRUE,FALSE,full,full
+5916,arnebrachhold.de,TopEU,TRUE,FALSE,no,no
+5924,sonnenbatterie.de,TopEU,TRUE,FALSE,manage,manage
+5931,boutell.co.uk,TopEU,TRUE,FALSE,no,no
+5960,olx.ro,TopEU,TRUE,FALSE,manage,manage
+5962,louvre.fr,TopEU,TRUE,FALSE,full,full
+5963,surfnet.nl,TopEU,TRUE,FALSE,manage xa,manage xa
+5979,uni-heidelberg.de,TopEU,TRUE,FALSE,no,no
+5984,nieuwsblad.be,TopEU,TRUE,FALSE,full,full
+5986,rtl.nl,TopEU,TRUE,FALSE,full,full
+6001,usertesting.com,Sampled1k,FALSE,FALSE,full,no
+6010,kcl.ac.uk,TopEU,TRUE,FALSE,full,full
+6027,raiplay.it,TopEU,TRUE,FALSE,x,x
+6030,lavozdegalicia.es,TopEU,TRUE,FALSE,full,full
+6031,livedns.co.uk,TopEU,TRUE,FALSE,no,no
+6039,timesonline.co.uk,TopEU,TRUE,FALSE,full,no
+6044,tate.org.uk,TopEU,TRUE,FALSE,x,x
+6057,carnet.hr,TopEU,TRUE,FALSE,full xa,full xa
+6059,elle.fr,TopEU,TRUE,FALSE,x,full-m
+6086,capital.fr,TopEU,TRUE,FALSE,paywall,paywall
+6101,volkswagen.de,TopEU,TRUE,FALSE,full,full
+6116,dns.eu,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+6119,derwesten.de,TopEU,TRUE,FALSE,no,paywall
+6123,bnf.fr,TopEU,TRUE,FALSE,full,full
+6140,currys.co.uk,TopEU,TRUE,FALSE,full,full
+6142,agenziaentrate.gov.it,TopEU,TRUE,FALSE,no,no
+6145,wdr.de,TopEU,TRUE,FALSE,no,no
+6157,auerproxy.de,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+6161,fu-berlin.de,TopEU,TRUE,FALSE,no,no
+6166,mediamarkt.de,TopEU,TRUE,FALSE,full,full
+6174,rwth-aachen.de,TopEU,TRUE,FALSE,notice,notice
+6183,chefkoch.de,TopEU,TRUE,FALSE,paywall,paywall
+6192,uva.nl,TopEU,TRUE,FALSE,full,full
+6194,nyaa.si,TopEU,TRUE,FALSE,no,no
+6220,rug.nl,TopEU,TRUE,FALSE,notice,notice
+6227,register.it,TopEU,TRUE,FALSE,full,full
+6231,ilgiornale.it,TopEU,TRUE,FALSE,full,no
+6236,innogames.de,TopEU,TRUE,FALSE,full,full
+6262,pinterest.fr,TopEU,TRUE,FALSE,no,no
+6277,dailyrecord.co.uk,TopEU,TRUE,FALSE,manage xa,notice
+6295,thalia.de,TopEU,TRUE,FALSE,full-m,full-m
+6297,kleinezeitung.at,TopEU,TRUE,FALSE,manage,manage
+6313,in.gr,TopEU,TRUE,FALSE,full,no
+6315,francetravail.fr,TopEU,TRUE,FALSE,x,x
+6331,telecinco.es,TopEU,TRUE,FALSE,paywall,paywall
+6333,allianz.de,TopEU,TRUE,FALSE,full,full
+6341,superbet.ro,TopEU,TRUE,FALSE,full,full
+6351,lavoixdunord.fr,TopEU,TRUE,FALSE,paywall,paywall
+6371,carrefour.fr,TopEU,TRUE,FALSE,x,x
+6378,adac.de,TopEU,TRUE,FALSE,x,no
+6379,lidl.de,TopEU,TRUE,FALSE,full,full
+6380,justpaste.it,TopEU,TRUE,FALSE,no,no
+6382,inps.it,TopEU,TRUE,FALSE,full xa,full xa
+6388,fotocasa.es,TopEU,TRUE,FALSE,full,no
+6424,inews.co.uk,TopEU,TRUE,FALSE,manage,no
+6447,kaufland.de,TopEU,TRUE,FALSE,full,full
+6448,tim.it,TopEU,TRUE,FALSE,x,x
+6469,publico.pt,TopEU,TRUE,FALSE,manage,no
+6470,arbeitsagentur.de,TopEU,TRUE,FALSE,choices,choices
+6476,ebay.es,TopEU,TRUE,FALSE,full,full
+6478,kth.se,TopEU,TRUE,FALSE,full,full
+6494,nova.cz,TopEU,TRUE,FALSE,full,full
+6506,alza.cz,TopEU,TRUE,FALSE,full,full
+6523,berlin.de,TopEU,TRUE,FALSE,no,no
+6531,funda.nl,TopEU,TRUE,FALSE,full,full
+6547,dhnet.be,TopEU,TRUE,FALSE,manage,manage
+6548,dailystar.co.uk,TopEU,TRUE,FALSE,manage xa,notice
+6550,rtvslo.si,TopEU,TRUE,FALSE,manage,manage
+6571,heraldo.es,TopEU,TRUE,FALSE,paywall,paywall
+6572,sport1.de,TopEU,TRUE,FALSE,paywall,paywall
+6574,huffingtonpost.es,TopEU,TRUE,FALSE,manage,manage
+6601,uni-hamburg.de,TopEU,TRUE,FALSE,no,no
+6604,poznan.pl,TopEU,TRUE,FALSE,manage xa,manage xa
+6608,kuleuven.be,TopEU,TRUE,FALSE,full,full
+6610,telekom.hu,TopEU,TRUE,FALSE,full,full
+6619,lepoint.fr,TopEU,TRUE,FALSE,paywall,paywall
+6620,immowelt.de,TopEU,TRUE,FALSE,no,manage
+6629,journaldesfemmes.fr,TopEU,TRUE,FALSE,paywall,no
+6635,pinterest.de,TopEU,TRUE,FALSE,no,no
+6639,inbox.lv,TopEU,TRUE,FALSE,manage,manage
+6640,core.ac.uk,TopEU,TRUE,FALSE,full,full
+6645,nic.cz,TopEU,TRUE,FALSE,no,no
+6650,letelegramme.fr,TopEU,TRUE,FALSE,x,x
+6654,muni.cz,TopEU,TRUE,FALSE,full,full
+6655,swr.de,TopEU,TRUE,FALSE,no,no
+6661,tiscali.it,TopEU,TRUE,FALSE,full,full
+6699,tui.co.uk,TopEU,TRUE,FALSE,full,full
+6702,is.fi,TopEU,TRUE,FALSE,manage,manage
+6706,tchibo.de,TopEU,TRUE,FALSE,full,full
+6720,seznamzpravy.cz,TopEU,TRUE,FALSE,paywall,paywall
+6725,iol.pt,TopEU,TRUE,FALSE,manage,manage
+6748,very.co.uk,TopEU,TRUE,FALSE,manage,manage
+6759,walesonline.co.uk,TopEU,TRUE,FALSE,manage xa,no
+6765,open.ac.uk,TopEU,TRUE,FALSE,full,full
+6814,leprogres.fr,TopEU,TRUE,FALSE,x,x
+6816,blocket.se,TopEU,TRUE,FALSE,manage,manage
+6838,dnevnik.hr,TopEU,TRUE,FALSE,manage,manage
+6845,paris.fr,TopEU,TRUE,FALSE,full,full
+6856,tvspielfilm.de,TopEU,TRUE,FALSE,manage,manage
+6863,vanityfair.it,TopEU,TRUE,FALSE,x,x
+6865,getsurrey.co.uk,TopEU,TRUE,FALSE,manage,no
+6891,carrefour.es,TopEU,TRUE,FALSE,full,full
+6903,money.pl,TopEU,TRUE,FALSE,manage,manage
+6909,observador.pt,TopEU,TRUE,FALSE,manage,manage
+6913,heute.at,TopEU,TRUE,FALSE,paywall,paywall
+6922,express.de,TopEU,TRUE,FALSE,paywall,no
+6924,cra.cz,TopEU,TRUE,FALSE,full xa,full xa
+6925,sdn.cz,TopEU,TRUE,FALSE,no,no
+6945,blesk.cz,TopEU,TRUE,FALSE,paywall,paywall
+6959,freepik.es,TopEU,TRUE,FALSE,full,full
+6961,national-lottery.co.uk,TopEU,TRUE,FALSE,full,full
+6962,uni-muenchen.de,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+6963,unibo.it,TopEU,TRUE,FALSE,full xa,full xa
+6969,cnews.fr,TopEU,TRUE,FALSE,full,full
+6994,windguru.cz,TopEU,TRUE,FALSE,manage,no
+6998,caf.fr,TopEU,TRUE,FALSE,no,notice
+7033,decathlon.fr,TopEU,TRUE,FALSE,x,x
+7046,origo.hu,TopEU,TRUE,FALSE,manage,no
+7071,ticketone.it,TopEU,TRUE,FALSE,full,full
+7084,pracuj.pl,TopEU,TRUE,FALSE,manage,manage
+7092,lne.es,TopEU,TRUE,FALSE,paywall,paywall
+7105,aktuality.sk,TopEU,TRUE,FALSE,x,no
+7116,zoznam.sk,TopEU,TRUE,FALSE,full,no
+7119,assertcom.de,TopEU,TRUE,FALSE,no,no
+7123,mdr.de,TopEU,TRUE,FALSE,no,no
+7125,idealista.pt,TopEU,TRUE,FALSE,manage,manage
+7127,2dehands.be,TopEU,TRUE,FALSE,manage,no
+7129,belgium.be,TopEU,TRUE,FALSE,no,no
+7130,sport.cz,TopEU,TRUE,FALSE,paywall,paywall
+7131,movistar.es,TopEU,TRUE,FALSE,no,full
+7140,sainsburys.co.uk,TopEU,TRUE,FALSE,full,full
+7144,csfd.cz,TopEU,TRUE,FALSE,manage,manage
+7147,gelderlander.nl,TopEU,TRUE,FALSE,manage,manage
+7171,portfolio.hu,TopEU,TRUE,FALSE,full,ambiguous
+7177,greenend.org.uk,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+7185,hna.de,TopEU,TRUE,FALSE,paywall,no
+7187,ancestry.co.uk,TopEU,TRUE,FALSE,no,no
+7188,24.hu,TopEU,TRUE,FALSE,manage,manage
+7191,oe24.at,TopEU,TRUE,FALSE,manage,no
+7195,hotnews.ro,TopEU,TRUE,FALSE,manage,manage
+7197,telenet.be,TopEU,TRUE,FALSE,full,full
+7205,adevarul.ro,TopEU,TRUE,FALSE,manage,manage
+7208,tag24.de,TopEU,TRUE,FALSE,manage,manage
+7218,bl.uk,TopEU,TRUE,FALSE,full choices xa,full choices xa
+7228,videa.hu,TopEU,TRUE,FALSE,manage,no
+7229,medallia.eu,TopEU,TRUE,FALSE,full,no
+7238,yandex.eu,TopEU,TRUE,FALSE,full,full
+7247,willhaben.at,TopEU,TRUE,FALSE,full,full
+7250,dbankcloud.eu,TopEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+7252,inria.fr,TopEU,TRUE,FALSE,full,full
+8317,licindia.in,Sampled1k,FALSE,FALSE,no,no
+10557,parentsquare.com,Sampled1k,FALSE,FALSE,notice,notice
+16556,gamma.nl,SampledEU,TRUE,FALSE,full-m,full-m
+16748,smbc-card.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+16801,ica.se,SampledEU,TRUE,FALSE,full,full
+18111,ophan.co.uk,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+20331,01net.com,Sampled1k,FALSE,FALSE,x,no
+28406,goatsbot.xyz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+30688,paris2024.org,Sampled1k,FALSE,FALSE,full,manage
+32340,justice.cz,Sampled1k,TRUE,FALSE,no,no
+33155,carwow.co.uk,SampledEU,TRUE,FALSE,manage,no
+36304,hostm.net,Sampled1k,FALSE,FALSE,no,no
+39368,oxy.edu,Sampled1k,FALSE,FALSE,full-m,full-m
+41230,uxplanet.org,Sampled1k,FALSE,FALSE,no,no
+41402,lotwiliticate.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+43007,okmp3.ru,Sampled1k,FALSE,FALSE,no,no
+44036,southwalesargus.co.uk,SampledEU,TRUE,FALSE,manage,no
+46110,bidspotter.com,Sampled1k,FALSE,FALSE,no,no
+47133,lr-online.de,Sampled1k,TRUE,FALSE,paywall,no
+47436,maxoptra.com,Sampled1k,FALSE,FALSE,notice,notice
+53786,instadelivery.com.br,Sampled1k,FALSE,FALSE,no,no
+54507,clintonfoundation.org,Sampled1k,FALSE,FALSE,no,no
+59073,gazzettadiparma.it,SampledEU,TRUE,FALSE,x,x
+62666,tui.fr,SampledEU,TRUE,FALSE,x,x
+62739,internxt.com,Sampled1k,FALSE,FALSE,no,no
+63938,sdk-set1.com,Sampled1k,FALSE,FALSE,no,no
+68301,ah.be,SampledEU,TRUE,FALSE,full,full
+68812,koumakan.jp,Sampled1k,FALSE,FALSE,no,no
+70459,lexisnexis.co.uk,SampledEU,TRUE,FALSE,full,SETTINGS ONLY xa
+81378,fakeyou.com,Sampled1k,FALSE,FALSE,no,no
+81474,unboxholics.com,Sampled1k,FALSE,FALSE,manage,manage
+83248,asianpussyz.com,Sampled1k,FALSE,FALSE,no,no
+84055,masterbets365.com,Sampled1k,FALSE,FALSE,no,no
+87768,zborovna.sk,SampledEU,TRUE,FALSE,no,no
+90523,aqi.in,Sampled1k,FALSE,FALSE,no,no
+101987,desertcart.com,Sampled1k,FALSE,FALSE,no,no
+104872,roc-taiwan.org,Sampled1k,FALSE,FALSE,no,no
+104959,11029984.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+105508,thetexi.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+106250,patih83697.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+107706,dhfdhh.com,Sampled1k,FALSE,FALSE,no,no
+108618,vlogtruyen32.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+120966,kaisanet.fi,SampledEU,TRUE,FALSE,full,full
+123686,vgtu.lt,SampledEU,TRUE,FALSE,no,no
+126234,hbdm.com,Sampled1k,FALSE,FALSE,no,no
+126796,lc.org,Sampled1k,FALSE,FALSE,no,no
+127846,madridiario.es,SampledEU,TRUE,FALSE,full xa,no
+130876,ottctel.com,Sampled1k,FALSE,FALSE,no,no
+132311,staticmeow.com,Sampled1k,FALSE,FALSE,no,no
+134437,c2ccertified.org,Sampled1k,FALSE,FALSE,no,no
+134518,inode.at,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+135041,newrecruit.eu,SampledEU,TRUE,FALSE,no,no
+139507,metaltorg.ru,Sampled1k,FALSE,FALSE,no,no
+142114,pgdlisboa.pt,SampledEU,TRUE,FALSE,no,no
+143655,mpo.cz,SampledEU,TRUE,FALSE,full-m,full-m
+147328,yuzhou889.top,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+147559,hearingloss.org,Sampled1k,FALSE,FALSE,no,no
+152875,openbravo.com,Sampled1k,FALSE,FALSE,no,no
+153235,proserve.nl,SampledEU,TRUE,FALSE,full,full
+154784,coinify.com,Sampled1k,FALSE,FALSE,notice,notice
+157084,radiantthemes.com,Sampled1k,FALSE,FALSE,no,no
+158536,getchop.io,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+158935,ws.edu,Sampled1k,FALSE,FALSE,no,no
+159028,netvisao.pt,SampledEU,TRUE,FALSE,Not Reachable - Manual,manage
+161466,domainlore.uk,SampledEU,TRUE,FALSE,no,no
+173238,renews.biz,Sampled1k,FALSE,FALSE,no,no
+182192,netcore.no,Sampled1k,FALSE,FALSE,no,no
+183640,aadrm.cn,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+186394,adaniairports.com,Sampled1k,FALSE,FALSE,notice,notice
+188027,aapathshala.com,Sampled1k,FALSE,FALSE,no,no
+188260,ilclubdellericette.it,SampledEU,TRUE,FALSE,manage,manage
+189423,lordserialzz1.pro,Sampled1k,FALSE,FALSE,no,no
+189868,desertschools.org,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+190168,walshmedicalmedia.com,Sampled1k,FALSE,FALSE,no,no
+196342,mpint.ro,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+196739,lovepedia.net,Sampled1k,FALSE,FALSE,x,x
+199776,microsoft-ppe.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+203370,kelloggs.co.uk,SampledEU,TRUE,FALSE,full,full
+212867,i3d.nl,Sampled1k,TRUE,FALSE,full,full
+217886,paesidelgusto.it,SampledEU,TRUE,FALSE,x,x
+226718,nlg1.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+230576,libertynation.com,Sampled1k,FALSE,FALSE,notice,notice
+235004,medi-karriere.de,Sampled1k,TRUE,FALSE,manage,manage
+238478,spzl.nl,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+238653,cultuurfonds.nl,SampledEU,TRUE,FALSE,manage,manage
+240172,cukaraya999.com,Sampled1k,FALSE,FALSE,no,no
+242891,estranged-tech.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+243624,crunchbangplusplus.org,Sampled1k,FALSE,FALSE,no,no
+245032,aynu.edu.cn,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+246371,frrkdlwy.tv,Sampled1k,FALSE,FALSE,no,no
+247093,mobilemag.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+249149,newyorkdress.com,Sampled1k,FALSE,FALSE,full-m,no
+254411,omtch.com,Sampled1k,FALSE,FALSE,no,no
+261020,wordvice.com,Sampled1k,FALSE,FALSE,no,no
+264144,engageclick.pl,SampledEU,TRUE,FALSE,no,no
+267349,verishop.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+269757,activant.com,Sampled1k,FALSE,FALSE,full-m xa,no
+269784,paster.so,Sampled1k,FALSE,FALSE,no,no
+271826,saghysat.hu,SampledEU,TRUE,FALSE,notice,no
+273777,browns-restaurants.co.uk,SampledEU,TRUE,FALSE,full,full
+276222,charteredaccountants.ie,SampledEU,TRUE,FALSE,full-m,full-m
+285053,v1ttm1n2.com,Sampled1k,FALSE,FALSE,no,no
+286616,scala.eu,Sampled1k,TRUE,FALSE,full xa,full xa
+286891,domofond.ru,Sampled1k,FALSE,FALSE,notice,notice
+287761,mks-chel.ru,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+289311,altheamesh.com,Sampled1k,FALSE,FALSE,no,no
+295846,heartrhythmjournal.com,Sampled1k,FALSE,FALSE,manage,manage
+301219,n0.eu,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+303538,west-holding.com,Sampled1k,FALSE,FALSE,no,no
+307196,pqlab.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+313640,momentive.com,Sampled1k,FALSE,FALSE,manage xa,manage xa
+313969,ksd-images.lt,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+317424,danelfin.com,Sampled1k,FALSE,FALSE,full-m,full-m
+319834,illuster.nl,SampledEU,TRUE,FALSE,no,no
+321135,earchive.cloud,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+322454,websoulhost.com,Sampled1k,FALSE,FALSE,no,no
+322804,agrofert.cz,SampledEU,TRUE,FALSE,choices,choices
+322808,1eeres.com,Sampled1k,FALSE,FALSE,no,no
+322863,issa.cz,SampledEU,TRUE,FALSE,full,full
+322986,porno26.com,Sampled1k,FALSE,FALSE,no,no
+323645,firmenpresse.de,SampledEU,TRUE,FALSE,full,full
+328328,premier.gov.pl,SampledEU,TRUE,FALSE,notice,notice
+334064,blackpoolgrand.co.uk,SampledEU,TRUE,FALSE,notice,notice
+338493,radiozwickau.de,SampledEU,TRUE,FALSE,no,no
+344421,electricallicenserenewal.com,Sampled1k,FALSE,FALSE,no,no
+345096,zacatrus.es,SampledEU,TRUE,FALSE,full xa,full xa
+347818,buehnen-graz.com,Sampled1k,FALSE,FALSE,choices,choices
+349516,detse.net,Sampled1k,FALSE,FALSE,no,no
+349735,jaslo4u.pl,SampledEU,TRUE,FALSE,notice,notice
+352805,q7.sk,Sampled1k,TRUE,FALSE,no,no
+359169,konzerthaus-dortmund.de,Sampled1k,TRUE,FALSE,full,full
+361399,toro.it,SampledEU,TRUE,FALSE,full,ambiguous
+364037,mtools.nl,SampledEU,TRUE,FALSE,full,full
+365370,propeciameds.online,Sampled1k,FALSE,FALSE,no,no
+367270,akwarella.pl,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+367528,finc.com,Sampled1k,FALSE,FALSE,no,no
+367561,tea.bg,SampledEU,TRUE,FALSE,no,no
+367836,msgp.pl,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+384175,amaze.net.au,Sampled1k,FALSE,FALSE,no,no
+389568,physicianonfire.com,Sampled1k,FALSE,FALSE,full,no
+398249,explorecredit.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+400552,orval.be,SampledEU,TRUE,FALSE,notice,notice
+401450,appteka.store,Sampled1k,FALSE,FALSE,no,no
+404601,przemyska.pl,SampledEU,TRUE,FALSE,full,full
+407922,sugar.it,SampledEU,TRUE,FALSE,choices,choices
+409633,tacf.es,SampledEU,TRUE,FALSE,full,full
+410228,enthub.it,SampledEU,TRUE,FALSE,full-m,notice
+412910,indiangirlsclub.com,Sampled1k,FALSE,FALSE,no,no
+413634,rfen.es,SampledEU,TRUE,FALSE,choices,choices
+415145,from-ok.com,Sampled1k,FALSE,FALSE,no,no
+415852,meldmisdaadanoniem.nl,SampledEU,TRUE,FALSE,no,no
+417712,points.fr,SampledEU,TRUE,FALSE,full,no
+419217,hir24.hu,Sampled1k,TRUE,FALSE,no,no
+419419,kra2cc.at,SampledEU,TRUE,FALSE,no,no
+420418,jolted.vip,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+423503,hostingas.lt,SampledEU,TRUE,FALSE,preselected,preselected
+428976,flipout.co.uk,SampledEU,TRUE,FALSE,full,full
+430624,suadolexerdse.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+435344,mylee.co.uk,SampledEU,TRUE,FALSE,no,no
+437942,l2p.co.uk,SampledEU,TRUE,FALSE,no,no
+443827,megahdtv.xyz,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+444983,bismoscow.com,Sampled1k,FALSE,FALSE,no,notice
+445742,pogonszczecin.pl,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+449842,bestcachecdn248.shop,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+450138,spelexperten.com,Sampled1k,FALSE,FALSE,manage,manage
+453547,bloghoptoys.fr,SampledEU,TRUE,FALSE,full,full
+457316,globalmyb2b.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+461261,belbim.istanbul,Sampled1k,FALSE,FALSE,no,no
+461374,simplize.vn,Sampled1k,FALSE,FALSE,no,no
+464393,sewessential.co.uk,SampledEU,TRUE,FALSE,no,no
+466228,schule-sh.de,SampledEU,TRUE,FALSE,no,no
+468465,fjt.no,Sampled1k,FALSE,FALSE,manage,notice
+475631,laptoplookout.com,Sampled1k,FALSE,FALSE,no,no
+482562,arsarma.ru,Sampled1k,FALSE,FALSE,no,no
+484912,recup.de,SampledEU,TRUE,FALSE,full,full
+487525,offerzen.com,Sampled1k,FALSE,FALSE,notice,notice
+488702,travronden.se,SampledEU,TRUE,FALSE,full,full
+489551,roblox.com.py,Sampled1k,FALSE,FALSE,no,no
+493482,maisonbible.fr,SampledEU,TRUE,FALSE,choices xa,choices xa
+496818,dieselkino.at,SampledEU,TRUE,FALSE,no,no
+497817,mittelstand-digital.de,SampledEU,TRUE,FALSE,choices,choices
+499700,atdata.com,Sampled1k,FALSE,FALSE,no,no
+501084,slo-sms.co.id,Sampled1k,FALSE,FALSE,no,no
+501656,latgalesamatnieki.lv,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+506527,pekao-fs.com.pl,SampledEU,TRUE,FALSE,no,no
+507961,thenile.co.nz,Sampled1k,FALSE,FALSE,no,no
+509042,beinconnect.es,SampledEU,TRUE,FALSE,full choices,full choices
+511789,rangefinderforum.com,Sampled1k,FALSE,FALSE,notice,notice
+514486,bharatpe.com,Sampled1k,FALSE,FALSE,no,no
+514648,turkru-film.site,Sampled1k,FALSE,FALSE,full,no
+519792,baanpoolvillas.com,Sampled1k,FALSE,FALSE,full-m xa,full-m xa
+521275,curtains-2go.co.uk,SampledEU,TRUE,FALSE,no,no
+523061,tlt-arena.ru,Sampled1k,FALSE,FALSE,no,no
+524772,vemap.com,Sampled1k,FALSE,FALSE,no,no
+525582,lifetime-learning.de,SampledEU,TRUE,FALSE,no,no
+528016,herosolobio.it,SampledEU,TRUE,FALSE,no,no
+529739,oberscharrer.de,SampledEU,TRUE,FALSE,full,full
+532039,vrxgrju.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+533288,editorasolucao.com.br,Sampled1k,FALSE,FALSE,notice,notice
+535013,internationalsos.fr,SampledEU,TRUE,FALSE,full,manage xa
+535114,b1ackstash.cc,Sampled1k,FALSE,FALSE,no,no
+537147,redperfume.com,Sampled1k,FALSE,FALSE,full,full
+542938,gvl.de,Sampled1k,TRUE,FALSE,full,full
+549093,cafedown.net,Sampled1k,FALSE,FALSE,no,no
+551198,desenefaine.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+553762,agrotender.com.ua,Sampled1k,FALSE,FALSE,no,no
+554160,aoweixinnengyuan.com,Sampled1k,FALSE,FALSE,no,no
+555334,webgenius.co.nz,Sampled1k,FALSE,FALSE,no,no
+555790,bluebeam.co.uk,SampledEU,TRUE,FALSE,no,manage
+561236,ahmarket.com,Sampled1k,FALSE,FALSE,no,no
+568670,elsat.net.pl,SampledEU,TRUE,FALSE,full xa,full xa
+569440,weijia-666.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+570739,platinumslotscasino.info,Sampled1k,FALSE,FALSE,no,no
+576744,delmed.de,SampledEU,TRUE,FALSE,full,full
+581209,stonerealestate.com.au,Sampled1k,FALSE,FALSE,notice,notice
+588468,la-biblia.net,Sampled1k,FALSE,FALSE,no,no
+592420,faecys.org.ar,Sampled1k,FALSE,FALSE,no,no
+593344,wphostserver.com,Sampled1k,FALSE,FALSE,no,no
+593685,roadcycling.cz,SampledEU,TRUE,FALSE,no,no
+594376,minigps.ro,SampledEU,TRUE,FALSE,no,no
+595487,plob.cz,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+595860,orgstaff.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+596604,hbxdjiy.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+601044,bmgardenbuildings.co.uk,SampledEU,TRUE,FALSE,notice,notice
+602382,telcosol.gr,SampledEU,TRUE,FALSE,no,no
+602591,tinypic.pl,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+614379,sportroom.pl,Sampled1k,TRUE,FALSE,full,full
+614449,ullapopken.at,SampledEU,TRUE,FALSE,manage,manage
+616071,diana-award.org.uk,SampledEU,TRUE,FALSE,full,full
+618568,youxfw.com,Sampled1k,FALSE,FALSE,no,no
+618604,zhenlaidian.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+618971,utguard.fr,Sampled1k,TRUE,FALSE,no,no
+623482,laruence.com,Sampled1k,FALSE,FALSE,no,no
+637832,tvmucho.com,Sampled1k,FALSE,FALSE,no,Not Reachable - Manual
+639263,betmacaco.com,Sampled1k,FALSE,FALSE,no,no
+641147,hoster903.com,Sampled1k,FALSE,FALSE,no,no
+643505,travel-dev.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+643794,dotdreams.net,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+644274,ca-prestations-sante.fr,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+647667,gdjudian.com,Sampled1k,FALSE,FALSE,no,no
+649822,imm-cologne.de,SampledEU,TRUE,FALSE,full,full
+653882,abra.eu,Sampled1k,TRUE,FALSE,preselected,no
+656133,magallanesbbc.com.ve,Sampled1k,FALSE,FALSE,no,no
+658973,chlianwen.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+660161,gandia.es,SampledEU,TRUE,FALSE,no,no
+666470,quiettownhome.com,Sampled1k,FALSE,FALSE,no,no
+666690,unigra.it,SampledEU,TRUE,FALSE,full choices,full choices
+668528,bibliotheekutrecht.nl,SampledEU,TRUE,FALSE,full-m,full-m
+670114,drift.click,Sampled1k,FALSE,FALSE,no,no
+672167,pain-pod.com,Sampled1k,FALSE,FALSE,no,no
+674822,case-internet.nl,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+683814,nesa.gov.rw,Sampled1k,FALSE,FALSE,no,no
+691116,esenf.pt,SampledEU,TRUE,FALSE,no,no
+693585,dokladno.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+696751,udobni.bg,SampledEU,TRUE,FALSE,full-m,full-m
+697569,fromwatch.com,Sampled1k,FALSE,FALSE,no,no
+698013,edgeworksentertainment.com,Sampled1k,FALSE,FALSE,no,no
+700232,0jinijrawarasr.site,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+700630,softsystem.pl,Sampled1k,TRUE,FALSE,full xa,full xa
+705734,scacchi-online.eu,SampledEU,TRUE,FALSE,full,full
+706006,vypocitejto.cz,SampledEU,TRUE,FALSE,manage,no
+711864,proarmis.si,SampledEU,TRUE,FALSE,no,no
+713863,oogio.net,Sampled1k,FALSE,FALSE,manage,no
+713994,remediumfarm.ro,SampledEU,TRUE,FALSE,full,full
+719174,grizzlies30.fun,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+720545,lipatempatd.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+721373,uniref.ir,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+721622,iee.or.jp,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+722416,rolling-beers.fr,SampledEU,TRUE,FALSE,full-m xa,full-m xa
+727227,e-peds.ch,Sampled1k,FALSE,FALSE,no,no
+727258,emmetistore.it,SampledEU,TRUE,FALSE,manage,manage
+727520,idope.lol,Sampled1k,FALSE,FALSE,no,no
+731558,textilmar.pl,Sampled1k,TRUE,FALSE,notice,notice
+735872,szubin24.pl,SampledEU,TRUE,FALSE,notice,notice
+740920,kita.bayern,Sampled1k,FALSE,FALSE,no,no
+746676,idaretobe.com,Sampled1k,FALSE,FALSE,manage,manage
+752873,lord-films.shop,Sampled1k,FALSE,FALSE,no,no
+769356,cobreflex.com.br,Sampled1k,FALSE,FALSE,no,no
+769425,codiceateco.it,SampledEU,TRUE,FALSE,full,no
+769471,cognos.pt,SampledEU,TRUE,FALSE,manage,manage
+777461,ewalds.hu,SampledEU,TRUE,FALSE,notice,notice
+778948,finnhandball.net,Sampled1k,FALSE,FALSE,no,no
+779552,fondopriamo.it,SampledEU,TRUE,FALSE,no,no
+779709,formas.toscana.it,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+781030,gamesworld.com.au,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+792325,kora-onlinee.com,Sampled1k,FALSE,FALSE,no,no
+793136,labotigadelxavi.es,SampledEU,TRUE,FALSE,no,no
+795730,louis-moto.ch,Sampled1k,FALSE,FALSE,full-m,full-m
+800437,mojeambulance.cz,SampledEU,TRUE,FALSE,full choices,full
+802338,n69.pl,SampledEU,TRUE,FALSE,manage,manage
+803973,nobilacasa.ro,SampledEU,TRUE,FALSE,preselected,preselected
+804426,nsmart.eu,SampledEU,TRUE,FALSE,no,no
+805717,onoranzefunebrisartori.it,SampledEU,TRUE,FALSE,full xa,full xa
+806076,originalnew.org,Sampled1k,FALSE,FALSE,no,no
+806400,oucde.net,Sampled1k,FALSE,FALSE,no,no
+808093,pesem.si,Sampled1k,TRUE,FALSE,no,no
+809291,plouf-plouf.fr,Sampled1k,TRUE,FALSE,no,no
+809704,pompo.sk,SampledEU,TRUE,FALSE,manage,manage
+809793,porcelana.gr,Sampled1k,TRUE,FALSE,full xa,full xa
+810685,profigaraz.sk,SampledEU,TRUE,FALSE,manage,manage
+811891,radiomercado.es,SampledEU,TRUE,FALSE,no,no
+812566,rechargemobile.co,Sampled1k,FALSE,FALSE,no,no
+812967,rendysshop.cz,SampledEU,TRUE,FALSE,no,no
+815951,seaps.jp,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+816402,serafinoshoes.gr,SampledEU,TRUE,FALSE,no,no
+817854,singles50.pl,SampledEU,TRUE,FALSE,manage,manage
+818204,skippyland.co.th,Sampled1k,FALSE,FALSE,no,no
+819833,sportsdirect.ee,Sampled1k,TRUE,FALSE,full,full
+821629,sykz.fr,SampledEU,TRUE,FALSE,manage,manage
+830626,wife-ch.com,Sampled1k,FALSE,FALSE,no,no
+831936,xujisunrise.com.tw,Sampled1k,FALSE,FALSE,no,no
+834150,customconesusa.com,Sampled1k,FALSE,FALSE,no,no
+835590,conveyweb.co.uk,SampledEU,TRUE,FALSE,no,no
+836031,octopuscrm.io,Sampled1k,FALSE,FALSE,no,no
+842170,beerhawk.co.uk,SampledEU,TRUE,FALSE,no,no
+844978,unclesamsnewyork.com,Sampled1k,FALSE,FALSE,no,no
+846194,schlagerplanet.com,Sampled1k,FALSE,FALSE,manage,manage
+846585,trackbase.net,Sampled1k,FALSE,FALSE,no,no
+846837,canton-mi.org,Sampled1k,FALSE,FALSE,no,no
+851236,americansamoa.gov,Sampled1k,FALSE,FALSE,no,no
+852988,homecase.de,SampledEU,TRUE,FALSE,no,no
+854213,ekstraspanie.pl,SampledEU,TRUE,FALSE,manage,Not Reachable - Manual
+859241,shopxxl.be,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+861315,quixotic-high.com,Sampled1k,FALSE,FALSE,no,no
+864822,viaa.gov.lv,Sampled1k,TRUE,FALSE,full,full
+865938,cncda.org,Sampled1k,FALSE,FALSE,no,no
+866220,palm-web.jp,Sampled1k,FALSE,FALSE,no,no
+871278,commeti.com,Sampled1k,FALSE,FALSE,no,no
+872397,eklavyapublication.com,Sampled1k,FALSE,FALSE,no,no
+878397,osloskinlab.it,SampledEU,TRUE,FALSE,full,full
+880972,socialcard.de,SampledEU,TRUE,FALSE,no,no
+882424,tunaislotlink.autos,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+887586,quercusbooks.co.uk,SampledEU,TRUE,FALSE,full,notice
+887686,cool-snack-shop.de,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+897802,team-sticker.de,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+898248,jmtforever.cfd,Sampled1k,FALSE,FALSE,no,no
+900568,op5.com,Sampled1k,FALSE,FALSE,full xa,full xa
+900677,spitispa.gr,SampledEU,TRUE,FALSE,full,full
+903315,ntw.nhs.uk,SampledEU,TRUE,FALSE,full xa,full xa
+905655,earswitchhealing.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+906526,vulcano777onlines.click,Sampled1k,FALSE,FALSE,full xa,no
+909188,88slotdewabet.xyz,Sampled1k,FALSE,FALSE,no,Not Reachable - Manual
+909495,agb99link.makeup,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+910089,anotdomain.net,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+910507,auto88jago.sbs,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+922866,onma.me,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+928806,turkifsalife1.com,Sampled1k,FALSE,FALSE,no,no
+928987,ulartoto26.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+930774,zrzp37.shop,Sampled1k,FALSE,FALSE,no,no
+933272,cloudnord.net,Sampled1k,FALSE,FALSE,notice,notice
+935256,poznan-adwokat.pl,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+935353,zutphen.nl,SampledEU,TRUE,FALSE,no,no
+941544,kra-1cc.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+943807,jj20.com,Sampled1k,FALSE,FALSE,no,no
+945554,tuxx.nl,SampledEU,TRUE,FALSE,manage,no
+947229,sisburma.com,Sampled1k,FALSE,FALSE,no,no
+947743,crocnet.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+951685,shunkycrusher.com,Sampled1k,FALSE,FALSE,manage,no
+955850,3bmedianews.com,Sampled1k,FALSE,FALSE,no,no
+956679,petsgohome.org,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+958631,nencki.gov.pl,SampledEU,TRUE,FALSE,no,no
+963866,oshsh.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+964692,netherlands-tourism.com,Sampled1k,FALSE,FALSE,no,no
+968660,loewen.de,Sampled1k,TRUE,FALSE,no,full
+971456,sutterhome.com,Sampled1k,FALSE,FALSE,no,no
+978789,samuelsimpson.com,Sampled1k,FALSE,FALSE,no,no
+979015,dramago.info,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+979461,freedomtrading.com,Sampled1k,FALSE,FALSE,no,no
+984992,travel-consignification.com,Sampled1k,FALSE,FALSE,no,no
+985812,croix-rouge.lu,SampledEU,TRUE,FALSE,full,full
+994212,drieklomp.nl,SampledEU,TRUE,FALSE,manage xa,manage xa
+995721,worldtattooevents.com,Sampled1k,FALSE,FALSE,manage,no
+997251,miwe.de,SampledEU,TRUE,FALSE,full choices,full choices
+998784,webhostingselect.nl,SampledEU,TRUE,FALSE,no,no
+1000947,cookies-spravne.cz,SampledEU,TRUE,FALSE,full xa,full xa
+1001362,abfurniture.co.kr,Sampled1k,FALSE,FALSE,no,no
+1010283,gtcfla.edu.cn,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1011139,vlkvegascasinoy5.xyz,Sampled1k,FALSE,FALSE,full xa,no
+1015715,visuel.ly,Sampled1k,FALSE,FALSE,no,no
+1016063,sidekickopen10.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1016343,cubic.org,Sampled1k,FALSE,FALSE,no,no
+1020887,mondosims.it,SampledEU,TRUE,FALSE,no,no
+1021243,rusmet.ru,Sampled1k,FALSE,FALSE,notice,notice
+1021278,mindfulmomma.com,Sampled1k,FALSE,FALSE,2 banners,full-m
+1021988,hosting2.dk,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1024769,torbt.cz,Sampled1k,TRUE,FALSE,no,no
+1026112,living-architecture.co.uk,SampledEU,TRUE,FALSE,notice,notice
+1026974,dgfdt.de,SampledEU,TRUE,FALSE,full xa,full xa
+1032091,sixcleversisters.com,Sampled1k,FALSE,FALSE,manage,no
+1034409,ocdn.hu,SampledEU,TRUE,FALSE,no,no
+1037061,ufast88.site,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1039028,1win-cazino7.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1042812,harmonywithnatureun.org,Sampled1k,FALSE,FALSE,no,no
+1044171,uknip.co.uk,SampledEU,TRUE,FALSE,full,no
+1045799,riobetcasino-vdc.top,Sampled1k,FALSE,FALSE,no,no
+1051664,vergabe24.de,SampledEU,TRUE,FALSE,full,full
+1056558,mlbair.com,Sampled1k,FALSE,FALSE,no,no
+1060546,rehabnurse.org,Sampled1k,FALSE,FALSE,no,no
+1061415,noisylegrand.fr,Sampled1k,TRUE,FALSE,full,no
+1063058,apetito.co.uk,SampledEU,TRUE,FALSE,manage,manage
+1071457,fencingcentre.co.uk,SampledEU,TRUE,FALSE,full,full
+1071769,management-krankenhaus.de,SampledEU,TRUE,FALSE,full xa,full xa
+1072204,kaiserthesage.com,Sampled1k,FALSE,FALSE,no,no
+1077807,creampieporn.info,Sampled1k,FALSE,FALSE,no,no
+1078340,arguard.org,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+1078974,jbooks.mobi,Sampled1k,FALSE,FALSE,no,no
+1082777,bestmoment.life,Sampled1k,FALSE,FALSE,no,no
+1084198,minabaie.com,Sampled1k,FALSE,FALSE,no,no
+1084641,cumparceva.ro,SampledEU,TRUE,FALSE,manage,manage
+1085944,gohealthywithbea.com,Sampled1k,FALSE,FALSE,manage,no
+1088962,dumfinanci.cz,SampledEU,TRUE,FALSE,manage,manage
+1090473,brookingheights.org,Sampled1k,FALSE,FALSE,manage,no
+1094253,finecomb.com,Sampled1k,FALSE,FALSE,manage,no
+1094297,resel.fr,SampledEU,TRUE,FALSE,no,no
+1097725,rq-wy.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1098355,stakecube.ru,Sampled1k,FALSE,FALSE,no,no
+1101369,srv006.de,SampledEU,TRUE,FALSE,full,full
+1103668,alboweb.net,Sampled1k,FALSE,FALSE,no,no
+1107385,komoedie-berlin.de,Sampled1k,TRUE,FALSE,full-m,full-m
+1107707,darksidehost.com,Sampled1k,FALSE,FALSE,no,no
+1109944,valtrex33.us,Sampled1k,FALSE,FALSE,notice,notice
+1111443,c-system.dk,SampledEU,TRUE,FALSE,preselected,preselected
+1111525,vulkan24-ra-gwco.click,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1111965,koks.cc,Sampled1k,FALSE,FALSE,no,no
+1116269,coveris.academy,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1117094,experiencedmommy.com,Sampled1k,FALSE,FALSE,manage,no
+1119364,apolloalternativeassets.de,SampledEU,TRUE,FALSE,no,no
+1127885,pyramidhealthcarepa.com,Sampled1k,FALSE,FALSE,no,no
+1128135,trailblazershub.com,Sampled1k,FALSE,FALSE,no,no
+1128630,wobline-ip.de,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1131192,clood.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1138796,joycasino-zhn4.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1139072,sknt.site,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1140875,eede.gr,SampledEU,TRUE,FALSE,no,no
+1142706,experimenta.es,SampledEU,TRUE,FALSE,manage,manage
+1142727,one-id.it,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1142815,api-man.com,Sampled1k,FALSE,FALSE,no,no
+1144452,joycasino-zts2.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1146358,onecdn.co.uk,SampledEU,TRUE,FALSE,no,no
+1148754,residenceradiance.com,Sampled1k,FALSE,FALSE,manage,no
+1149282,secondspin.com,Sampled1k,FALSE,FALSE,no,no
+1154487,whatsup.de,SampledEU,TRUE,FALSE,no,no
+1156411,nahe-news.de,SampledEU,TRUE,FALSE,full xa,full xa
+1157948,didup.it,SampledEU,TRUE,FALSE,full,no
+1162091,english-online.org.uk,Sampled1k,TRUE,FALSE,no,no
+1162328,gestelligence.com,Sampled1k,FALSE,FALSE,no,no
+1165791,ceedclub.hu,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1166954,newretrocasino-gbhz.xyz,Sampled1k,FALSE,FALSE,no,no
+1180073,a-ht.co.jp,Sampled1k,FALSE,FALSE,no,no
+1180406,omicsonline.com,Sampled1k,FALSE,FALSE,no,no
+1181280,maialinonyc.com,Sampled1k,FALSE,FALSE,no,no
+1186296,pharaon-casino.date,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1193117,orbtoken.xyz,Sampled1k,FALSE,FALSE,manage,no
+1193281,oceanfirstonline.com,Sampled1k,FALSE,FALSE,no,no
+1196723,hapok.ru,Sampled1k,FALSE,FALSE,no,no
+1196769,hobbiesy.com,Sampled1k,FALSE,FALSE,manage,manage
+1196967,oldtimertreffen-rethem.de,SampledEU,TRUE,FALSE,notice,notice
+1199248,alltheanime.fr,Sampled1k,TRUE,FALSE,ambiguous,ambiguous
+1201724,cvmaxaq.cn,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+1202198,whozoo.org,Sampled1k,FALSE,FALSE,no,no
+1204874,goeuro.de,SampledEU,TRUE,FALSE,manage,no
+1210546,dilse.xyz,Sampled1k,FALSE,FALSE,no,no
+1213885,freccianews.it,SampledEU,TRUE,FALSE,full,full
+1215914,handsip.es,Sampled1k,TRUE,FALSE,no,no
+1226388,openvix.co.uk,SampledEU,TRUE,FALSE,no,no
+1233143,storagemte.eu,SampledEU,TRUE,FALSE,no,no
+1233952,tarfandbaaz.com,Sampled1k,FALSE,FALSE,no,no
+1237098,vionity.de,SampledEU,TRUE,FALSE,no,no
+1237553,vtexsec.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1242966,yukihotaru.com,Sampled1k,FALSE,FALSE,no,no
+1248997,lndcm.com,Sampled1k,FALSE,FALSE,no,no
+1253298,radiofabrik.at,SampledEU,TRUE,FALSE,choices,choices
+1257348,fresh-casino-ejnshtejn.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1258884,lexcasino-tire2.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1264410,jamesmurua.com,Sampled1k,FALSE,FALSE,no,no
+1266841,link-torrent.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1267122,legzocasino-baz11.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1268340,amghvjp.cn,Sampled1k,FALSE,FALSE,no,no
+1273563,ordinarygaming.com,Sampled1k,FALSE,FALSE,manage,no
+1276247,cat-casino2.buzz,Sampled1k,FALSE,FALSE,no,no
+1276677,leonbets-1pjo.buzz,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1277253,alignmedicare.com,Sampled1k,FALSE,FALSE,no,no
+1277932,spletnaabeceda.si,SampledEU,TRUE,FALSE,manage,manage
+1280182,krweb.at,SampledEU,TRUE,FALSE,no,no
+1280720,frends-cazino.lol,Sampled1k,FALSE,FALSE,no,no
+1281511,linuxtldr.com,Sampled1k,FALSE,FALSE,manage,no
+1285159,tqnw.nz,Sampled1k,FALSE,FALSE,no,no
+1289285,noties.nl,SampledEU,TRUE,FALSE,no,no
+1297965,inf.com.tr,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1300071,pin-up-casino-syp1.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1300641,gamma-kasinoz.top,Sampled1k,FALSE,FALSE,no,no
+1301225,autoservicepraxis.de,SampledEU,TRUE,FALSE,no,no
+1302029,ikano-storeportal.de,SampledEU,TRUE,FALSE,no,no
+1305149,114515.best,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1305943,hlsplayer.bio,Sampled1k,FALSE,FALSE,no,no
+1307998,ztdata.net,Sampled1k,FALSE,FALSE,no,no
+1310071,paleissoestdijk.nl,Sampled1k,TRUE,FALSE,full xa,no
+1310340,seeddbaza.boats,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1310400,cmhheli.com,Sampled1k,FALSE,FALSE,full xa,no
+1313554,netstar.co.uk,SampledEU,TRUE,FALSE,full,full
+1314653,controlhelm29.com,Sampled1k,FALSE,FALSE,no,no
+1316629,pagecontrol.hu,SampledEU,TRUE,FALSE,no,no
+1317638,go88z.day,Sampled1k,FALSE,FALSE,no,no
+1319258,cutbankpioneerpress.com,Sampled1k,FALSE,FALSE,full,no
+1322315,cat-casino7dy2.xyz,Sampled1k,FALSE,FALSE,no,no
+1327921,montblanc-vodka.com,Sampled1k,FALSE,FALSE,no,no
+1335205,minskenergo.by,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1342984,infosys.it,SampledEU,TRUE,FALSE,full,manage xa
+1343528,allk1.com,Sampled1k,FALSE,FALSE,no,no
+1345959,stayfolio.com,Sampled1k,FALSE,FALSE,no,no
+1355800,dublinliteraryaward.ie,SampledEU,TRUE,FALSE,manage,manage
+1357644,playbcm.net,Sampled1k,FALSE,FALSE,no,no
+1365237,whitemenwhopreferblackwomen.com,Sampled1k,FALSE,FALSE,no,no
+1366038,magik-club.fr,SampledEU,TRUE,FALSE,2 banners,full-m xa
+1366698,workelo.eu,Sampled1k,TRUE,FALSE,full xa,full xa
+1372762,vavada-qam3.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1372922,gerber-store.co.uk,SampledEU,TRUE,FALSE,manage,manage
+1378179,poli.hu,SampledEU,TRUE,FALSE,no,notice
+1379372,bramblebar.co.uk,Sampled1k,TRUE,FALSE,notice,notice
+1380100,viral-strategies.com,Sampled1k,FALSE,FALSE,no,no
+1381685,jackpot-vavada.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1382288,casino-x-wzx.buzz,Sampled1k,FALSE,FALSE,no,no
+1384712,kanalelazig.net,Sampled1k,FALSE,FALSE,no,no
+1387978,pinup-casino5p.buzz,Sampled1k,FALSE,FALSE,no,no
+1389331,kent-casino-ruf.buzz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1394521,cat-cazinos-play.icu,Sampled1k,FALSE,FALSE,no,no
+1395703,kent-casino-nbt.buzz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1396913,tobaccostock.com,Sampled1k,FALSE,FALSE,no,no
+1398547,ecityway.net,Sampled1k,FALSE,FALSE,no,no
+1404819,booi-casino-nku.buzz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1405691,pokerdom-casino-shm.buzz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1412802,r7-casino-ioi.buzz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1413873,topslot-1win.xyz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1416320,rhfjlafg.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1417366,timetotalkday.co.uk,Sampled1k,TRUE,FALSE,full,full
+1421148,bkleon-dr6w.buzz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1427186,gamacasino3821.xyz,Sampled1k,FALSE,FALSE,no,no
+1441551,kali.net,Sampled1k,FALSE,FALSE,notice,no
+1443045,vulcanstarsy16.xyz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1445797,ihk-koblenz.de,SampledEU,TRUE,FALSE,2 banners,2 banners
+1456802,ewzrnsky.ru,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1457605,playfortunatop.ru,Sampled1k,FALSE,FALSE,no,no
+1458297,cgltqn.cn,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1461590,axialcontrol.com,Sampled1k,FALSE,FALSE,no,no
+1463018,heliades.fr,SampledEU,TRUE,FALSE,x,no
+1464876,senado.gob.bo,Sampled1k,FALSE,FALSE,no,no
+1473223,kliniken-nea.de,Sampled1k,TRUE,FALSE,full choices,full choices
+1481358,infoser.net,Sampled1k,FALSE,FALSE,no,no
+1482375,theunapp.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1489919,vialer.nl,SampledEU,TRUE,FALSE,no,Not Reachable - Manual
+1495736,hameaualbert.fr,SampledEU,TRUE,FALSE,full-m,full-m
+1498166,pothen.gr,SampledEU,TRUE,FALSE,no,no
+1499002,247-nieuws.nl,Sampled1k,TRUE,FALSE,no,no
+1499901,kindvraag.nl,SampledEU,TRUE,FALSE,no,no
+1506872,ombudsman.ge,Sampled1k,FALSE,FALSE,no,no
+1513917,btknet.co.jp,Sampled1k,FALSE,FALSE,no,no
+1516555,bravostore.bg,SampledEU,TRUE,FALSE,full,no
+1518380,egplnkww.fun,Sampled1k,FALSE,FALSE,no,no
+1520893,jeu-colruyt.fr,Sampled1k,TRUE,FALSE,full-m xa,full-m xa
+1522902,miluna.it,SampledEU,TRUE,FALSE,manage xa,manage xa
+1530515,sloturi-online.ro,SampledEU,TRUE,FALSE,no,no
+1531355,morganstanleyfa.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1533753,adx-server.com,Sampled1k,FALSE,FALSE,no,no
+1537485,xn--80aahfjo8abu.xn--d1acj3b,Sampled1k,FALSE,FALSE,no,no
+1544114,zerkalo-leonbets-s2jr.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1544596,slang.su,Sampled1k,FALSE,FALSE,no,no
+1560392,punkglobe.com,Sampled1k,FALSE,FALSE,no,no
+1561599,schwerhoerigenforum.de,SampledEU,TRUE,FALSE,no,no
+1569453,cwp.nhs.uk,SampledEU,TRUE,FALSE,2 banners,2 banners
+1569588,juvelirnyj-lombard.ru,Sampled1k,FALSE,FALSE,no,no
+1570820,jessicalessin.com,Sampled1k,FALSE,FALSE,no,no
+1574168,nursesunions.ca,Sampled1k,FALSE,FALSE,no,no
+1574786,mexicanist.com,Sampled1k,FALSE,FALSE,no,no
+1580953,tw-cdn.net,Sampled1k,FALSE,FALSE,no,no
+1584915,news13time.com,Sampled1k,FALSE,FALSE,no,no
+1585080,sammlung-essl.at,SampledEU,TRUE,FALSE,no,no
+1589576,hhytzl.com,Sampled1k,FALSE,FALSE,no,no
+1590095,therenditionproject.org.uk,SampledEU,TRUE,FALSE,notice,notice
+1594393,prospekt-design.ru,Sampled1k,FALSE,FALSE,no,no
+1596689,bodycontrolpilates.de,SampledEU,TRUE,FALSE,no,no
+1597236,rinn.web.tr,Sampled1k,FALSE,FALSE,no,no
+1598112,isy-school.nl,Sampled1k,TRUE,FALSE,preselected,preselected
+1601253,harrogatetownafc.com,Sampled1k,FALSE,FALSE,full,full
+1604625,chelyabinsk-ses.ru,Sampled1k,FALSE,FALSE,no,no
+1605081,tarahionline.com,Sampled1k,FALSE,FALSE,no,no
+1612362,bowerandbranch.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+1612731,klarsolar.de,Sampled1k,TRUE,FALSE,full,full
+1613222,eastgreenwichnews.com,Sampled1k,FALSE,FALSE,no,no
+1617182,phlf.org,Sampled1k,FALSE,FALSE,no,no
+1618115,basilicadeifrari.it,SampledEU,TRUE,FALSE,no,no
+1624171,mypeakchallenge.com,Sampled1k,FALSE,FALSE,no,no
+1624663,static-inc.xyz,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1627975,futuredevel.com,Sampled1k,FALSE,FALSE,no,no
+1635485,rr999.app,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1640183,meguro-kensetu.co.jp,Sampled1k,FALSE,FALSE,no,no
+1642824,gih.de,SampledEU,TRUE,FALSE,full choices,full choices
+1644951,victoryxr.com,Sampled1k,FALSE,FALSE,no,no
+1645318,sweeptight.com,Sampled1k,FALSE,FALSE,manage,notice
+1648377,longchampsoldes.fr,SampledEU,TRUE,FALSE,no,no
+1649569,livegirls-news.com,Sampled1k,FALSE,FALSE,no,no
+1652160,marbleslab.ca,Sampled1k,FALSE,FALSE,no,no
+1653573,savoyonline.co.uk,Sampled1k,TRUE,FALSE,no,no
+1653820,strongaffiliates.com,Sampled1k,FALSE,FALSE,notice,notice
+1654714,mngdoom.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1655810,hopfenziz.de,SampledEU,TRUE,FALSE,no,no
+1661329,wortmann.com,Sampled1k,FALSE,FALSE,no,no
+1666571,kumpulansitusbetting.site,Sampled1k,FALSE,FALSE,no,no
+1667963,nci.org.uk,Sampled1k,TRUE,FALSE,no,no
+1672582,7sun.eu,SampledEU,TRUE,FALSE,full,full
+1675182,ahcollege.gov.bd,Sampled1k,FALSE,FALSE,no,no
+1675472,airfrance.pt,Sampled1k,TRUE,FALSE,full-m,full-m
+1677921,amsbus.cz,Sampled1k,TRUE,FALSE,no,no
+1678870,anytimefitness.it,SampledEU,TRUE,FALSE,full-m xa,full-m xa
+1682445,autoparts24.nl,SampledEU,TRUE,FALSE,full,no
+1687724,bioderma.co.rs,Sampled1k,FALSE,FALSE,manage,manage
+1692719,cardiffstore.com,Sampled1k,FALSE,FALSE,full,full
+1693656,catandcat.eu,SampledEU,TRUE,FALSE,full,full
+1699016,consulat-nice-algerie.fr,SampledEU,TRUE,FALSE,no,no
+1702898,deespin.com,Sampled1k,FALSE,FALSE,no,no
+1703526,der-beck.de,SampledEU,TRUE,FALSE,choices,choices
+1705209,distrihogar.com.co,Sampled1k,FALSE,FALSE,no,no
+1705461,dk-ferien.de,SampledEU,TRUE,FALSE,full,full
+1707903,e-belka.pl,SampledEU,TRUE,FALSE,full,full
+1709335,eenka.pl,SampledEU,TRUE,FALSE,full,full
+1711064,encoexpres.co,Sampled1k,FALSE,FALSE,no,no
+1713140,eventiintoscana.it,SampledEU,TRUE,FALSE,full xa,full xa
+1714421,fantom.com.tr,Sampled1k,FALSE,FALSE,no,no
+1720635,gelardiniaste.it,SampledEU,TRUE,FALSE,manage xa,manage xa
+1720850,gentleandrose.bg,Sampled1k,TRUE,FALSE,no,no
+1721916,glavista.com,Sampled1k,FALSE,FALSE,full,full
+1725192,hainaut-caravaning.be,Sampled1k,TRUE,FALSE,notice,notice
+1727585,hirakata-arts.jp,Sampled1k,FALSE,FALSE,no,no
+1729505,huertatropical.com,Sampled1k,FALSE,FALSE,full xa,full xa
+1731391,imediaghana.com,Sampled1k,FALSE,FALSE,no,no
+1735092,javteen.cc,Sampled1k,FALSE,FALSE,no,no
+1736887,justberryplants.co.za,Sampled1k,FALSE,FALSE,no,no
+1736967,jutex.sk,Sampled1k,TRUE,FALSE,no,no
+1737189,kadent.ir,Sampled1k,FALSE,FALSE,no,no
+1741481,kresy.org.pl,SampledEU,TRUE,FALSE,no,no
+1742991,lalaushop.nl,SampledEU,TRUE,FALSE,no,no
+1744842,lespetitsbidons.fr,SampledEU,TRUE,FALSE,no,no
+1744983,levne-prepravky.cz,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1747407,lpt.si,SampledEU,TRUE,FALSE,full-m,full-m
+1752406,megagaraz.cz,Sampled1k,TRUE,FALSE,no,no
+1754418,minagold.gr,SampledEU,TRUE,FALSE,full xa,full xa
+1756112,mollio.cz,SampledEU,TRUE,FALSE,no,no
+1760588,nclat.gov.in,Sampled1k,FALSE,FALSE,no,no
+1765589,onlitest.it,SampledEU,TRUE,FALSE,no,no
+1766292,organicfitness.pl,SampledEU,TRUE,FALSE,full,full
+1767541,paforum.de,SampledEU,TRUE,FALSE,notice,notice
+1770613,pharmup.gr,SampledEU,TRUE,FALSE,no,no
+1771076,pierolatky.cz,Sampled1k,TRUE,FALSE,full,full
+1772748,polifarbe.hu,SampledEU,TRUE,FALSE,full choices,full choices
+1774011,premis.fi,SampledEU,TRUE,FALSE,no,no
+1779735,ridenrepair.com,Sampled1k,FALSE,FALSE,no,no
+1780560,roland-gazeta.pl,SampledEU,TRUE,FALSE,manage,no
+1781607,run1080.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1788642,skaistumnica.lv,SampledEU,TRUE,FALSE,no,no
+1790766,sortirepinal.fr,Sampled1k,TRUE,FALSE,no,no
+1792694,steelova.pl,Sampled1k,TRUE,FALSE,full,full
+1794940,swangaleria.com,Sampled1k,FALSE,FALSE,no,notice
+1798562,thebodyshop.it,Sampled1k,TRUE,FALSE,full,no
+1800095,tikfamous.com,Sampled1k,FALSE,FALSE,no,no
+1801022,tolltax.in,Sampled1k,FALSE,FALSE,full,no
+1805376,unikulma.fi,SampledEU,TRUE,FALSE,manage,manage
+1806841,valuedopinions.tw,Sampled1k,FALSE,FALSE,notice,notice
+1809063,vitals-ukraine.com.ua,Sampled1k,FALSE,FALSE,no,no
+1811466,whbbrasil.com.br,Sampled1k,FALSE,FALSE,no,full
+1812244,wolcafe.nl,SampledEU,TRUE,FALSE,full choices,full choices
+1812369,woodies.pl,SampledEU,TRUE,FALSE,preselected,preselected
+1812868,wynikilotow.pl,SampledEU,TRUE,FALSE,no,no
+1815158,zaklad-pogrzebowy-kartuzy.pl,SampledEU,TRUE,FALSE,notice,notice
+1822668,ledges.com,Sampled1k,FALSE,FALSE,no,no
+1824229,noticiasbancarias.com,Sampled1k,FALSE,FALSE,notice,no
+1825620,tbt32.ru,Sampled1k,FALSE,FALSE,no,no
+1827583,jeansforgenes.org,Sampled1k,FALSE,FALSE,no,no
+1828620,kzv-lsa.de,SampledEU,TRUE,FALSE,notice,notice
+1830128,allianz.gr,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1834554,rowanrookanddecard.com,Sampled1k,FALSE,FALSE,full,full
+1835302,eventgenius.co.uk,SampledEU,TRUE,FALSE,no,no
+1841738,seb.ua,Sampled1k,FALSE,FALSE,full,full
+1844312,texturestudios.net,Sampled1k,FALSE,FALSE,no,no
+1854281,sumi-chan.com,Sampled1k,FALSE,FALSE,no,no
+1857425,learnmechanical.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1860262,newportdunesgolf.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1861390,mtassets.net,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1864150,yctei.cn,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+1864947,thejournal.mt,SampledEU,TRUE,FALSE,manage,manage
+1870036,mbs.works,Sampled1k,FALSE,FALSE,no,no
+1870490,6664o.de,SampledEU,TRUE,FALSE,no,no
+1870935,hcap.de,SampledEU,TRUE,FALSE,no,no
+1871782,hapc.de,SampledEU,TRUE,FALSE,no,no
+1874592,carsonellis.com,Sampled1k,FALSE,FALSE,no,no
+1882267,hostsplus.com,Sampled1k,FALSE,FALSE,no,no
+1882821,wijkopenhuizen.nl,Sampled1k,TRUE,FALSE,no,no
+1883035,emhz.de,SampledEU,TRUE,FALSE,no,no
+1885127,incomehub-your.one,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1885731,bcsc.de,SampledEU,TRUE,FALSE,no,no
+1887102,duan.de,SampledEU,TRUE,FALSE,no,no
+1893839,chantix.com,Sampled1k,FALSE,FALSE,no,no
+1894576,areanet.co.jp,Sampled1k,FALSE,FALSE,no,no
+1897036,eamr.de,Sampled1k,TRUE,FALSE,no,no
+1900624,lygonarmshotel.co.uk,SampledEU,TRUE,FALSE,full,full
+1901011,bwospa-wqrj.cloud,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1908418,yug-farm.ru,Sampled1k,FALSE,FALSE,no,no
+1908746,rocketlab.com.au,Sampled1k,FALSE,FALSE,no,no
+1909175,ramenbet-bestbonus.ru,Sampled1k,FALSE,FALSE,no,no
+1911964,fliphost.com.br,Sampled1k,FALSE,FALSE,no,no
+1913488,streekfonds.be,SampledEU,TRUE,FALSE,full,full
+1914578,myewebsite.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1917852,streamprolive.com,Sampled1k,FALSE,FALSE,no,no
+1923399,gamaslot-usd.ru,Sampled1k,FALSE,FALSE,no,no
+1926797,turktv-n.online,Sampled1k,FALSE,FALSE,no,no
+1927412,canadagoosejacketscoats.org.uk,Sampled1k,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1927556,casinohype25.com,Sampled1k,FALSE,FALSE,no,no
+1929647,sangrow.pl,SampledEU,TRUE,FALSE,no,no
+1931398,2cordoba99.autos,Sampled1k,FALSE,FALSE,no,no
+1936407,auctioniq.co.uk,SampledEU,TRUE,FALSE,manage,manage
+1938830,biasex.com,Sampled1k,FALSE,FALSE,no,no
+1940559,buono-web.com,Sampled1k,FALSE,FALSE,no,no
+1942381,chirurgo-stefanoenrico.it,SampledEU,TRUE,FALSE,full,full
+1948540,equipoateneaformacion.es,SampledEU,TRUE,FALSE,notice,notice
+1949169,experiminta.de,SampledEU,TRUE,FALSE,choices,choices
+1953738,grouplinks4u.com,Sampled1k,FALSE,FALSE,no,no
+1954219,hajar88dewa.com,Sampled1k,FALSE,FALSE,no,no
+1956107,hut4ddouble.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1957374,innwa8.net,Sampled1k,FALSE,FALSE,no,no
+1957674,ipm-polytech.com,Sampled1k,FALSE,FALSE,no,no
+1959715,kafzudio.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1964230,loxam.dk,SampledEU,TRUE,FALSE,full,full
+1965682,mas77online.click,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1965704,maskice-emde.hr,SampledEU,TRUE,FALSE,ambiguous,ambiguous
+1966094,mbahtotogesit.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+1968073,moorabanget.com,Sampled1k,FALSE,FALSE,no,no
+1969662,ndmrtp555.site,Sampled1k,FALSE,FALSE,no,no
+1971351,ohbenteng786.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+1975302,pornclubindia.com,Sampled1k,FALSE,FALSE,no,no
+1980395,schwarzes-glueck.de,SampledEU,TRUE,FALSE,no,no
+1980585,seductivegirl6w.com,Sampled1k,FALSE,FALSE,no,no
+1992223,wira66.vip,Sampled1k,FALSE,FALSE,no,no
+1993924,zijemenezavazne.cz,SampledEU,TRUE,FALSE,no,Not Reachable - Manual
+1994442,catcasino-pya.buzz,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+1994534,cslbehring.com.cn,Sampled1k,FALSE,FALSE,Not Reachable - Manual,SETTINGS ONLY xa
+1995164,agapea.net,Sampled1k,FALSE,FALSE,full,full
+1997790,doordash.nl,SampledEU,TRUE,FALSE,no,no
+1998660,dmlm.de,Sampled1k,TRUE,FALSE,no,no
+2000888,sitech.co.jp,Sampled1k,FALSE,FALSE,no,no
+2003002,bzar.de,SampledEU,TRUE,FALSE,no,no
+2005159,city-tourist.de,SampledEU,TRUE,FALSE,manage,manage
+2011094,pafikabbatubara.org,Sampled1k,FALSE,FALSE,no,no
+2013146,marchenkocompany.ru,Sampled1k,FALSE,FALSE,no,no
+2013290,mobikul.com,Sampled1k,FALSE,FALSE,no,no
+2014680,webrelink.com,Sampled1k,FALSE,FALSE,no,no
+2020213,hivehousedigital.com,Sampled1k,FALSE,FALSE,no,full-m
+2021390,groproiklsvd1.buzz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2024653,americanamusicacademy.org,Sampled1k,FALSE,FALSE,no,no
+2031934,museoarcheologicomilano.it,SampledEU,TRUE,FALSE,manage xa,manage xa
+2034936,lumirise.jp,Sampled1k,FALSE,FALSE,no,no
+2037611,videomuzik.biz,Sampled1k,FALSE,FALSE,no,no
+2040263,healthbeautycbd.co.uk,SampledEU,TRUE,FALSE,no,no
+2041209,estate-track.co.uk,Sampled1k,TRUE,FALSE,no,no
+2044910,ramenbetru.site,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2045590,8213.net,Sampled1k,FALSE,FALSE,no,no
+2046242,swift-site.co.uk,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2046649,crazymonkeyru.ru,Sampled1k,FALSE,FALSE,no,no
+2048079,lasirene.co.uk,SampledEU,TRUE,FALSE,no,no
+2050364,aclce6.com,Sampled1k,FALSE,FALSE,no,no
+2050980,estekhtam.com,Sampled1k,FALSE,FALSE,no,no
+2052861,suncouae.com,Sampled1k,FALSE,FALSE,no,no
+2060216,estinst.ee,SampledEU,TRUE,FALSE,no,no
+2071163,tokyoguanyintang.com,Sampled1k,FALSE,FALSE,no,no
+2072712,naturalbuffdog.com,Sampled1k,FALSE,FALSE,no,no
+2076376,pomfret.org,Sampled1k,FALSE,FALSE,no,no
+2076424,estartserver.be,SampledEU,TRUE,FALSE,no,no
+2077607,ndskalkulyator.ru,Sampled1k,FALSE,FALSE,no,no
+2077983,itbabka.com,Sampled1k,FALSE,FALSE,no,no
+2078848,cbdboyandco.co.uk,SampledEU,TRUE,FALSE,no,no
+2080009,historiesajten.se,SampledEU,TRUE,FALSE,no,no
+2080363,homebuyerconveyancing.com,Sampled1k,FALSE,FALSE,no,no
+2080460,bachmannit.de,Sampled1k,TRUE,FALSE,no,no
+2082416,pharmafood.co.jp,Sampled1k,FALSE,FALSE,no,no
+2082643,controller-company.com,Sampled1k,FALSE,FALSE,no,no
+2087331,the-codeboy.com,Sampled1k,FALSE,FALSE,no,no
+2093028,palette-sc.com,Sampled1k,FALSE,FALSE,no,no
+2093923,hardy-schmitz.de,SampledEU,TRUE,FALSE,full,full
+2096954,katoonipirozi.com,Sampled1k,FALSE,FALSE,no,no
+2097275,npx.pl,SampledEU,TRUE,FALSE,2 banners,2 banners
+2098660,partos.nl,SampledEU,TRUE,FALSE,full choices,full choices
+2099296,ecoagriculture.org,Sampled1k,FALSE,FALSE,no,no
+2103031,etm39.ru,Sampled1k,FALSE,FALSE,no,no
+2103504,skyrunner.com,Sampled1k,FALSE,FALSE,no,no
+2103766,inventiveness.de,Sampled1k,TRUE,FALSE,full choices,full choices
+2114791,obesitasvereniging.nl,SampledEU,TRUE,FALSE,no,no
+2115615,btmc.cn,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2117551,flechedor.fr,SampledEU,TRUE,FALSE,no,no
+2128224,pc-koubou.co.jp,Sampled1k,FALSE,FALSE,no,no
+2128515,sildenafilkiol.com,Sampled1k,FALSE,FALSE,no,no
+2132161,thefrogandfern.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+2132575,colonelreyel.fr,SampledEU,TRUE,FALSE,2 banners,notice
+2132650,torrent-miha.site,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2134839,nemo168.mn,Sampled1k,FALSE,FALSE,no,no
+2143776,lakedoctors.com,Sampled1k,FALSE,FALSE,no,no
+2143958,ontarioplaques.com,Sampled1k,FALSE,FALSE,no,no
+2145515,oblatesusa.org,Sampled1k,FALSE,FALSE,no,no
+2147014,breadbeautysupply.com,Sampled1k,FALSE,FALSE,no,no
+2149071,adcstack.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2154237,dolilive.com,Sampled1k,FALSE,FALSE,no,no
+2158065,hesam.eu,SampledEU,TRUE,FALSE,no,no
+2158742,afrus.ru,Sampled1k,FALSE,FALSE,no,no
+2158862,jcam.jp,Sampled1k,FALSE,FALSE,no,no
+2164018,socialpantry.co.uk,Sampled1k,TRUE,FALSE,full,full
+2164803,oostlandverhuizingen.nl,SampledEU,TRUE,FALSE,full,no
+2166287,nayarasprings.com,Sampled1k,FALSE,FALSE,manage,manage
+2166592,codebots.com,Sampled1k,FALSE,FALSE,notice,notice
+2168588,foweyfringe.co.uk,SampledEU,TRUE,FALSE,no,notice
+2168787,margisa.eu,Sampled1k,TRUE,FALSE,no,no
+2169880,dc-schoenaich.de,SampledEU,TRUE,FALSE,no,no
+2172883,sugologone.it,SampledEU,TRUE,FALSE,full,full
+2174334,pontiac.org,Sampled1k,FALSE,FALSE,no,no
+2176279,fycv22.top,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2177167,skilla.com,Sampled1k,FALSE,FALSE,full,full
+2184091,admkirillovka.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2184322,odylique.co.uk,Sampled1k,TRUE,FALSE,2 banners,2 banners
+2185139,eli-laser.eu,SampledEU,TRUE,FALSE,no,no
+2186497,bayimproviser.com,Sampled1k,FALSE,FALSE,no,no
+2186950,mybeauty-licious.nl,SampledEU,TRUE,FALSE,no,no
+2191421,wdol.gov,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2191675,prostitutkiastrahanidate.com,Sampled1k,FALSE,FALSE,no,no
+2192360,danfords.com,Sampled1k,FALSE,FALSE,no,no
+2192779,restoric.nl,SampledEU,TRUE,FALSE,full xa,full xa
+2197063,alienware.co.uk,SampledEU,TRUE,FALSE,full,no
+2199485,festivalmusica.fr,SampledEU,TRUE,FALSE,manage,manage
+2200091,valforex.com,Sampled1k,FALSE,FALSE,no,no
+2200860,infrance.ru,Sampled1k,FALSE,FALSE,no,no
+2202615,aftee.vn,Sampled1k,FALSE,FALSE,no,no
+2204497,lavego.de,SampledEU,TRUE,FALSE,notice,notice
+2207640,musicastock.com,Sampled1k,FALSE,FALSE,no,no
+2208100,i-v3d.ru,Sampled1k,FALSE,FALSE,no,no
+2210579,centerbrook.com,Sampled1k,FALSE,FALSE,no,no
+2216508,juszkiewicz.com.pl,SampledEU,TRUE,FALSE,no,no
+2218174,eurosmartz.co.uk,SampledEU,TRUE,FALSE,no,no
+2222711,forumup.nl,Sampled1k,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2227440,schaetze-der-welt.de,SampledEU,TRUE,FALSE,no,no
+2231534,777superph.com,Sampled1k,FALSE,FALSE,no,no
+2232143,aco-media.nl,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2232357,adn.be,SampledEU,TRUE,FALSE,no,no
+2233796,apisgcpbob22.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2236568,bmy88.com,Sampled1k,FALSE,FALSE,no,Not Reachable - Manual
+2237347,buxmedia.de,SampledEU,TRUE,FALSE,no,no
+2240222,cslweb.uk,SampledEU,TRUE,FALSE,no,no
+2240835,dallmayr.lu,SampledEU,TRUE,FALSE,manage,manage
+2241445,deutschorden.de,Sampled1k,TRUE,FALSE,full choices,full choices
+2244584,facemagic-seeulf.lol,Sampled1k,FALSE,FALSE,full xa,no
+2253631,kraetzeval.de,SampledEU,TRUE,FALSE,no,no
+2256378,mastercs.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2259510,network.fr,SampledEU,TRUE,FALSE,no,no
+2265626,rheumapraxis-hannover.de,SampledEU,TRUE,FALSE,full,full
+2270535,sygnblock.xyz,Sampled1k,FALSE,FALSE,full xa,no
+2272833,trisoft.at,SampledEU,TRUE,FALSE,full choices,full choices
+2274096,vanommen.nl,SampledEU,TRUE,FALSE,no,no
+2279761,kemled.ru,Sampled1k,FALSE,FALSE,no,no
+2284202,bhmac.org,Sampled1k,FALSE,FALSE,no,no
+2286442,svenskalivraddningssallskapet.se,SampledEU,TRUE,FALSE,full-m,full-m
+2287450,com.ma,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2288030,leopardfortune77.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2289372,chester.run,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2292165,seisuton.co.jp,Sampled1k,FALSE,FALSE,no,no
+2293020,gztelecom.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2293239,lanel.eu,SampledEU,TRUE,FALSE,no,no
+2297744,rwhosting.pl,SampledEU,TRUE,FALSE,full,full
+2301156,wdr4.de,Sampled1k,TRUE,FALSE,no,no
+2301302,pointa.biz,Sampled1k,FALSE,FALSE,no,Not Reachable - Manual
+2302808,brookeblogs.com,Sampled1k,FALSE,FALSE,no,no
+2308159,bondmedia.co.uk,Sampled1k,TRUE,FALSE,no,no
+2308514,liverpoolsoundcity.co.uk,SampledEU,TRUE,FALSE,full,full
+2310071,kinsmangarden.com,Sampled1k,FALSE,FALSE,no,no
+2310836,trafalgartavern.co.uk,SampledEU,TRUE,FALSE,full-m,full-m
+2313504,medicamentsansordonnance.space,Sampled1k,FALSE,FALSE,no,no
+2314553,z-payment.com,Sampled1k,FALSE,FALSE,no,no
+2323447,mikekemble.com,Sampled1k,FALSE,FALSE,no,no
+2324968,thehairpinlegcompany.co.uk,SampledEU,TRUE,FALSE,manage,manage
+2327776,kochmedia-film.de,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2336296,homnet.ru,Sampled1k,FALSE,FALSE,no,no
+2336537,nflfootballjerseyscheap.com.co,Sampled1k,FALSE,FALSE,no,no
+2337331,azumaichi.com,Sampled1k,FALSE,FALSE,no,no
+2339596,shinko81.co.jp,Sampled1k,FALSE,FALSE,no,no
+2349486,dylanthomasboathouse.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2351406,daitoudenki.co.jp,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2351986,aqm-normandie.fr,SampledEU,TRUE,FALSE,full,full
+2352273,hats-wholesaler.com,Sampled1k,FALSE,FALSE,no,no
+2353654,fulcrum-anglican.org.uk,Sampled1k,TRUE,FALSE,no,no
+2360826,artegowatches.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2364937,efa.lu,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2367079,senecafalls.com,Sampled1k,FALSE,FALSE,no,no
+2371442,kaima.org.il,Sampled1k,FALSE,FALSE,no,no
+2375805,onetec.eu,SampledEU,TRUE,FALSE,no,no
+2377813,theblogpost.net,Sampled1k,FALSE,FALSE,no,no
+2381949,beijicloud.cfd,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2383853,reginaldstreet.org,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2384381,sdv.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2384503,nikeairhuarache.me.uk,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2396037,vpt.dk,SampledEU,TRUE,FALSE,full choices,full choices
+2396894,schluesseldienst-steinheim-24.de,SampledEU,TRUE,FALSE,notice,notice
+2397592,nikefreerunstore2015.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2399145,hdtorrentfilm.ru,Sampled1k,FALSE,FALSE,no,no
+2403092,cheki.shop,Sampled1k,FALSE,FALSE,no,no
+2404495,vobapay.de,SampledEU,TRUE,FALSE,no,no
+2410301,boon-vastgoed.nl,SampledEU,TRUE,FALSE,full choices xa,full choices xa
+2410858,karatedepot.com,Sampled1k,FALSE,FALSE,no,no
+2411124,webrichtlijnen.nl,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2412012,soundtheory.com,Sampled1k,FALSE,FALSE,no,no
+2412860,dameschickenwaffles.com,Sampled1k,FALSE,FALSE,no,no
+2414596,talenteo.fr,Sampled1k,TRUE,FALSE,no,no
+2415443,ekademia.com,Sampled1k,FALSE,FALSE,full-m xa,full-m xa
+2415829,bastides-gorges-aveyron.fr,Sampled1k,TRUE,FALSE,no,no
+2418394,fd.gov,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2418487,bgrrnbt.ru,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2419035,itechpower.co.uk,SampledEU,TRUE,FALSE,no,Not Reachable - Manual
+2420801,jiminys.com,Sampled1k,FALSE,FALSE,no,no
+2421199,rosssi.co.uk,SampledEU,TRUE,FALSE,no,no
+2422323,thehaveringdaily.co.uk,SampledEU,TRUE,FALSE,manage,no
+2424934,extreme-down.boats,Sampled1k,FALSE,FALSE,no,no
+2426406,kantordollar.pl,Sampled1k,TRUE,FALSE,no,no
+2432379,smartcafe.com.ua,Sampled1k,FALSE,FALSE,no,no
+2434390,wdsoqece.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2436629,hemer-schluesseldienst-24.de,SampledEU,TRUE,FALSE,notice,notice
+2440193,mortgageone.org,Sampled1k,FALSE,FALSE,no,no
+2440472,gametraker.com,Sampled1k,FALSE,FALSE,no,no
+2445018,sawac.org,Sampled1k,FALSE,FALSE,no,no
+2446751,ltaresearch.com,Sampled1k,FALSE,FALSE,no,no
+2448087,secrity2yellowline.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2448917,tonkatsu-minoru.com,Sampled1k,FALSE,FALSE,no,no
+2449805,g-net.de,SampledEU,TRUE,FALSE,preselected,preselected
+2450949,maritallaws.com,Sampled1k,FALSE,FALSE,manage,no
+2452053,autotecnixtinting.co.uk,SampledEU,TRUE,FALSE,no,no
+2454700,adhoc-architectes.com,Sampled1k,FALSE,FALSE,no,no
+2455186,kwr-hannover.eu,SampledEU,TRUE,FALSE,no,no
+2458037,ryadnnw.ru,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2458396,gdqotxx.ru,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2459586,indieoutdoors.co.uk,SampledEU,TRUE,FALSE,no,no
+2463340,gogamem8y.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2467102,er.pl,SampledEU,TRUE,FALSE,no,no
+2469845,alexspa.pl,Sampled1k,TRUE,FALSE,manage,manage
+2471786,cater.dk,SampledEU,TRUE,FALSE,full choices,full choices
+2472495,diversey.cz,SampledEU,TRUE,FALSE,full,full
+2474128,irkf.pro,Sampled1k,FALSE,FALSE,no,no
+2475038,medpeer.cn,Sampled1k,FALSE,FALSE,no,no
+2487557,land-predesirous.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2487570,gri-n.jp,Sampled1k,FALSE,FALSE,no,no
+2488830,cazino-pin-up.xyz,Sampled1k,FALSE,FALSE,no,no
+2493447,ehtwo.net,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2493453,hdserials.co,Sampled1k,FALSE,FALSE,no,no
+2499758,parent-solo.fr,SampledEU,TRUE,FALSE,x,no
+2504408,eli-alps.hu,SampledEU,TRUE,FALSE,notice,notice
+2506315,turizm-haber.com,Sampled1k,FALSE,FALSE,no,Not Reachable - Manual
+2506741,internationalnews.fr,SampledEU,TRUE,FALSE,no,no
+2507030,teleka.ru,Sampled1k,FALSE,FALSE,no,no
+2510082,kidnest.gr,SampledEU,TRUE,FALSE,no,full-m
+2512824,wjynea.com,Sampled1k,FALSE,FALSE,no,no
+2526399,sykaaa-amp-reg3.buzz,Sampled1k,FALSE,FALSE,no,no
+2527930,aanet.co.jp,Sampled1k,FALSE,FALSE,no,no
+2530925,sanomacorp.nl,Sampled1k,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2534795,feibaopay.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2538311,volleyball-nordost.de,SampledEU,TRUE,FALSE,no,no
+2559458,nagasaka-b.com,Sampled1k,FALSE,FALSE,no,no
+2559985,rds-hosting.nl,SampledEU,TRUE,FALSE,no,no
+2573097,sidicom.net,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2577673,global-line.hu,SampledEU,TRUE,FALSE,no,no
+2579192,lyonsmagnus.com,Sampled1k,FALSE,FALSE,no,notice
+2582072,ts-3x.ru,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2583466,daizen.ne.jp,Sampled1k,FALSE,FALSE,no,no
+2595460,softwiese.de,SampledEU,TRUE,FALSE,no,no
+2596017,vostokcasino.org,Sampled1k,FALSE,FALSE,no,no
+2608896,kelesmedya.com,Sampled1k,FALSE,FALSE,no,no
+2609357,rodali.fr,Sampled1k,TRUE,FALSE,no,no
+2613229,bezdepbonuses.site,Sampled1k,FALSE,FALSE,no,no
+2616698,fielmann.eu,SampledEU,TRUE,FALSE,no,no
+2620520,dr-popi-sany.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2622381,targetsportsindia.com,Sampled1k,FALSE,FALSE,no,no
+2627968,ccoy.fi,SampledEU,TRUE,FALSE,full,full
+2629459,rocherocean.fr,Sampled1k,TRUE,FALSE,full,full
+2633037,zwoenitz.de,SampledEU,TRUE,FALSE,full,full
+2639695,dnsns.com,Sampled1k,FALSE,FALSE,no,no
+2640025,spinandshake.co.uk,SampledEU,TRUE,FALSE,full,full
+2646221,payforanessay.net,Sampled1k,FALSE,FALSE,no,no
+2650231,invest.gov,Sampled1k,FALSE,FALSE,no,no
+2650315,its-servers.nl,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2650881,lunarmassagedc.com,Sampled1k,FALSE,FALSE,no,no
+2651376,nachtgeister.cloud,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2652056,portalpromocji.pl,SampledEU,TRUE,FALSE,no,no
+2652580,scotia-rewards.com,Sampled1k,FALSE,FALSE,no,no
+2654550,qbe.fr,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2658013,ithostingwow.com,Sampled1k,FALSE,FALSE,no,no
+2659979,associazioneantigone.it,SampledEU,TRUE,FALSE,full,full
+2660434,gymnasium-brake.de,SampledEU,TRUE,FALSE,no,no
+2667252,hanszimmer.com,Sampled1k,FALSE,FALSE,no,no
+2673547,mycurli.com,Sampled1k,FALSE,FALSE,no,no
+2674631,agpplus.cz,Sampled1k,TRUE,FALSE,full,full
+2679333,messyprofessor.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2681332,abrmesstechnik.de,SampledEU,TRUE,FALSE,full choices,full choices
+2682144,etabyte.eu,SampledEU,TRUE,FALSE,no,no
+2682547,instaworldagency.it,SampledEU,TRUE,FALSE,no,no
+2686068,bsgo.fun,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2688444,linktalk.it,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2693025,sd-advisors.co.jp,Sampled1k,FALSE,FALSE,no,no
+2693682,d20studios.com,Sampled1k,FALSE,FALSE,no,no
+2695820,girlstryanal.com,Sampled1k,FALSE,FALSE,no,no
+2698182,macmod.com,Sampled1k,FALSE,FALSE,no,no
+2700570,kyobasi.co.jp,Sampled1k,FALSE,FALSE,no,no
+2701400,springtour.co.jp,Sampled1k,FALSE,FALSE,no,no
+2703386,recursosomega.com,Sampled1k,FALSE,FALSE,no,no
+2709272,havenstudios.com,Sampled1k,FALSE,FALSE,no,no
+2718071,retrain.ai,Sampled1k,FALSE,FALSE,full,no
+2720622,hallocks.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,full xa
+2725384,t-uchihamono.jp,Sampled1k,FALSE,FALSE,no,no
+2728434,lepoch.at,SampledEU,TRUE,FALSE,no,no
+2729141,adveva.co.uk,Sampled1k,TRUE,FALSE,manage xa,manage xa
+2732846,davinci-itenmedia.nl,Sampled1k,TRUE,FALSE,no,no
+2735367,mzmsg.com,Sampled1k,FALSE,FALSE,no,no
+2739796,service-dtline.de,SampledEU,TRUE,FALSE,no,no
+2740599,gw-way.ru,Sampled1k,FALSE,FALSE,no,no
+2742757,boy2222.cc,Sampled1k,FALSE,FALSE,no,no
+2742943,d9ed595e.com,Sampled1k,FALSE,FALSE,no,no
+2745728,kyoka-sk.co.jp,Sampled1k,FALSE,FALSE,no,no
+2747384,mails-tourmag.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2747749,pour-nourrir-demain.fr,Sampled1k,TRUE,FALSE,full xa,full xa
+2753880,muslimweb.de,SampledEU,TRUE,FALSE,full,full
+2754887,kenziedysli.de,SampledEU,TRUE,FALSE,manage,manage
+2770346,vide.se,SampledEU,TRUE,FALSE,no,no
+2787046,incomgroup.es,SampledEU,TRUE,FALSE,manage,manage
+2787553,superhostservice.net,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2789683,1eightydesignhosting.com,Sampled1k,FALSE,FALSE,no,no
+2791034,zjdyjg.com,Sampled1k,FALSE,FALSE,no,no
+2794458,bs2site.ar,Sampled1k,FALSE,FALSE,no,no
+2796275,ishizaka-br.com,Sampled1k,FALSE,FALSE,no,no
+2797621,crystalbluetechnologies.com,Sampled1k,FALSE,FALSE,no,no
+2798634,3016.jp,Sampled1k,FALSE,FALSE,no,no
+2805976,webmerch.com,Sampled1k,FALSE,FALSE,no,no
+2806842,adnova.de,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2806872,agency2fa.com,Sampled1k,FALSE,FALSE,no,no
+2815210,app-claiming.one,Sampled1k,FALSE,FALSE,no,no
+2817167,dogstrustireland.ie,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2820352,muehltal.de,SampledEU,TRUE,FALSE,full choices,full choices
+2821390,pvdagroenlinksblaricum.nl,SampledEU,TRUE,FALSE,no,no
+2821938,secur-pay.de,SampledEU,TRUE,FALSE,no,no
+2821968,seguro-salud-barato-sin-copago.de,SampledEU,TRUE,FALSE,no,no
+2825825,poligrafekb.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+2826938,dilekt.ru,Sampled1k,FALSE,FALSE,no,no
+2831866,michele.de,SampledEU,TRUE,FALSE,no,no
+2836342,chubuchelest.co.jp,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2837550,iset-shop.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+2844018,rhp.pt,SampledEU,TRUE,FALSE,no,no
+2853459,rn-termneft.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+2854455,moony-lamp.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+2866882,prangeschuhe.de,SampledEU,TRUE,FALSE,no,full
+2867927,silvercityla.com,Sampled1k,FALSE,FALSE,no,no
+2877103,carenda.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2881085,lucky7sweeps.com,Sampled1k,FALSE,FALSE,no,no
+2890880,oflp.jp,Sampled1k,FALSE,FALSE,no,no
+2891740,krasavushka.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2892017,ggbet-casino.pl,Sampled1k,TRUE,FALSE,no,no
+2892119,m2-kayaba.net,Sampled1k,FALSE,FALSE,no,no
+2900997,mtakeshi.com,Sampled1k,FALSE,FALSE,no,no
+2906474,kadetstvo454.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+2906961,magnaoil.ru,Sampled1k,FALSE,FALSE,no,no
+2911855,gd-ltd.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2912386,permafrost-conference.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2921394,handan33.cfd,Sampled1k,FALSE,FALSE,no,no
+2923481,mopfeltits.live,Sampled1k,FALSE,FALSE,no,no
+2923667,nagaslot777kh.top,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+2924528,pixelmex.com,Sampled1k,FALSE,FALSE,no,no
+2925406,satellitemonitor.org,Sampled1k,FALSE,FALSE,no,no
+2925668,sichuun.com,Sampled1k,FALSE,FALSE,no,no
+2925825,smartxdev.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2929851,haus-und-grund-verkaufen.de,SampledEU,TRUE,FALSE,no,no
+2930578,menu2order.com,Sampled1k,FALSE,FALSE,no,no
+2939036,domeinnamenrijksoverheid.nl,Sampled1k,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2943258,tamaru-mokko.co.jp,Sampled1k,FALSE,FALSE,no,no
+2946642,fisicoemocionalmg.es,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2947168,heimatgruppe-bublitz.de,SampledEU,TRUE,FALSE,Not Reachable - Manual,no
+2948198,loreply.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2949601,qualityexpertwar.de,SampledEU,TRUE,FALSE,no,no
+2950209,skiribbl.io,Sampled1k,FALSE,FALSE,no,no
+2953244,atabey-turizm-haberleri.com.tr,Sampled1k,FALSE,FALSE,full,full
+2956444,olimpc22r.xyz,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2958239,foris.xyz,Sampled1k,FALSE,FALSE,no,no
+2971946,spgtotocove.xyz,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2974979,digishop.de,Sampled1k,TRUE,FALSE,notice,notice
+2976250,gdetutapteka.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2976391,stroigrad-bel.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+2978463,flipkartbulkpurchasedeals.biz,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2980202,slpchost.com,Sampled1k,FALSE,FALSE,no,no
+2982436,autogazkalisz.pl,SampledEU,TRUE,FALSE,no,no
+2982455,stoross.ru,Sampled1k,FALSE,FALSE,no,no
+2984111,praxa.net,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+2986079,ironmagic.jp,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+2990914,sdlianyilb.com,Sampled1k,FALSE,FALSE,no,no
+2992567,plotsn.ru,Sampled1k,FALSE,FALSE,no,no
+2996855,centraldoartesanato.com.br,Sampled1k,FALSE,FALSE,manage,no
+2997419,farmmorning.com,Sampled1k,FALSE,FALSE,no,no
+2998019,ipromserver.nl,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3004135,utkalsafety.com,Sampled1k,FALSE,FALSE,no,no
+3010461,itcslavich.com,Sampled1k,FALSE,FALSE,no,no
+3012598,bucz.com,Sampled1k,FALSE,FALSE,no,no
+3015204,e-wash.jp,Sampled1k,FALSE,FALSE,no,no
+3028690,incloud.de,SampledEU,TRUE,FALSE,full,full
+3034036,blossombooks.nl,SampledEU,TRUE,FALSE,no,no
+3039070,qcri.or.jp,Sampled1k,FALSE,FALSE,no,no
+3048205,airpayph.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3048797,acosol.es,SampledEU,TRUE,FALSE,choices,choices
+3053845,svklim.ru,Sampled1k,FALSE,FALSE,no,no
+3054915,tessicustomermarketing.fr,SampledEU,TRUE,FALSE,Not Reachable - Manual,no
+3057385,casaunceeveecentra.sbs,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3061681,uio82q.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3068359,ostseepark-rostock.eu,Sampled1k,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3071573,battenandshawinc.com,Sampled1k,FALSE,FALSE,notice,notice
+3074710,lojadoparabrisa.com.br,Sampled1k,FALSE,FALSE,notice,notice
+3074938,tnews.pt,SampledEU,TRUE,FALSE,no,no
+3076939,evoolikngbprc.shop,Sampled1k,FALSE,FALSE,no,no
+3082491,local-meat-farms-near-me-12.de,SampledEU,TRUE,FALSE,no,no
+3085572,dreamspaces.net,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3086829,joycasino777.ru,Sampled1k,FALSE,FALSE,no,no
+3089050,fgfg7.com,Sampled1k,FALSE,FALSE,no,no
+3092511,xvivoperfusion.com,Sampled1k,FALSE,FALSE,full xa,manage xa
+3093269,fortijames.net,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3094225,betitall.eu,Sampled1k,TRUE,FALSE,no,no
+3102402,stsbergedorf.de,SampledEU,TRUE,FALSE,no,no
+3102652,interpress.pl,SampledEU,TRUE,FALSE,no,no
+3102950,rusnest.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3107178,ath.waw.pl,SampledEU,TRUE,FALSE,no,no
+3110795,i2edu.net,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+3110805,1wfrub.top,Sampled1k,FALSE,FALSE,no,no
+3112371,cryptobosscasino57.com,Sampled1k,FALSE,FALSE,no,Not Reachable - Manual
+3112545,straznynet.cz,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3118629,alpheraprotection.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3119132,arithmetica.at,SampledEU,TRUE,FALSE,full choices,full choices
+3119456,auto9yin.net,Sampled1k,FALSE,FALSE,no,no
+3120093,berkshirewalkers.co.uk,Sampled1k,TRUE,FALSE,full-m,full-m
+3121193,californianwines.eu,SampledEU,TRUE,FALSE,full,full
+3126721,globalcms.co.uk,SampledEU,TRUE,FALSE,no,no
+3127053,greenplanetnews.it,SampledEU,TRUE,FALSE,full,full
+3128155,hull-awe.org.uk,SampledEU,TRUE,FALSE,no,no
+3132784,moto-enxada.com.pt,SampledEU,TRUE,FALSE,full,full
+3134110,nxswmfzu.rest,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3138117,shellcornerpartnership.co.uk,SampledEU,TRUE,FALSE,no,no
+3140773,towcentric.com,Sampled1k,FALSE,FALSE,no,no
+3149099,bartoszgajdemski.pl,SampledEU,TRUE,FALSE,no,no
+3152848,deutsche-jagdakademie.de,SampledEU,TRUE,FALSE,no,no
+3153263,dnpindiahindi.in,Sampled1k,FALSE,FALSE,manage,no
+3155126,feel-ing.hu,SampledEU,TRUE,FALSE,full xa,full xa
+3155183,fexxio.nl,SampledEU,TRUE,FALSE,no,no
+3156249,gemlink-digital.fr,SampledEU,TRUE,FALSE,no,no
+3158264,ifswangen.de,SampledEU,TRUE,FALSE,no,no
+3161007,lingadore.nl,SampledEU,TRUE,FALSE,full,full
+3163550,nationalebouwgids.nl,SampledEU,TRUE,FALSE,full,full
+3164619,onderbouwdonline.nl,Sampled1k,TRUE,FALSE,no,no
+3167606,runlocalshop.com,Sampled1k,FALSE,FALSE,no,no
+3172822,vtech.bio,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3177971,mfc26kir.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3178556,okaya-seiritsu.co.jp,Sampled1k,FALSE,FALSE,no,no
+3182160,mlegacy.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3182566,diekolumnisten.de,SampledEU,TRUE,FALSE,manage,manage
+3184435,maruri.ne.jp,Sampled1k,FALSE,FALSE,no,no
+3185277,jhhuaneng.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3192569,wondergreece.gr,SampledEU,TRUE,FALSE,Not Reachable - Manual,no
+3196674,googas.ru,Sampled1k,FALSE,FALSE,no,no
+3202708,aii2023.org,Sampled1k,FALSE,FALSE,no,no
+3202786,babyworkbooke.ru,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3213937,mediasolutions.nl,Sampled1k,TRUE,FALSE,full-m,full-m
+3215750,gazella.com,Sampled1k,FALSE,FALSE,notice,notice
+3218578,sozler.in,Sampled1k,FALSE,FALSE,no,no
+3220569,rjek.com,Sampled1k,FALSE,FALSE,no,no
+3221109,ogura-sousai.co.jp,Sampled1k,FALSE,FALSE,no,no
+3222703,nycommonpantry.org,Sampled1k,FALSE,FALSE,no,no
+3223793,neutrope.com,Sampled1k,FALSE,FALSE,no,no
+3226352,accelerh.fr,SampledEU,TRUE,FALSE,no,no
+3231820,deutsche-fondsrettung.de,SampledEU,TRUE,FALSE,no,no
+3232765,eatucafe.com,Sampled1k,FALSE,FALSE,no,no
+3235303,gigarent.it,Sampled1k,TRUE,FALSE,manage,no
+3237028,iautomatyka.pl,Sampled1k,TRUE,FALSE,choices,choices
+3240443,mahurashop.com,Sampled1k,FALSE,FALSE,no,no
+3241509,molsa.com.sg,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3246137,rsnightshop.fr,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3247003,serviciotecnicobarcelona-daiksat.com.es,SampledEU,TRUE,FALSE,no,no
+3248488,sushimasa.vn,Sampled1k,FALSE,FALSE,no,no
+3250927,ville-champssurmarne.fr,SampledEU,TRUE,FALSE,2 banners,2 banners
+3251494,web-seo-design.cz,SampledEU,TRUE,FALSE,no,no
+3252382,xn--urlaub-sorts-strand-16b.de,SampledEU,TRUE,FALSE,full,full
+3258938,oom.au,Sampled1k,FALSE,FALSE,no,no
+3259295,diakonie-traunstein.de,SampledEU,TRUE,FALSE,full choices,full choices
+3259652,verrus.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3275430,ibi-transit.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3276299,ulrichoehmen.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3286926,t-shirt-mariage.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3287594,arialhost.ro,SampledEU,TRUE,FALSE,no,no
+3291417,elcom.bg,SampledEU,TRUE,FALSE,no,no
+3301052,kqqcdiurz.info,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3303404,spedition-schwarz.com,Sampled1k,FALSE,FALSE,full,full
+3304174,cci.dk,SampledEU,TRUE,FALSE,no,no
+3305405,forticloud.sk,SampledEU,TRUE,FALSE,no,no
+3309791,aentgood.nl,SampledEU,TRUE,FALSE,no,Not Reachable - Manual
+3313377,berghotel-brotjacklriegel.de,SampledEU,TRUE,FALSE,no,no
+3314194,bluesparrow.net,Sampled1k,FALSE,FALSE,full xa,no
+3320236,downamonthcars.xyz,Sampled1k,FALSE,FALSE,no,no
+3321753,eoooa.com,Sampled1k,FALSE,FALSE,no,no
+3322127,eurofast.nl,Sampled1k,TRUE,FALSE,no,no
+3323149,filmydhoom.biz,Sampled1k,FALSE,FALSE,no,no
+3323353,fktools.ae,Sampled1k,FALSE,FALSE,no,no
+3323970,freexxxland.al,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3324652,gatona.com,Sampled1k,FALSE,FALSE,no,no
+3327515,homeshore.be,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3336293,mlightronic.de,Sampled1k,TRUE,FALSE,no,no
+3337050,mtssh.pw,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3340244,ovan.com.vn,Sampled1k,FALSE,FALSE,no,no
+3340322,ozgcamh.homes,Sampled1k,FALSE,FALSE,no,no
+3341267,pharmaceris.pl,Sampled1k,TRUE,FALSE,manage,manage
+3344101,reedbrandt.de,SampledEU,TRUE,FALSE,no,no
+3344262,renpho.de,SampledEU,TRUE,FALSE,full,no
+3347962,songkit.io,Sampled1k,FALSE,FALSE,no,no
+3350384,telus.es,SampledEU,TRUE,FALSE,no,no
+3350539,tetroshop.site,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3350619,thanglongosc.edu.vn,Sampled1k,FALSE,FALSE,no,no
+3352628,u76mg207nv.bond,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3354791,wbmwwney.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3359020,gamacasino522.com,Sampled1k,FALSE,FALSE,no,no
+3360355,data-bex.com,Sampled1k,FALSE,FALSE,no,no
+3362187,miraclesportspub.com,Sampled1k,FALSE,FALSE,no,no
+3363668,verzekeringen-deweerdt.be,SampledEU,TRUE,FALSE,full xa,full xa
+3367596,searchengines.bg,SampledEU,TRUE,FALSE,notice,notice
+3369236,mysosh.com,Sampled1k,FALSE,FALSE,no,no
+3373647,coffeetheme.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3375280,vitapharm24.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3377748,truereligion-jeans.org.uk,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3380005,fair-bianca.com,Sampled1k,FALSE,FALSE,no,no
+3384792,krones-recycling.eu,Sampled1k,TRUE,FALSE,full choices,full choices
+3391222,orbitdemos.com,Sampled1k,FALSE,FALSE,no,no
+3394091,icomnet.jp,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3394187,ongadgets.dk,SampledEU,TRUE,FALSE,no,no
+3396397,enprop.best,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3402221,assuropoil.it,SampledEU,TRUE,FALSE,full,full
+3403684,bat-opt.com.ua,Sampled1k,FALSE,FALSE,no,no
+3405096,bioethanolhaard-shop.nl,SampledEU,TRUE,FALSE,full-m,full-m
+3406100,boxerman.de,SampledEU,TRUE,FALSE,full,full
+3408307,chio.ro,SampledEU,TRUE,FALSE,full choices xa,full choices xa
+3414457,eskimas.lt,SampledEU,TRUE,FALSE,no,no
+3415145,fan-store.cz,Sampled1k,TRUE,FALSE,manage,manage
+3415817,fipavtaranto.it,SampledEU,TRUE,FALSE,no,no
+3418731,grand-vita.shop,Sampled1k,FALSE,FALSE,no,no
+3425203,kelkoo.pl,Sampled1k,TRUE,FALSE,full xa,full xa
+3426970,lacasadeljamon.com.es,Sampled1k,TRUE,FALSE,full,full
+3430969,mathenacht.de,SampledEU,TRUE,FALSE,no,no
+3431661,melodyparadj.com,Sampled1k,FALSE,FALSE,no,no
+3436797,onexia.co.kr,Sampled1k,FALSE,FALSE,no,no
+3437449,owlypia.org.uk,SampledEU,TRUE,FALSE,no,no
+3446892,skyts.dk,SampledEU,TRUE,FALSE,choices,choices
+3449240,superskin.si,SampledEU,TRUE,FALSE,notice,notice
+3455589,webfree-official.jp,Sampled1k,FALSE,FALSE,no,no
+3459870,midatlanticwildlifecontrol.com,Sampled1k,FALSE,FALSE,no,no
+3460168,lilarot.eu,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3461539,giveitweb.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3461659,depend.it,SampledEU,TRUE,FALSE,full,full
+3464040,reuter.pt,SampledEU,TRUE,FALSE,no,full
+3466794,txsv.net,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3467709,bluecapital.dk,SampledEU,TRUE,FALSE,full choices,full choices
+3474907,bekaem.pl,Sampled1k,TRUE,FALSE,Not Reachable - Manual,no
+3475311,biqugexszw.com,Sampled1k,FALSE,FALSE,no,no
+3475356,biteskart.com,Sampled1k,FALSE,FALSE,no,no
+3477554,clautcloseupcogen.art,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3481346,eventsense.co.uk,SampledEU,TRUE,FALSE,full-m,full-m
+3487184,juangindo4dpools.com,Sampled1k,FALSE,FALSE,no,no
+3488475,lasana.es,SampledEU,TRUE,FALSE,full,full
+3489095,livenation-promotion.de,SampledEU,TRUE,FALSE,no,no
+3489170,lmpjx.cn,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3490372,mediatux.com,Sampled1k,FALSE,FALSE,no,no
+3490776,mightyshare.io,Sampled1k,FALSE,FALSE,no,no
+3497341,saintpierredumont.fr,Sampled1k,TRUE,FALSE,full choices,full choices
+3497466,sanmarinomail.it,SampledEU,TRUE,FALSE,notice,notice
+3498656,skript-mc.fr,Sampled1k,TRUE,FALSE,no,no
+3508749,garderob.app,Sampled1k,FALSE,FALSE,no,no
+3515923,pyelis.us,Sampled1k,FALSE,FALSE,no,Not Reachable - Manual
+3516615,maibojc.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3519847,webstyleexpert.ro,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3523423,makaronniki.ru,Sampled1k,FALSE,FALSE,no,no
+3524638,eisenfischer.de,SampledEU,TRUE,FALSE,manage,manage
+3533062,robert-harewood.com,Sampled1k,FALSE,FALSE,no,no
+3537478,jjstudiosphiladelphia.com,Sampled1k,FALSE,FALSE,no,no
+3540538,poreshaem.top,Sampled1k,FALSE,FALSE,no,no
+3542481,litobyg.dk,SampledEU,TRUE,FALSE,full,full
+3548152,s7024witzacb.online,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3550045,firstrow1us.eu,SampledEU,TRUE,FALSE,no,no
+3551136,sdpxmm.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3551158,ruharbin.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3552986,webvariant.com,Sampled1k,FALSE,FALSE,no,no
+3553349,drshadaab.com,Sampled1k,FALSE,FALSE,no,no
+3554969,scormfly.com,Sampled1k,FALSE,FALSE,no,no
+3555605,f-w.com,Sampled1k,FALSE,FALSE,no,no
+3558454,dhnd.info,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3559613,bdns.eu,SampledEU,TRUE,FALSE,no,no
+3559914,pocmicrosolutions.com,Sampled1k,FALSE,FALSE,full xa,no
+3560074,alstertal-einkaufszentrum.de,SampledEU,TRUE,FALSE,full,full
+3561074,baixinju.cn,Sampled1k,FALSE,FALSE,no,no
+3561277,unpegsvesselsvetoist.art,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3563719,12jyyu06.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3563960,wawerko.de,Sampled1k,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3564893,tichealth.co.uk,SampledEU,TRUE,FALSE,full xa,full xa
+3567032,puravent.co.uk,Sampled1k,TRUE,FALSE,no,no
+3588027,55818app.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3588419,ip-46-105-88.eu,SampledEU,TRUE,FALSE,no,no
+3594134,lehrlingstest.at,SampledEU,TRUE,FALSE,full choices xa,full choices xa
+3594226,x-potato.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3597463,birdbroseggs.co.uk,SampledEU,TRUE,FALSE,notice,notice
+3597833,fwv.de,SampledEU,TRUE,FALSE,full,full
+3599613,centrudesticla.ro,SampledEU,TRUE,FALSE,full xa,full xa
+3601359,punchybooks.co,Sampled1k,FALSE,FALSE,full-m,no
+3602626,sapjer.com,Sampled1k,FALSE,FALSE,no,no
+3605329,fc-deji.com,Sampled1k,FALSE,FALSE,no,no
+3605770,healthdish.com,Sampled1k,FALSE,FALSE,full,no
+3615128,gaylord.k12.mi.us,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3617882,webcreator.hu,SampledEU,TRUE,FALSE,no,no
+3622236,viredf.vip,Sampled1k,FALSE,FALSE,no,no
+3624645,ohranatruda-nk.ru,Sampled1k,FALSE,FALSE,no,no
+3626491,m9ga.at,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3626716,yuzs.ir,Sampled1k,FALSE,FALSE,no,no
+3630185,szpital-mragowo.pl,SampledEU,TRUE,FALSE,full-m xa,full-m xa
+3630434,jrptaxserviceinc.com,Sampled1k,FALSE,FALSE,no,no
+3631095,agata.lt,SampledEU,TRUE,FALSE,full,full
+3635109,thegurkhapalaceonline.co.uk,SampledEU,TRUE,FALSE,Not Reachable - Manual,no
+3638530,marathonzeeland.nl,SampledEU,TRUE,FALSE,no,no
+3642098,appartaments.it,Sampled1k,TRUE,FALSE,full-m,full-m
+3643081,absa.co.mu,Sampled1k,FALSE,FALSE,notice,notice
+3643286,cialisonlinerx.com,Sampled1k,FALSE,FALSE,no,no
+3643307,hj82d.xyz,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+3645654,robohoster.in,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3645960,stickee.co.uk,SampledEU,TRUE,FALSE,no,notice
+3646749,finanzaspracticas.cl,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3649642,1whakj.top,Sampled1k,FALSE,FALSE,no,no
+3650221,powerade-service.fr,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3650390,swell-industry.com,Sampled1k,FALSE,FALSE,no,no
+3661117,visapurchasealert.com,Sampled1k,FALSE,FALSE,full,full
+3664401,apspv.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3665465,tronamovie.com,Sampled1k,FALSE,FALSE,no,no
+3665751,hauc-uk.org.uk,SampledEU,TRUE,FALSE,manage,manage
+3675742,in-safe.it,Sampled1k,TRUE,FALSE,full xa,full xa
+3681677,rdfccs.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3682231,verbcms.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3685007,theturntablestore.com,Sampled1k,FALSE,FALSE,no,no
+3692961,hostidium.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3693794,manservic.es,SampledEU,TRUE,FALSE,full-m,full-m
+3701580,autosica.it,SampledEU,TRUE,FALSE,full choices,full choices
+3702505,sisystemsrecruitment.com,Sampled1k,FALSE,FALSE,full-m,full-m
+3704660,hostingandes.eu,SampledEU,TRUE,FALSE,no,no
+3705924,halpata.shop,Sampled1k,FALSE,FALSE,no,no
+3711347,thecharitablepill.com,Sampled1k,FALSE,FALSE,full xa,SETTINGS ONLY xa
+3712463,marcheseford.com,Sampled1k,FALSE,FALSE,no,no
+3721048,cookierunoven.com,Sampled1k,FALSE,FALSE,no,no
+3722907,iranhealthexhibition.ir,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3726050,ljudski.ba,Sampled1k,FALSE,FALSE,manage,no
+3731162,grupoplantar.net.br,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3734315,hess-kassel.de,SampledEU,TRUE,FALSE,full,full
+3734593,mania-douga.tokyo,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3735211,ip-51-255-66.eu,Sampled1k,TRUE,FALSE,no,no
+3735928,chusankan.net,Sampled1k,FALSE,FALSE,no,no
+3748208,hfr.ch,Sampled1k,FALSE,FALSE,no,no
+3749000,zealnetwork.co.uk,SampledEU,TRUE,FALSE,full choices,full choices
+3749257,fishroom.pt,SampledEU,TRUE,FALSE,full-m,full-m
+3751088,blackrock.nl,SampledEU,TRUE,FALSE,Not Reachable - Manual,no
+3751529,asaderocien.com,Sampled1k,FALSE,FALSE,no,no
+3762175,slovakian-mountains.eu,SampledEU,TRUE,FALSE,full,full
+3764945,dforce2.com,Sampled1k,FALSE,FALSE,full,no
+3766507,s1m.com,Sampled1k,FALSE,FALSE,no,no
+3766972,tokai-gasket.co.jp,Sampled1k,FALSE,FALSE,no,no
+3769839,sportsman24.com,Sampled1k,FALSE,FALSE,notice,notice
+3772035,seveninformatica.net.br,Sampled1k,FALSE,FALSE,no,no
+3773732,lawrencemanagement.com,Sampled1k,FALSE,FALSE,no,no
+3775263,psd-kiel.de,SampledEU,TRUE,FALSE,no,full choices
+3778233,efcstadiumservices.co.uk,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3780757,advicestopics.ru,Sampled1k,FALSE,FALSE,no,Not Reachable - Manual
+3782556,infoo97.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3783643,kevin-fleischmann.de,SampledEU,TRUE,FALSE,no,no
+3789724,mxkn23dss11.com,Sampled1k,FALSE,FALSE,no,no
+3791977,lomiraauto.com,Sampled1k,FALSE,FALSE,no,no
+3795042,imperiavastgoed.be,SampledEU,TRUE,FALSE,choices,choices
+3806888,americanbeagleoutfitters.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,manage
+3810661,active-c.jp,Sampled1k,FALSE,FALSE,no,no
+3812093,dr-krok.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3812477,eco2013.info,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3815376,eda29.ru,Sampled1k,FALSE,FALSE,no,no
+3816018,aldi-direct.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+3817144,serviciosvpnnica.shop,Sampled1k,FALSE,FALSE,no,no
+3824914,stopillegaldumping.net,Sampled1k,FALSE,FALSE,no,no
+3825146,yoox.com.in,Sampled1k,FALSE,FALSE,no,no
+3828844,cruiselife.co.jp,Sampled1k,FALSE,FALSE,no,no
+3829454,zaksys.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3831444,sdtelecom.de,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3838592,schulnetz-koblenz.de,SampledEU,TRUE,FALSE,no,no
+3840081,hagelstein.be,SampledEU,TRUE,FALSE,no,no
+3844900,fsbosen.cn,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3848187,aluminijumskeograde.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3848818,b-a-w.net,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3848918,h.com.vn,Sampled1k,FALSE,FALSE,full-m,no
+3850726,pwcras.co.uk,Sampled1k,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3858628,layer8lv.net,Sampled1k,FALSE,FALSE,no,no
+3859964,katsuyamaft.co.jp,Sampled1k,FALSE,FALSE,no,no
+3872765,sitebistro.ru,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3873121,dysonhyperdymium.in,Sampled1k,FALSE,FALSE,full,notice
+3874221,argos.ltd.uk,Sampled1k,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3876268,btv.ro,SampledEU,TRUE,FALSE,manage,no
+3876932,bloomberg.it,SampledEU,TRUE,FALSE,full,notice
+3883250,xn----jeui4a9b9cybq1g5kqbxl.net,Sampled1k,FALSE,FALSE,full,manage xa
+3885696,qfkcsh.com,Sampled1k,FALSE,FALSE,no,no
+3888283,fordcellessurbelle.fr,SampledEU,TRUE,FALSE,full,full
+3895065,cernerhealth.net,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3896824,reckitt.us,Sampled1k,FALSE,FALSE,manage,manage
+3899106,654077.com,Sampled1k,FALSE,FALSE,no,no
+3906496,jclrrs.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3912031,photosf.ca,Sampled1k,FALSE,FALSE,no,no
+3914810,r3capitalpartner.jp,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3921940,fordcrepin.fr,SampledEU,TRUE,FALSE,full,full
+3922111,npl-usa-host.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3922481,jll.sk,SampledEU,TRUE,FALSE,no,no
+3923712,kazino-azerbaijan.opole.pl,SampledEU,TRUE,FALSE,no,no
+3925973,s-quin.de,Sampled1k,TRUE,FALSE,full,full
+3925977,rosell.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3927015,prontoairduct.com,Sampled1k,FALSE,FALSE,no,no
+3933641,webbhotellgruppen.se,SampledEU,TRUE,FALSE,no,no
+3933677,hedefhost.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3934504,completeprotrainer.net,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3935360,wellcom.be,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3935620,cloakmotorsports.com,Sampled1k,FALSE,FALSE,no,no
+3940544,idehost.ir,Sampled1k,FALSE,FALSE,no,no
+3951189,daviji.com,Sampled1k,FALSE,FALSE,no,no
+3952163,nanojuice.de,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3955728,peloton-events.co.uk,Sampled1k,TRUE,FALSE,no,no
+3956900,web3.co.uk,SampledEU,TRUE,FALSE,no,no
+3958787,orchardvetromsey.co.uk,SampledEU,TRUE,FALSE,full,full
+3960240,theheartofjoy.at,SampledEU,TRUE,FALSE,full-m,full-m
+3964160,maia-go.pt,SampledEU,TRUE,FALSE,no,no
+3972788,affiliate.co.uk,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3973205,rpmarketplace.com,Sampled1k,FALSE,FALSE,no,no
+3978467,croquettesbyhmc.be,Sampled1k,TRUE,FALSE,no,no
+3980294,adressinformationen.de,SampledEU,TRUE,FALSE,full,full
+3982470,banque-chaix.fr,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+3984417,ip-91-121-39.eu,Sampled1k,TRUE,FALSE,no,no
+3987079,nowaj.com,Sampled1k,FALSE,FALSE,no,no
+3995528,incusperformance.com,Sampled1k,FALSE,FALSE,no,no
+3997783,788b.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3998067,muzhifeng.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+3999436,eurotoll.eu,Sampled1k,TRUE,FALSE,notice,notice
+4005265,novapath.de,SampledEU,TRUE,FALSE,full choices,full choices
+4010121,fathom.us,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4011091,setca-fgtb.be,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4012285,cameupinthedrought.com,Sampled1k,FALSE,FALSE,no,no
+4016597,jens.jp,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4018351,imaginationplus.ca,Sampled1k,FALSE,FALSE,no,Not Reachable - Manual
+4019758,grajdanskisavet.bg,SampledEU,TRUE,FALSE,no,no
+4019910,allerganacademy.it,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+4021336,unicrefia.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,no
+4022194,glazeritedevelopments.co.uk,Sampled1k,TRUE,FALSE,no,no
+4025124,chill.ro,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4034843,theprinterdepo.com,Sampled1k,FALSE,FALSE,no,no
+4039874,factorylab.nl,SampledEU,TRUE,FALSE,full,full
+4041068,durex-store.it,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4044288,tetec-mueller.com,Sampled1k,FALSE,FALSE,notice,notice
+4048711,cincomedioshosting.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+4049915,bluelavazza.com,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+4050790,deltarelay.be,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4056043,bellamodelo.com,Sampled1k,FALSE,FALSE,no,no
+4057710,unlockkings.us,Sampled1k,FALSE,FALSE,no,no
+4061484,dandelions.gr,SampledEU,TRUE,FALSE,full choices xa,full choices xa
+4061643,rjbkqpqcfax.biz,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4065063,amethystgroup.ru,Sampled1k,FALSE,FALSE,no,no
+4067382,ewaluacja.gov.pl,Sampled1k,TRUE,FALSE,no,no
+4071690,saintbodhimusic.com,Sampled1k,FALSE,FALSE,full,manage
+4073105,heresamsterdam.com,Sampled1k,FALSE,FALSE,no,no
+4074229,oeoe.to,Sampled1k,FALSE,FALSE,no,no
+4077710,ovosound.io,Sampled1k,FALSE,FALSE,no,no
+4078551,hothouse-design.co.uk,SampledEU,TRUE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+4080180,943636.com,Sampled1k,FALSE,FALSE,no,no
+4085552,ebx.co,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4087500,liberyseguros.com,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4092007,farmaciacostacabana.es,SampledEU,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4094321,sspseals.com,Sampled1k,FALSE,FALSE,no,no
+4095145,seriesypelis24.com,Sampled1k,FALSE,FALSE,no,no
+4096574,tregotrokestubaist.blog,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+4098259,yourcreditcounts.net,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4098716,cala-luna.de,SampledEU,TRUE,FALSE,no,no
+4101499,autogaardenkerteminde.dk,Sampled1k,TRUE,FALSE,full choices,full choices
+4107948,m-i-r.biz,Sampled1k,FALSE,FALSE,no,no
+4110019,nordexfood.dk,Sampled1k,TRUE,FALSE,preselected,preselected
+4111314,tausendideen.de,SampledEU,TRUE,FALSE,manage,manage
+4111833,weforumibc.us,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4113405,centrumhoteli.pl,Sampled1k,TRUE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4116176,matthewsfoodsonline.co.uk,SampledEU,TRUE,FALSE,no,no
+4121272,gmtech.us,Sampled1k,FALSE,TRUE,Not Reachable - DNS,Not Reachable - DNS
+4122058,siv.de,SampledEU,TRUE,FALSE,full,full
+4124504,libertymutualcampaigntracker.net,Sampled1k,FALSE,FALSE,Not Reachable - Manual,Not Reachable - Manual
+4124529,kmrhost.com,Sampled1k,FALSE,FALSE,no,no
+4125236,baecker-mayer.net,Sampled1k,FALSE,FALSE,no,no
+4125629,elekta.lt,SampledEU,TRUE,FALSE,manage,manage
